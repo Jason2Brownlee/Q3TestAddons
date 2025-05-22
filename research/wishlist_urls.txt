@@ -38,3 +38,6 @@ http://planetquake.gamespy.com/quake3/headhunters/hhq3/386enh.zip
 http://www.planetquake.com/cdrom/headhunters/hhq3/386enh.zip
 http://www.q3arena.pl/download/add/386enh.zip
 
+# maxfps105
+http://trehorn.splatterworld.de/maxfps105.zip
+http://www.q3arena.pl/download/q3test/win/maxfps105.exe

@@ -19,7 +19,8 @@ skinpack1.zip
 
 # tools
 maxfps105.exe
-md3.zip
+maxfps105.zip
+
 
 # ?
 q3jbbeta1_1.pk3
