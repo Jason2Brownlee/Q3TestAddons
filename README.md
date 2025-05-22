@@ -31,8 +31,7 @@ skinpack1.zip | Additional Skins Q3Test 1.08 with 159 maps and skins
 File | Description
 --- | ---
 Q3EntityEd.zip | Q3 Entitiy Editor v1.0
-Q3Tweek1043.exe | Quake3 Tweek v1043
-[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Quake3 Tweek v1050
+Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Quake3 Tweak
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
 [QuakeStarter-v0.73b.zip](bin/QuakeStarter-v0.73b.zip) | Q3Test Starter
 [funname.zip](bin/funname.zip) | Fun name script
