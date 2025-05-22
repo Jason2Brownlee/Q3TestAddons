@@ -42,3 +42,7 @@ q3retex | Texture replacement tool
 qping.zip | ?
 AddMap18.exe
 addmap17.exe
+
+
+q3jbbeta | jailbreak??
+	https://discmaster.textfiles.com/search?q=q3jbbeta&mode=deep

@@ -19,7 +19,9 @@ RevRL.zip | Less rocket trail smoke
 [Scripts.zip](bin/Scripts.zip) | Bot Configs
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
 [binah.zip](bin/binah.zip) | map Q3T v1.08
+[bot.zip](bin/bot.zip) | Q3Test Bots v1.05
 [estafun.zip](bin/estafun.zip) | map Q3T v1.08
+[funname.zip](bin/funname.zip) | Fun name script
 [gdm1_q3.zip](bin/gdm1_q3.zip) | map Q3T v1.08
 [goregravec.zip](bin/goregravec.zip) | map Q3T v1.08
 [hardm1.zip](bin/hardm1.zip) | map Q3T v1.08
@@ -47,7 +49,6 @@ RevRL.zip | Less rocket trail smoke
 [traq3a2.zip](bin/traq3a2.zip) | map Q3T v1.08
 [tunnel.zip](bin/tunnel.zip) | map Q3T v1.08
 dm6.zip | Q1 DM6 for Q3Test
-funname.zip | Fun name script
 l33tq3a102.zip | l33t Q3A partial conversion
 maxfps105.exe | Max FPS for Q3 1.05
 q3bot98.exe | Q3Test Bots for Win98

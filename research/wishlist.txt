@@ -22,5 +22,3 @@ maxfps105.exe
 maxfps105.zip
 
 
-# ?
-q3jbbeta1_1.pk3
