@@ -63,6 +63,5 @@ https://www.geocities.ws/dinkhotline/q3/Q3Wumpass1.05-1.06.zip
 # the-edge.zip
 http://www.geocities.com/dinkhotline/q3/the-edge.zip
 
-# q3test107-crk.zip
-http://www.xaos.ag.ru/tmp/quake3/q3test107-crk.zip
+
 

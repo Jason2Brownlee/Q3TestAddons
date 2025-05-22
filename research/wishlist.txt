@@ -42,4 +42,3 @@ q3atc51.zip
 q3atcfix1.zip
 q3atcserver.zip
 
-q3test107-crk.zip
