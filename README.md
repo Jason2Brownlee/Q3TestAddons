@@ -42,7 +42,7 @@ Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Quake3 T
 [q3aTotalControl31.zip](bin/q3aTotalControl31.zip) | Q3A Total Control
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3t108crack.zip](bin/q3t108crack.zip) | Crack for q3test v1.08
-[q3wumpass.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip | Convert Q3Test maps
+[q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip | Convert Q3Test maps
 maxfps105.exe | Max FPS for Q3 1.05
 q3-cracks.zip | Cracks for all Q3Test versions
 q3dcrk-10.zip | Q3Test v1.09 Crack
