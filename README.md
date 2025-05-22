@@ -54,8 +54,7 @@ File | Description
 --- | ---
 [Scripts.zip](bin/Scripts.zip) | Bot Configs
 [bot.zip](bin/bot.zip) | Q3Test Bots v1.05
-[q3tbots-1.1.zip](bin/q3tbots-1.1.zip) | Add bots to q3test v1.05 v1.1
-[q3tbots.zip](bin/q3tbots.zip) | Add bots to q3test v1.05 v1.0
+[q3tbots.zip](bin/q3tbots.zip)<br>[q3tbots-1.1.zip](bin/q3tbots-1.1.zip) | Add bots to q3test v1.05
 q3bot98.exe | Q3Test Bots for Win98
 
 ### Q3Test Maps
