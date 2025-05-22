@@ -41,3 +41,57 @@ http://www.q3arena.pl/download/add/386enh.zip
 # maxfps105
 http://trehorn.splatterworld.de/maxfps105.zip
 http://www.q3arena.pl/download/q3test/win/maxfps105.exe
+
+# q3test.zip
+http://24.72.5.78/dink/q3test.zip
+
+# q3-cracks.zip
+https://www.geocities.ws/dinkhotline/q3/q3-cracks.zip
+
+# Q3EntityEd.zip
+https://www.geocities.ws/dinkhotline/q3/Q3EntityEd.zip
+
+# Q3Wumpass1.05-1.06.zip
+https://www.geocities.ws/dinkhotline/q3/Q3Wumpass1.05-1.06.zip
+
+# the-edge.zip
+http://www.geocities.com/dinkhotline/q3/the-edge.zip
+
+
+
+ROUND.ZIP
+S20_DM.zip
+S20_DM1.zip
+S20_dm2a.zip
+SPAZ.ZIP
+XxUBERxX.zip
+aeroq3.zip
+dakyne4-q3.zip
+deadlysins.zip
+dm3a.zip
+dm_portal1.zip
+fact3.zip
+km_portal.zip
+majq3dm1beta.zip
+morerail.zip
+mq3.zip
+poleyard.zip
+q1q3dm3.zip
+q1q3dm4.zip
+q1q3dm6z.zip
+q1q3dm7.zip
+q3-q2dm8.zip
+q3105b.zip
+q32am.zip
+q3arail.zip
+q3doom2_map06.zip
+q3doom2_map07.zip
+q3joe2.zip
+q3q1dm1.zip
+q3q1e1m7.zip
+q3q2dm1-converter.zip
+q3q2dm1.zip
+q3q3a.zip
+q3test_expansion_pack.zip
+tim_dm1.zip
+wasted.zip
