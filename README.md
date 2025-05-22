@@ -34,6 +34,7 @@ Q3EntityEd.zip | Q3 Entitiy Editor v1.0
 Q3Tweek1043.exe | Quake3 Tweek v1043
 [Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Quake3 Tweek v1050
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
+[QuakeStarter-v0.73b.zip](bin/QuakeStarter-v0.73b.zip) | Q3Test Starter
 [funname.zip](bin/funname.zip) | Fun name script
 [gnb132sw.exe](bin/gnb132sw.exe)<br>[gnbp134.exe](bin/gnbp134.exe)<br>[gnbp144.exe](bin/gnbp144.exe)<br>[gnb163sw.exe](bin/gnb163sw.exe)<br>[gnbp163.exe](bin/gnbp163.exe)<br>[gnb182sw.exe](bin/gnb182sw.exe)<br>[gnbp182.exe](bin/gnbp182.exe)| Game Name Builder
 [md3.zip](bin/md3.zip) | MD3VIEW Model Viewer
