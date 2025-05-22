@@ -1,0 +1,41 @@
+# Known historical locations of wishlist files
+
+# Q3TEST_Expansion_Pack.zip
+http://hackfleisch.de/Q3TEST_Expansion_Pack.zip
+http://members.home.com/broken1/Q3TEST_Expansion_Pack.zip
+http://www.captured.com/underground/news/Q3TEST_Expansion_Pack.zip
+http://www.hackfleisch.de/Q3TEST_Expansion_Pack.zip
+http://www.playdevil.com/pdevil/files/Q3TEST_Expansion_Pack.zip
+http://www.primorye.ru/quake/files%5Cq3%5CQ3TEST_Expansion_Pack.zip
+http://www.primorye.ru/quake/files/q3/Q3TEST_Expansion_Pack.zip
+http://www.q3arena.pl/download/add/Q3TEST_Expansion_Pack.zip
+http://www.quake3.dk/ftp/Q3TEST_Expansion_Pack.zip
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestex1&d_url=http://www.hackfleisch.de/Q3TEST_Expansion_Pack.zip
+
+# l33tq3a102.zip
+http://www.trendkill.net/files/l33tq3a102.zip
+http://www.q3arena.pl/download/add/l33tq3a102.zip
+
+# tim_dm1.zip
+http://www.captured.com/underground/news/tim_dm1.zip
+http://www.fortunecity.com/underworld/shootout/580/files/tim_dm1.zip
+http://www.primorye.ru/quake/files%5Cq3%5Ctim_dm1.zip
+http://www.primorye.ru/quake/files/q3/tim_dm1.zip
+
+# dm6.zip
+http://www.primorye.ru/quake/files/q3/dm6.zip
+
+# skinpack1.zip
+http://www.primorye.ru/quake/files/q3/skinpack1.zip
+
+
+# Q3Wumpass.exe
+http://www.captured.com/underground/news/Q3Wumpass.exe
+
+# 386enh.zip
+http://planetquake.gamespy.com/headhunters/hhq3/386enh.zip
+http://planetquake.gamespy.com/pagetools/headhunters/hhq3/386enh.zip
+http://planetquake.gamespy.com/quake3/headhunters/hhq3/386enh.zip
+http://www.planetquake.com/cdrom/headhunters/hhq3/386enh.zip
+http://www.q3arena.pl/download/add/386enh.zip
+

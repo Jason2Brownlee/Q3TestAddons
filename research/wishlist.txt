@@ -1,0 +1,26 @@
+# File Wishlist
+# ---------------------------
+
+# packs
+Q3TEST_Expansion_Pack.zip
+tim_dm1.zip
+l33tq3a102.zip
+RevRL.zip
+386enh.zip
+
+# maps
+dm6.zip
+
+# cracks
+q3bot98.exe
+
+# skins
+skinpack1.zip
+
+# tools
+Q3Wumpass.exe
+maxfps105.exe
+md3.zip
+
+# ?
+q3jbbeta1_1.pk3
