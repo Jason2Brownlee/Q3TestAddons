@@ -35,6 +35,7 @@ Q3Tweek1043.exe | Quake3 Tweek v1043
 [Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Quake3 Tweek v1050
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
 [funname.zip](bin/funname.zip) | Fun name script
+[gnb132sw.exe](bin/gnb132sw.exe)<br>[gnbp134.exe](bin/gnbp134.exe)<br>[gnb163sw.exe](bin/gnb163sw.exe)<br>[gnbp163.exe](bin/gnbp163.exe)<br>[gnb182sw.exe](bin/gnb182sw.exe)<br>[gnbp182.exe](bin/gnbp182.exe)| Game Name Builder
 [md3.zip](bin/md3.zip) | MD3VIEW Model Viewer
 [q2toq3t.zip](bin/q2toq3t.zip) | Convert Quake2 maps to Q3Test v1.01
 [q2toq3t107.zip](bin/q2toq3t107.zip) | Q2 to Q3 Map Converter v1.07
