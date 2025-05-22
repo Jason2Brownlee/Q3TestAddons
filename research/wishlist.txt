@@ -18,7 +18,6 @@ q3bot98.exe
 skinpack1.zip
 
 # tools
-Q3Wumpass.exe
 maxfps105.exe
 md3.zip
 

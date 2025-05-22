@@ -28,9 +28,8 @@ http://www.primorye.ru/quake/files/q3/dm6.zip
 # skinpack1.zip
 http://www.primorye.ru/quake/files/q3/skinpack1.zip
 
-
-# Q3Wumpass.exe
-http://www.captured.com/underground/news/Q3Wumpass.exe
+# q3bot98.exe
+http://www.primorye.ru/quake/files/q3/q3bot98.exe
 
 # 386enh.zip
 http://planetquake.gamespy.com/headhunters/hhq3/386enh.zip

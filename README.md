@@ -13,7 +13,7 @@ File | Description
 386enh.zip | Extension to Q3
 Q3TEST_Expansion_Pack.zip | Q3Test Expansion Pack (weapons, maps, skins)
 Q3Tweek1043.exe | Quake III Tweek v1043
-Q3Wumpass.exe | Change Q3Test Map
+[q3wumpass.zip](bin/q3wumpass.zip) | Change Q3Test Map v1.05 and v1.06
 RevRL.zip | Less rocket trail smoke
 [105ctf.zip](bin/105ctf.zip) | CTF Ver 1.05 Final (includes crack) for Q3T v1.08
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
@@ -33,7 +33,7 @@ RevRL.zip | Less rocket trail smoke
 [q2toq3t.zip](bin/q2toq3t.zip) | Convert Quake2 maps to Q3Test v1.01
 [q3a_addon.zip](bin/q3a_addon.zip) | Pack of addons for q3test v1.05
 [q3e1m7a.zip](bin/q3e1m7a.zip) | map Q3T v1.08
-[q3namething.zip](bin/q3namething.zip) Q3NameThing
+[q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3q2dm1.zip](bin/q3q2dm1.zip) | Q2DM1 (the edge) for Q3Test
 [q3t108crack.zip](bin/q3t108crack.zip) | Crack for q3test v1.08
 [q3tbots-1.1.zip](bin/q3tbots-1.1.zip) | Add bots to q3test v1.05 v1.1
