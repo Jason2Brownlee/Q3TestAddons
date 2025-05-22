@@ -31,7 +31,7 @@ skinpack1.zip | Additional Skins Q3Test 1.08 with 159 maps and skins
 File | Description
 --- | ---
 Q3EntityEd.zip | Q3 Entitiy Editor v1.0
-Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Quake3 Tweak
+Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
 [QuakeStarter-v0.73b.zip](bin/QuakeStarter-v0.73b.zip) | Q3Test Starter
 [funname.zip](bin/funname.zip) | Fun name script
@@ -40,6 +40,7 @@ Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Quake3 T
 [q2toq3t.zip](bin/q2toq3t.zip) | Convert Quake2 maps to Q3Test v1.01
 [q2toq3t107.zip](bin/q2toq3t107.zip) | Q2 to Q3 Map Converter v1.07
 [q3aTotalControl31.zip](bin/q3aTotalControl31.zip) | Q3A Total Control
+[q3control.zip](bin/q3control.zip) | Q3 Controls
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3t108crack.zip](bin/q3t108crack.zip) | Crack for q3test v1.08
 [q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip | Convert Q3Test maps
