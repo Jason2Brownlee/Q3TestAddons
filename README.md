@@ -22,12 +22,15 @@ RevRL.zip | Less rocket trail smoke
 [sobpak7.zip](sobpak7.zip) | Pack with resources
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
 l33tq3a102.zip | l33t Q3A partial conversion
-skinpack1.zip | Additional Skins
+q3test.zip | Q3Test 1.08 with 159 maps and skins
+skinpack1.zip | Additional Skins Q3Test 1.08 with 159 maps and skins
+
 
 ### Q3Test Tools
 
 File | Description
 --- | ---
+Q3EntityEd.zip | Q3 Entitiy Editor v1.0
 Q3Tweek1043.exe | Quake III Tweek v1043
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
 [funname.zip](bin/funname.zip) | Fun name script
@@ -38,6 +41,10 @@ Q3Tweek1043.exe | Quake III Tweek v1043
 [q3t108crack.zip](bin/q3t108crack.zip) | Crack for q3test v1.08
 [q3wumpass.zip](bin/q3wumpass.zip) | Change Q3Test Map v1.05 and v1.06
 maxfps105.exe | Max FPS for Q3 1.05
+q3-cracks.zip | Cracks for all Q3Test versions
+q3dcrk-10.zip | Q3Test v1.09 Crack
+q3wumpass105-107.zip | Convert maps from 1.05 to 1.07
+
 
 ### Q3Test Bots
 
@@ -70,8 +77,8 @@ File | Description
 [traq3a2.zip](bin/traq3a2.zip) | traq3a2 map Q3T v1.08
 [tunnel.zip](bin/tunnel.zip) | tunnel map Q3T v1.08
 dm6.zip | Q1 DM6 for Q3Test
+the-edge.zip | q2dm1 The Edge
 tim_dm1.zip | tim_dm1 map
-
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Description**: indicates that we could not figure out the purpose of the file yet.

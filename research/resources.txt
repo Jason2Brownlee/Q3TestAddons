@@ -24,6 +24,8 @@ https://web.archive.org/web/19991113072315/http://www.q3arena.pl:80/
 https://web.archive.org/web/19991113223955/http://www.q3arena.pl/skiny.html
 	goodies
 https://www.geocities.ws/dinkhotline/q3/files.html
+https://www.geocities.ws/dinkhotline/q3/q3testversions.html
+https://www.geocities.ws/dinkhotline/q3/1.08maps.html
 	maps
 https://www.gamers.org/pub/games/idgames2/planetquake/ra2io/
 	stuff
