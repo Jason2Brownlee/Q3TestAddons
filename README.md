@@ -39,14 +39,13 @@ Q3Tweek1043.exe | Quake3 Tweek v1043
 [md3.zip](bin/md3.zip) | MD3VIEW Model Viewer
 [q2toq3t.zip](bin/q2toq3t.zip) | Convert Quake2 maps to Q3Test v1.01
 [q2toq3t107.zip](bin/q2toq3t107.zip) | Q2 to Q3 Map Converter v1.07
+[q3aTotalControl31.zip](bin/q3aTotalControl31.zip) | Q3A Total Control
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3t108crack.zip](bin/q3t108crack.zip) | Crack for q3test v1.08
-[q3wumpass.zip](bin/q3wumpass.zip) | Change Q3Test Map v1.05 and v1.06
+[q3wumpass.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip | Convert Q3Test maps
 maxfps105.exe | Max FPS for Q3 1.05
 q3-cracks.zip | Cracks for all Q3Test versions
 q3dcrk-10.zip | Q3Test v1.09 Crack
-q3wumpass105-107.zip | Convert maps from 1.05 to 1.07
-
 
 ### Q3Test Bots
 
