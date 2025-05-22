@@ -39,7 +39,7 @@ Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 [md3.zip](bin/md3.zip) | MD3VIEW Model Viewer
 [q2toq3t.zip](bin/q2toq3t.zip) | Convert Quake2 maps to Q3Test v1.01
 [q2toq3t107.zip](bin/q2toq3t107.zip) | Q2 to Q3 Map Converter v1.07
-[q3control.zip](bin/q3control.zip)<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>[q3atc05.zip](bin/q3atc05.zip)<br>q3atc06.zip | Q3A Total Control
+[q3control.zip](bin/q3control.zip)<br>q3atc3.zip<br>q3atc31.zip<br>q3atc31min.zip<br>q3atc3min.zip<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>q3atc04.zip<br>[q3atc05.zip](bin/q3atc05.zip)<br>q3atc05patch.zip<br>q3atc06.zip<br>q3atc51.zip<br>q3atcfix1.zip<br>q3atcserver.zip<br>q3atc06.zip | Q3A Total Control
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3t108crack.zip](bin/q3t108crack.zip) | Crack for q3test v1.08
 [q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip | Convert Q3Test maps
@@ -55,6 +55,7 @@ File | Description
 [bot.zip](bin/bot.zip) | Q3Test Bots v1.05
 [q3tbots.zip](bin/q3tbots.zip)<br>[q3tbots-1.1.zip](bin/q3tbots-1.1.zip) | Add bots to q3test v1.05
 q3bot98.exe | Q3Test Bots for Win98
+[productid.txt](bin/productid.txt) | Rename demoq3 to baseq3 and add baseq3/productid.txt
 
 ### Q3Test Maps
 

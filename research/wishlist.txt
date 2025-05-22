@@ -3,7 +3,6 @@
 
 # packs
 Q3TEST_Expansion_Pack.zip
-tim_dm1.zip
 l33tq3a102.zip
 RevRL.zip
 386enh.zip
@@ -12,6 +11,8 @@ q3test.zip
 # maps
 dm6.zip
 the-edge.zip
+tim_dm1.bsp
+tim_dm1.zip
 
 # cracks
 q3bot98.exe
@@ -27,4 +28,15 @@ q3dcrk-10.zip
 Q3EntityEd.zip
 q3wumpass105-107.zip
 Q3Wumpass1.05-1.06.zip
+
+q3atc04.zip
+q3atc05patch.zip
 q3atc06.zip
+q3atc3.zip
+q3atc31.zip
+q3atc31min.zip
+q3atc3min.zip
+q3atc51.zip
+q3atcfix1.zip
+q3atcserver.zip
+

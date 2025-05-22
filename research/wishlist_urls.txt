@@ -21,6 +21,10 @@ http://www.captured.com/underground/news/tim_dm1.zip
 http://www.fortunecity.com/underworld/shootout/580/files/tim_dm1.zip
 http://www.primorye.ru/quake/files%5Cq3%5Ctim_dm1.zip
 http://www.primorye.ru/quake/files/q3/tim_dm1.zip
+http://quake.axg.net/pql/files/tim_dm1.bsp
+ftp://ftp.ukrnet.net/pub/games/q3a/ihv/tim_dm1.zip
+http://members.xoom.com/E_Piphany/tim_dm1.zip
+http://www2.memes.com/quaker/q3/tim_dm1.zip
 
 # dm6.zip
 http://www.primorye.ru/quake/files/q3/dm6.zip
