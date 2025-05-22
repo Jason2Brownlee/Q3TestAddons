@@ -37,12 +37,14 @@ https://discmaster.textfiles.com/browse/31424/QUAKEBIBLE.bin/quake3
 https://fragpile.tripod.com/maptools.htm
 	tools
 https://discmaster.textfiles.com/browse/22872/PCA9911.BIN/Spielerforum/Quake3Arena
-	Name	Format	# Files	Size	Date
-	gnb132sw.exe	Roshal Archive	1	  1.7 MB	1999-09-24
-	gnbp144.exe	Roshal Archive	6	917.9 KB	1999-09-24
-	q3aTotalControl31.zip	PKZip Archive	3	  2.7 MB	1999-09-24
-	QuakeStarter-v0.73b.zip	PKZip Archive	3	  2.5 MB	1999-09-2
+	tools
+https://web.archive.org/web/20000615181159/http://members.aol.com/rjdriver/q3test1.htm
+	crosshairs
+https://groups.google.com/g/alt.games.quake3/c/jXvkX7la-UQ
+	q3test faq
 
+
+	tools
 
 q3tweak | ?
 q3retex | Texture replacement tool
