@@ -31,6 +31,9 @@ fbsound.zip
 railgunpak.zip
 iconpak.zip
 soundpak.zip
+sarge.zip
+virge.zip
+varge.zip
 
 # tools
 Md3View-Mac_1.sit

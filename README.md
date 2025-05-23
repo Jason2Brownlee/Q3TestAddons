@@ -50,8 +50,11 @@ quadepak.zip | Q3 Erosion Pak Q3Test v1.08
 rail_christ.zip | Rail-ChRiSt-Pak 1 Q3Test v1.08
 railpak.zip | Rail-Pak Q3Test v1.08
 rig-lan_1.0b.zip | railgun sound from Quake2 Q3Test v1.08
+sarge.zip | Sarge Model Skin Q3Test v1.08
 skinpack1.zip | Additional Skins Q3Test v1.08 with 159 maps and skins
 unipak03.zip | Quake Universe Pak Q3Test v1.08
+varge.zip | Varge Skin Q3Test v1.08
+virge.zip | Virge Model Skin Q3Test v1.08
 
 ### Q3Test v1.09 Mods/Packs
 

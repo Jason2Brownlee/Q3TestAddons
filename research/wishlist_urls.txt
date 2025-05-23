@@ -440,4 +440,14 @@ http://members.xoom.com/shammysworld/files/iconpak.zip
 # soundpak.zip
 http://members.xoom.com/shammysworld/files/soundpak.zip
 
+# sarge.zip
+http://www.gweb.de/sam/quake3/pub/models/sarge.zip
+
+# virge.zip
+http://webrunner.formoza.ru/skins/virge.zip
+
+# varge.zip
+http://www.gweb.de/sam/quake3/pub/models/varge.zip
+
+
 
