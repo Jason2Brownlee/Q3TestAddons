@@ -27,6 +27,11 @@ q3sounds.zip
 modelsounds.zip
 unipak03.zip
 q3thud.zip
+qxsounds.zip
+fbsound.zip
+railgunpak.zip
+iconpak.zip
+soundpak.zip
 
 # tools
 Md3View-Mac_1.sit

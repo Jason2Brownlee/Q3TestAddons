@@ -420,7 +420,19 @@ http://www.quake-universe.de/files/unipak03.zip
 # q3thud.zip
 http://www.gweb.de/sam/quake3/pub/mods/q3thud.zip
 
-#
+# qxsounds.zip
+http://members.xoom.com/coolquake/qxsounds.zip
 
+# fbsound.zip
+http://www.gweb.de/sam/quake3/pub/mods/fbsound.zip
+
+# railgunpak.zip
+http://members.xoom.com/shammysworld/files/railgunpak.zip
+
+# iconpak.zip
+http://members.xoom.com/shammysworld/files/iconpak.zip
+
+# soundpak.zip
+http://members.xoom.com/shammysworld/files/soundpak.zip
 
 

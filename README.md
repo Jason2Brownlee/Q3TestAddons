@@ -8,7 +8,7 @@ Before the Quake III Arena Demo was released, and before the retail CD was avail
 
 List of all known Q3Test addons.
 
-### Q3Test v? Packs
+### Q3Test v? Mods/Packs
 
 File | Description
 --- | ---
@@ -54,6 +54,16 @@ rig-lan_1.0b.zip | railgun sound from Quake2 Q3Test v1.08
 skinpack1.zip | Additional Skins Q3Test v1.08 with 159 maps and skins
 unipak03.zip | Quake Universe Pak Q3Test v1.08
 
+### Q3Test v1.09 Mods/Packs
+
+File | Description
+--- | ---
+q3fm01.zip | q3fragme for Q3Test v1.09
+qxsounds.zip | QXsounds Q3Test v1.09
+fbsound.zip | Feedback Sounds Q3Test v1.09
+railgunpak.zip | Railgun-Pak from Gecko Q3Test v1.09
+iconpak.zip | Icon-Pak from Gecko Q3Test v1.09
+soundpak.zip | Sound-Pak from Gecko Q3Test v1.09
 
 ### Q3Test Tools
 
@@ -257,7 +267,6 @@ Railgun%20Yard.zip | Railgun%20Yard for Q3Test v1.09
 all.zip | all (q3dmall17) for Q3Test v1.09
 arenaall.zip | arenaall for Q3Test v1.09
 q3dmall.zip | q3dmall for Q3Test v1.09
-q3fm01.zip | q3fm01 for Q3Test v1.09
 q3maphacker1-1.zip | q3maphacker1-1 for Q3Test v1.09
 q3powerup2.zip | q3powerup2 for Q3Test v1.09
 qbfg.zip | qbfg for Q3Test v1.09
