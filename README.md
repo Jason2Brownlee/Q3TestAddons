@@ -144,11 +144,15 @@ Tunnelmapz.zip | Tunnelmapz for Q3Test v1.08
 [tunnel.zip](bin/maps-108/tunnel.zip) | tunnel for Q3Test v1.08
 [vq3maps.zip](bin/maps-108/vq3maps.zip) | VQ3 Maps (vq3 v3test2 q3sphere)
 binah.zip | binah for Q3Test v1.08
+city1q3.zip | city1q3 for Q3Test v1.08
+city64.zip | city64 for Q3Test v1.08
+command3.zip | command3 for Q3Test v1.08
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.08
 dm6zb_to_c.zip | dm6zb_to_c for Q3Test v1.08
 dm_mm1.zip | dm_mm1 for Q3Test v1.08
 dm_mm1c.zip | dm_mm1c for Q3Test v1.08
 dm_mm1d.zip | dm_mm1d for Q3Test v1.08
+dmc-q1dm3.zip | dmc-q1dm3 for Q3Test v1.08
 extra_q3_maps.zip | extra_q3_maps for Q3Test v1.08
 fragtwn1-q3.zip | fragtwn1-q3 for Q3Test v1.08
 gdm3_q3a.zip | gdm3_q3a for Q3Test v1.08
@@ -161,6 +165,7 @@ ibdm1.zip | ibdm1 for Q3Test v1.08
 japanc.zip | japanc for Q3Test v1.08
 kick.zip | kick for Q3Test v1.08
 maj_portal.zip | maj_portal for Q3Test v1.08
+maj_protal.zip | maj_protal for Q3Test v1.08
 majq3dm1beta.zip | majq3dm1beta for Q3Test v1.08
 majq3dm1beta2.zip | majq3dm1beta2 for Q3Test v1.08
 mq3-108.zip | mq3-108 for Q3Test v1.08
@@ -202,11 +207,6 @@ vq3maps.zip | vq3maps for Q3Test v1.08
 wiebo_cnv1.zip | wiebo_cnv1 for Q3Test v1.08
 xnd33.zip | xnd33 for Q3Test v1.08
 ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08
-maj_protal.zip | maj_protal for Q3Test v1.08
-dmc-q1dm3.zip | dmc-q1dm3 for Q3Test v1.08
-command3.zip | command3 for Q3Test v1.08
-city64.zip | city64 for Q3Test v1.08
-city1q3.zip | city1q3 for Q3Test v1.08
 
 
 
