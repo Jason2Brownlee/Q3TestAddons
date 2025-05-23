@@ -24,9 +24,9 @@ l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 File | Description
 --- | ---
 [q3a_addon.zip](bin/q3a_addon.zip) | Pack of addons for q3test v1.05
+[q3thud.zip](bin/q3thud.zip) | q3a HUD Q3Test v1.05
 [sobpak7.zip](sobpak7.zip) | Pack with resources Q3Test v1.05
 q3105b.zip | Pak to add weapons to maps in Q3Test v1.05
-q3thud.zip | q3a HUD Q3Test v1.05
 
 ### Q3Test v1.08 Mods/Packs
 
@@ -57,11 +57,11 @@ unipak03.zip | Quake Universe Pak Q3Test v1.08
 
 File | Description
 --- | ---
+fbsound.zip | Feedback Sounds Q3Test v1.09
+iconpak.zip | Icon-Pak from Gecko Q3Test v1.09
 q3fm01.zip | q3fragme for Q3Test v1.09
 qxsounds.zip | QXsounds Q3Test v1.09
-fbsound.zip | Feedback Sounds Q3Test v1.09
 railgunpak.zip | Railgun-Pak from Gecko Q3Test v1.09
-iconpak.zip | Icon-Pak from Gecko Q3Test v1.09
 soundpak.zip | Sound-Pak from Gecko Q3Test v1.09
 
 ### Q3Test Tools

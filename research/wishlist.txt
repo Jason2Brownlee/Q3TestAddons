@@ -26,7 +26,6 @@ rig-lan_1.0b.zip
 q3sounds.zip
 modelsounds.zip
 unipak03.zip
-q3thud.zip
 qxsounds.zip
 fbsound.zip
 railgunpak.zip

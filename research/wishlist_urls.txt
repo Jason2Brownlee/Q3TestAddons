@@ -18,9 +18,11 @@ http://www.quakefiles.com/files/download.php?filekey=q3aqtestex1&d_url=http://ww
 http://www.voodooextreme.com/reverend/Q3Arena/q3aGoodies/RLtrails/RevRL.zip
 
 # l33tq3a102.zip
-http://www.trendkill.net/files/l33tq3a102.zip
-http://www.q3arena.pl/download/add/l33tq3a102.zip
+http://actionxtreme.com/trendkill/files/l33tq3a102.zip
 http://actionxtreme.com/trendkill/l33tq3a/l33t.html
+http://www.q3arena.pl/download/add/l33tq3a102.zip
+http://www.trendkill.net/files/l33tq3a102.zip
+
 # l33t_101-102.zip
 http://actionxtreme.com/trendkill/files/l33t_101-102.zip
 http://www.quakefiles.com/files/download.php?filekey=q3altqamod1&d_url=http://actionxtreme.com/trendkill/files/l33t_101-102.zip
@@ -77,6 +79,7 @@ http://www.nationwide.net/~montroll/quake3/maps/q3test1b.zip
 # aeroq3.zip
 http://members.xoom.com/Fragpole/aeroq3.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.05/aeroq3.zip
+http://www2.memes.com/quaker/q3/aeroq3.zip
 
 # q1q3dm3
 http://www.dqz.de/quake3/b/files/009.zip
@@ -88,6 +91,7 @@ http://www.quakefiles.com/files/download.php?filekey=q3aqqdm2&d_url=http://www.p
 # q3retex.zip
 http://website.lineone.net/~pimper3/files/q3/q3retex.zip
 http://www.psychonomix.de/masher/download/misc/q3retex.zip
+http://www.trendkill.net/files/q3retex.zip
 
 # goregrave.zip
 http://q3.zone.ru/ftp/maps/goregrave.zip
@@ -147,14 +151,15 @@ http://members.home.com/j03/ouch.zip
 
 # q3q1dm4z.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q1dm4z.zip
-http://members.xoom.com/Fragpole/q1q3dm6z.zip
-http://www.quake.de/FILES/quake3/maps/q1q3dm6z.zip
 
 # q1q3dm6z.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q1q3dm6z.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.05/q1q3dm6z.zip
+http://members.xoom.com/Fragpole/q1q3dm6z.zip
 http://www.planetq3.com/nana/files/maps/q1q3dm6z.zip
+http://www.quake.de/FILES/quake3/maps/q1q3dm6z.zip
 http://www.quakefiles.com/files/download.php?filekey=q3aqqdmz1&d_url=http://www.planetq3.com/nana/files/maps/q1q3dm6z.zip
+http://www2.memes.com/quaker/q3/q1q3dm6z.zip
 
 # RailAlley.zip
 http://www.angelfire.com/al/rogerbeaty/images/RailAlley.zip
@@ -212,6 +217,7 @@ ftp://quake2.telestream.com/Quake%20Stuff/Quake3/maps/v1.08/railarena.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/q3q1dm5-108.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/maps/v1.08/q3q1dm5-108.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/q3q1dm5-108.zip
+http://trendkill.net/maps/q3q1dm5-108.zip
 
 # q3evilq2dm.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3evilq2dm.zip
@@ -409,6 +415,8 @@ ftp://quake2.telestream.com/Quake%20Stuff/Quake3/ctf/Rig-lan/rig-lan_1.0b.zip
 
 # q3sounds.zip
 http://www.gweb.de/sam/quake3/pub/mods/q3sounds.zip
+http://freepages.ugo.com/q3sound/files/q3sounds.zip
+http://www.quake.de/FILES/3tage/Q3sounds.zip
 
 # modelsounds.zip
 http://members.microdsi.net/bitstream/Files/modelsounds.zip
@@ -416,9 +424,6 @@ http://members.microdsi.net/bitstream/Files/modelsounds.zip
 # unipak03.zip
 http://senfei.splatterworld.de/Tools/unipak03.zip
 http://www.quake-universe.de/files/unipak03.zip
-
-# q3thud.zip
-http://www.gweb.de/sam/quake3/pub/mods/q3thud.zip
 
 # qxsounds.zip
 http://members.xoom.com/coolquake/qxsounds.zip
