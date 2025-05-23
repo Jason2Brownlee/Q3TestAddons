@@ -29,7 +29,6 @@ q3retex.zip
 
 # q3 total control
 q3atc04.zip
-q3atc06.zip
 q3atc3.zip
 q3atc31.zip
 q3atc31min.zip
