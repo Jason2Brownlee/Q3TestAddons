@@ -192,13 +192,12 @@ The PoleYard - a modified version of Q3test2. BFG and Lighting are present.
 DeadlySins Rocket Arena - conversion of the q3test1 map.
 pq3m0.zip(305Kb) - Meat, meat, meat...
 q3q2dm1 - q2dm1 for q3test.
-vq3maps.zip(1.69Mb) - Pack of 3 very cool maps...
 bdm1base.zip(359Kb) - Not a bad map. Behind the quad, otherwise you'll lose!
 majq3dm1beta2.zip(253Kb) - Lots of space, cool map!
 ibdm1base.zip(381Kb)
 mq3-108.zip(161Kb) - Map for those who like to shoot in flight.
 ouch.zip(94Kb) - Small meaty level
-majq3dm1beta.zip(244Kb) - This is simply a must have!!!
+
 maj_portal.zip(88Kb) - Map with a large mirror, but it's a bit glitchy for me.
 2box4.zip(240Kb) - Dedicated to those who like to shoot from a rail...
 

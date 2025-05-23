@@ -42,18 +42,32 @@ q1q3dm6z.zip
 RailAlley.zip
 
 # v1.08 maps
-goregrave.zip
-q3q1dm6zc.zip
-q3test2_rail.zip
-q3saco2beta.zip
-mq3-108.zip
+2box4.zip
+city1q3.zip
+city64.zip
+command3.zip
+dakyne4-q3.zip
 dm_mm1.zip
-majq3dm1beta.zip
-two.zip
-ouch.zip
 dm_mm1c.zip
-q3q2ctf1.zip
-q3a-q3.zip
+dmc-q1dm3.zip
+goregrave.zip
 maj_protal.zip
+majq3dm1beta.zip
+mq3-108.zip
+ouch.zip
+q3a-q3.zip
+q3iceland.zip
+q3q1dm5-108.zip
+q3q1dm6zc.zip
+q3q2ctf1.zip
+q3q2dmX.zip
+q3saco1.zip
+q3saco2beta.zip
+q3saco2beta.zip
+q3test2_rail.zip
+q3wasted.zip
+railarena.zip
+two.zip
+
 
 

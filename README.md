@@ -106,6 +106,7 @@ q3doom2_map06.zip | q3doom2_map06 for Q3Test v1.05
 q3doom2_map07.zip | q3doom2_map07 for Q3Test v1.05
 q3joe2.zip | q3joe2 for Q3Test v1.05
 q3q1dm1.zip | q3q1dm1 for Q3Test v1.05
+q3q1dm4.zip | q3q1dm4 for Q3Test v1.05
 q3q1e1m7.zip | q3q1e1m7 for Q3Test v1.05
 q3q1e1m7a | q3q1e1m7a for Q3Test v1.05
 q3q2dm1.zip | q3q2dm1 for Q3Test v1.05
@@ -202,6 +203,12 @@ wiebo_cnv1.zip | wiebo_cnv1 for Q3Test v1.08
 xnd33.zip | xnd33 for Q3Test v1.08
 ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08
 maj_protal.zip | maj_protal for Q3Test v1.08
+dmc-q1dm3.zip | dmc-q1dm3 for Q3Test v1.08
+command3.zip | command3 for Q3Test v1.08
+city64.zip | city64 for Q3Test v1.08
+city1q3.zip | city1q3 for Q3Test v1.08
+
+
 
 ### Q3Test v? Maps
 
