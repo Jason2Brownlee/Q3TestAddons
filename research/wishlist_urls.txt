@@ -442,5 +442,13 @@ http://webrunner.formoza.ru/skins/virge.zip
 # varge.zip
 http://www.gweb.de/sam/quake3/pub/models/varge.zip
 
+# core.pk3
+http://www.quake3.baltnet.ru/q/maps/rail.pk3
+
+# q3viewer.zip
+http://q3.zone.ru/ftp/progs/q3viewer.zip
+
+# crq3108.zip
+http://q3.zone.ru/ftp/crq3108.zip
 
 

@@ -31,6 +31,7 @@ iconpak.zip
 soundpak.zip
 virge.zip
 varge.zip
+core.pk3
 
 # tools
 Md3View-Mac_1.sit
@@ -45,12 +46,14 @@ q3q2dm1-converter.zip
 q3tweak1039.exe
 oldQ3TFull.exe
 oldQ3TSetup.exe
+q3viewer.zip
 
 # bots
 q3bot98.exe
 
 # cracks
 q3dcrk-11.zip
+crq3108.zip
 
 # maps v?
 dm6.zip

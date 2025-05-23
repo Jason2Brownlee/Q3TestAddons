@@ -17,6 +17,7 @@ Q3TEST_Expansion_Pack.zip | Q3Test Expansion Pack (weapons, maps, skins)
 RevRL.zip | Less rocket trail smoke
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
+core.pk3 | Q3dm17 for q3demotest
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 
 ### Q3Test v1.05 Mods/Packs
@@ -81,7 +82,7 @@ File | Description
 [md3view_v1_4.zip](bin/md3view_v1_4.zip)<br>md3view_v1_401.zip<br>[md3view_v1_51.zip](bin/md3view_v1_51.zip)<br>Md3View-Mac_1.sit | MD3-VIEW
 [q2toq3t.zip](bin/q2toq3t.zip) | Convert Quake2 maps to Q3Test v1.01
 [q2toq3t107.zip](bin/q2toq3t107.zip) | Q2 to Q3 Map Converter v1.07
-[q3control.zip](bin/q3control.zip)<br>[q3atc3.zip](bin/q3atc3.zip)<br>[q3atc31.zip](bin/q3atc31.zip)<br>[q3atc31min.zip](bin/q3atc31min.zip)<br>[q3atc3min.zip](bin/q3atc3min.zip)<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>q3atc04.zip<br>[q3atc05.zip](bin/q3atc05.zip)<br>[q3atc05patch.zip](bin/q3atc05patch.zip)<br>[q3atc51.zip](bin/q3atc51.zip)<br>[q3atcfix1.zip](bin/q3atcfix1.zip)<br>[q3atcserver.zip](bin/q3atcserver.zip)<br>[q3atc06.zip](bin/q3atc06.zip) | Q3A Total Control
+[q3control.zip](bin/q3control.zip)<br>[q3a-tc02.zip](bin/q3a-tc02.zip)<br>[q3atc3.zip](bin/q3atc3.zip)<br>[q3atc31.zip](bin/q3atc31.zip)<br>[q3atc31min.zip](bin/q3atc31min.zip)<br>[q3atc3min.zip](bin/q3atc3min.zip)<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>q3atc04.zip<br>[q3atc05.zip](bin/q3atc05.zip)<br>[q3atc05patch.zip](bin/q3atc05patch.zip)<br>[q3atc51.zip](bin/q3atc51.zip)<br>[q3atcfix1.zip](bin/q3atcfix1.zip)<br>[q3atcserver.zip](bin/q3atcserver.zip)<br>[q3atc06.zip](bin/q3atc06.zip) | Q3A Total Control
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3nedit.zip](bin/q3nedit.zip) | Quake 3 Name Creater 1.1a
 [q3q2dm1.zip](bin/q3q2dm1.zip)<br>[q3q2dm1c.zip](bin/q3q2dm1c.zip)<br>q3q2dm1-converter.zip | Q2DM1 "The Edge" Converter for Q3Test
@@ -90,6 +91,7 @@ File | Description
 [qube102.zip](bin/qube102.zip) | Qube Quake3 Editor
 maxfps105.exe | Max FPS for Q3 1.05
 q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
+q3viewer.zip | Q3 Model Viewer
 
 ### Q3Test Cracks
 
@@ -101,6 +103,7 @@ File | Description
 [q3t108crack.zip](bin/q3t108crack.zip) | Q3Test v1.08 Crack
 [q3test106-crk.zip](bin/q3test106-crk.zip) | Q3Test v1.06 Crack
 [q3test107-crk.zip](bin/q3test107-crk.zip) | Q3Test v1.07 Crack
+crq3108.zip | Q3Test v1.08 Crack
 
 ### Q3Test Bots
 
