@@ -451,4 +451,10 @@ http://q3.zone.ru/ftp/progs/q3viewer.zip
 # crq3108.zip
 http://q3.zone.ru/ftp/crq3108.zip
 
+# geckopak.zip
+http://q3.zone.ru/files/geckopak.zip
+
+# sodq3exp.zip
+http://home.swipnet.se/~w-78894/sod/sodq3exp.zip
+
 

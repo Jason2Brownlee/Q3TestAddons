@@ -18,7 +18,9 @@ RevRL.zip | Less rocket trail smoke
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
 core.pk3 | Q3dm17 for q3demotest
+geckopak.zip | Multiple Addons in one pak
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
+sodq3exp.zip | New numbers, sight and background for console
 
 ### Q3Test v1.05 Mods/Packs
 
@@ -89,6 +91,7 @@ File | Description
 [q3retex.zip](bin/q3retex.zip) | Retexture BSP File
 [q3wumpass105.zip](bin/q3wumpass105.zip)<br>[q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>[q3wumpass105-107.zip](bin/q3wumpass105-107.zip)<br>[q3wumpass105-109.zip](bin/q3wumpass105-109.zip)<br>[q3wumpas.zip](bin/q3wumpas.zip) | Convert Q3Test maps
 [qube102.zip](bin/qube102.zip) | Qube Quake3 Editor
+[wened.zip](bin/wened.zip) | Q3Test Color Name Maker
 maxfps105.exe | Max FPS for Q3 1.05
 q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 q3viewer.zip | Q3 Model Viewer

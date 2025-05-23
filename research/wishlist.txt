@@ -32,6 +32,8 @@ soundpak.zip
 virge.zip
 varge.zip
 core.pk3
+geckopak.zip
+sodq3exp.zip
 
 # tools
 Md3View-Mac_1.sit
