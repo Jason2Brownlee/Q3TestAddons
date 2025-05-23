@@ -9,6 +9,10 @@ RevRL.zip
 386enh.zip
 q3test.zip
 q3105b.zip
+q3tweak1039.exe
+Q3Tweak1046.exe
+oldQ3TFull.exe
+oldQ3TSetup.exe
 Q3Tweek1043.exe
 
 # maps
