@@ -46,7 +46,8 @@ http://horb.chat.ru/q3edits.htm
 	tools
 http://horb.chat.ru/q3maps.htm
 	maps
-
+https://web.archive.org/web/19991009163957/http://www.dqz.de/quake3/b/index.htm
+	maps
 
 
 q3tweak | ?
@@ -203,3 +204,13 @@ maj_portal.zip(88Kb) - Map with a large mirror, but it's a bit glitchy for me.
 https://web.archive.org/web/20010128183200/http://www.gweb.de/sam/quake3/njindex.html
 
 map archive for each test version
+
+
+
+
+
+
+
+
+
+

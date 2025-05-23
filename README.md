@@ -118,6 +118,13 @@ wasted.zip | wasted for Q3Test v1.05
 
 File | Description
 --- | ---
+2box4.zip | 2box4 for Q3Test v1.08
+Ibdm2.zip | Ibdm2 for Q3Test v1.08
+Keep.zip | Keep for Q3Test v1.08
+LAVATUBE.zip | LAVATUBE for Q3Test v1.08
+Medieval.zip | Medieval for Q3Test v1.08
+Pbdm1.zip | Pbdm1 for Q3Test v1.08
+Tunnelmapz.zip | Tunnelmapz for Q3Test v1.08
 [binah.zip](bin/maps-108/binah.zip) | binah for Q3Test v1.08
 [estafun.zip](bin/maps-108/estafun.zip) | estafun for Q3Test v1.08
 [gdm1_q3.zip](bin/maps-108/gdm1_q3.zip) | gdm1_q3 for Q3Test v1.08
@@ -133,6 +140,63 @@ File | Description
 [s20dm2d.zip](bin/maps-108/s20dm2d.zip) | s20dm2d for Q3Test v1.08
 [traq3a2.zip](bin/maps-108/traq3a2.zip) | traq3a2 for Q3Test v1.08
 [tunnel.zip](bin/maps-108/tunnel.zip) | tunnel for Q3Test v1.08
+binah.zip | binah for Q3Test v1.08
+dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.08
+dm6zb_to_c.zip | dm6zb_to_c for Q3Test v1.08
+dm_mm1d.zip | dm_mm1d for Q3Test v1.08
+estaFUN.zip | estaFUN for Q3Test v1.08
+extra_q3_maps.zip | extra_q3_maps for Q3Test v1.08
+fragtwn1-q3.zip | fragtwn1-q3 for Q3Test v1.08
+gdm3_q3a.zip | gdm3_q3a for Q3Test v1.08
+goregrave.zip | goregrave for Q3Test v1.08
+gsctf1.zip | gsctf1 for Q3Test v1.08
+gun_q3.zip | gun_q3 for Q3Test v1.08
+gzarena108_.zip | gzarena108_ for Q3Test v1.08
+hokan.zip | hokan for Q3Test v1.08
+ibdm1.zip | ibdm1 for Q3Test v1.08
+japanc.zip | japanc for Q3Test v1.08
+kick.zip | kick for Q3Test v1.08
+maj_portal.zip | maj_portal for Q3Test v1.08
+majq3dm1beta.zip | majq3dm1beta for Q3Test v1.08
+majq3dm1beta2.zip | majq3dm1beta2 for Q3Test v1.08
+mq3-108.zip | mq3-108 for Q3Test v1.08
+myhome.zip | myhome for Q3Test v1.08
+ouch.zip | ouch for Q3Test v1.08
+overflow3.zip | overflow3 for Q3Test v1.08
+pq3m0.zip | pq3m0 for Q3Test v1.08
+pulquemaps.zip | pulquemaps for Q3Test v1.08
+q3a-e3.zip | q3a-e3 for Q3Test v1.08
+q3a-q3.zip | q3a-q3 for Q3Test v1.08
+q3atour.zip | q3atour for Q3Test v1.08
+q3demo.zip | q3demo for Q3Test v1.08
+q3dm12_ctf.zip | q3dm12_ctf for Q3Test v1.08
+q3evilq2dm.zip | q3evilq2dm for Q3Test v1.08
+q3iceland.zip | q3iceland for Q3Test v1.08
+q3pool.zip | q3pool for Q3Test v1.08
+q3q1dm3z.zip | q3q1dm3z for Q3Test v1.08
+q3q1dm4z.zip | q3q1dm4z for Q3Test v1.08
+q3q1dm5-108.zip | q3q1dm5-108 for Q3Test v1.08
+q3q1dm6zc.zip | q3q1dm6zc for Q3Test v1.08
+q3q2ctf1.zip | q3q2ctf1 for Q3Test v1.08
+q3q2dm8.zip | q3q2dm8 for Q3Test v1.08
+q3q2dmX.zip | q3q2dmX for Q3Test v1.08
+q3q2sedm3z.zip | q3q2sedm3z for Q3Test v1.08
+q3saco1.zip | q3saco1 for Q3Test v1.08
+q3saco2beta.zip | q3saco2beta for Q3Test v1.08
+q3spike.zip | q3spike for Q3Test v1.08
+q3tlcctf.zip | q3tlcctf for Q3Test v1.08
+q3wasted.zip | q3wasted for Q3Test v1.08
+q66.zip | q66 for Q3Test v1.08
+railarena.zip | railarena for Q3Test v1.08
+railmaps.zip | railmaps for Q3Test v1.08
+sbq3one.zip | sbq3one for Q3Test v1.08
+temple2z.zip | temple2z for Q3Test v1.08
+tmp.zip | tmp for Q3Test v1.08
+two.zip | two for Q3Test v1.08
+vq3maps.zip | vq3maps for Q3Test v1.08
+wiebo_cnv1.zip | wiebo_cnv1 for Q3Test v1.08
+xnd33.zip | xnd33 for Q3Test v1.08
+ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08
 
 ### Q3Test v? Maps
 
