@@ -65,42 +65,42 @@ q3jbbeta | jailbreak??
 https://www.geocities.ws/dinkhotline/q3/1.05maps.html
 
 
-ROUND.ZIP
-S20_DM.zip
-S20_DM1.zip
-S20_dm2a.zip
-SPAZ.ZIP
-XxUBERxX.zip
-aeroq3.zip
-dakyne4-q3.zip
-deadlysins.zip
-dm3a.zip
-dm_portal1.zip
-fact3.zip
-km_portal.zip
-majq3dm1beta.zip
-morerail.zip
-mq3.zip
-poleyard.zip
-q1q3dm3.zip
-q1q3dm4.zip
-q1q3dm6z.zip
-q1q3dm7.zip
-q3-q2dm8.zip
-q3105b.zip
-q32am.zip
-q3arail.zip
-q3doom2_map06.zip
-q3doom2_map07.zip
-q3joe2.zip
-q3q1dm1.zip
-q3q1e1m7.zip
-q3q2dm1-converter.zip
-q3q2dm1.zip
-q3q3a.zip
-q3test_expansion_pack.zip
-tim_dm1.zip
-wasted.zip
+ROUND.ZIP | ROUND for Q3Test v1.05
+S20_DM.zip | S20_DM for Q3Test v1.05
+S20_DM1.zip | S20_DM1 for Q3Test v1.05
+S20_dm2a.zip | S20_dm2a for Q3Test v1.05
+SPAZ.ZIP | SPAZ for Q3Test v1.05
+XxUBERxX.zip | XxUBERxX for Q3Test v1.05
+aeroq3.zip | aeroq3 for Q3Test v1.05
+dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.05
+deadlysins.zip | deadlysins for Q3Test v1.05
+dm3a.zip | dm3a for Q3Test v1.05
+dm_portal1.zip | dm_portal1 for Q3Test v1.05
+fact3.zip | fact3 for Q3Test v1.05
+km_portal.zip | km_portal for Q3Test v1.05
+majq3dm1beta.zip | majq3dm1beta for Q3Test v1.05
+morerail.zip | morerail for Q3Test v1.05
+mq3.zip | mq3 for Q3Test v1.05
+poleyard.zip | poleyard for Q3Test v1.05
+q1q3dm3.zip | q1q3dm3 for Q3Test v1.05
+q1q3dm4.zip | q1q3dm4 for Q3Test v1.05
+q1q3dm6z.zip | q1q3dm6z for Q3Test v1.05
+q1q3dm7.zip | q1q3dm7 for Q3Test v1.05
+q3-q2dm8.zip | q3-q2dm8 for Q3Test v1.05
+q3105b.zip | q3105b for Q3Test v1.05
+q32am.zip | q32am for Q3Test v1.05
+q3arail.zip | q3arail for Q3Test v1.05
+q3doom2_map06.zip | q3doom2_map06 for Q3Test v1.05
+q3doom2_map07.zip | q3doom2_map07 for Q3Test v1.05
+q3joe2.zip | q3joe2 for Q3Test v1.05
+q3q1dm1.zip | q3q1dm1 for Q3Test v1.05
+q3q1e1m7.zip | q3q1e1m7 for Q3Test v1.05
+q3q2dm1-converter.zip | q3q2dm1-converter for Q3Test v1.05
+q3q2dm1.zip | q3q2dm1 for Q3Test v1.05
+q3q3a.zip | q3q3a for Q3Test v1.05
+q3test_expansion_pack.zip | q3test_expansion_pack for Q3Test v1.05
+tim_dm1.zip | tim_dm1 for Q3Test v1.05
+wasted.zip | wasted for Q3Test v1.05
 
 https://www.geocities.ws/dinkhotline/q3/1.08maps.html
 
@@ -200,3 +200,6 @@ maj_portal.zip(88Kb) - Map with a large mirror, but it's a bit glitchy for me.
 2box4.zip(240Kb) - Dedicated to those who like to shoot from a rail...
 
 
+https://web.archive.org/web/20010128183200/http://www.gweb.de/sam/quake3/njindex.html
+
+map archive for each test version

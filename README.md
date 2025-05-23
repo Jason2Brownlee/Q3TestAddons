@@ -25,6 +25,7 @@ RevRL.zip | Less rocket trail smoke
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 q3test.zip | Q3Test 1.08 with 159 maps and skins
+q3test_expansion_pack.zip | q3test_expansion_pack for Q3Test v1.05
 skinpack1.zip | Additional Skins Q3Test 1.08 with 159 maps and skins
 
 ### Q3Test Tools
@@ -68,27 +69,72 @@ File | Description
 q3bot98.exe | Q3Test Bots for Win98
 
 
-### Q3Test Maps
+### Q3Test v1.05 Maps
 
 File | Description
 --- | ---
-[binah.zip](bin/binah.zip) | binah map Q3T v1.08
-[estafun.zip](bin/estafun.zip) | estafun map Q3T v1.08
-[gdm1_q3.zip](bin/gdm1_q3.zip) | gdm1_q3 map Q3T v1.08
-[goregravec.zip](bin/goregravec.zip) | goregravec map Q3T v1.08
-[hardm1.zip](bin/hardm1.zip) | hardm1 map Q3T v1.08
-[lost.zip](bin/lost.zip) | lost map Q3T v1.08
-[q2dm1.zip](bin/q2dm1.zip) | q2dm1 map Q3T v1.08
-[q2dm2.zip](bin/q2dm2.zip) | q2dm2 map Q3T v1.08
-[q2dm5.zip](bin/q2dm5.zip) | q2dm5 map Q3T v1.08
-[q2dm8.zip](bin/q2dm8.zip) | q2dm8 map Q3T v1.08
-[q2dm9.zip](bin/q2dm9.zip) | q2dm9 map Q3T v1.08
-[q3e1m7a.zip](bin/q3e1m7a.zip) | q3e1m7a map Q3T v1.08
+ROUND.ZIP | ROUND for Q3Test v1.05
+S20_DM.zip | S20_DM for Q3Test v1.05
+S20_DM1.zip | S20_DM1 for Q3Test v1.05
+S20_dm2a.zip | S20_dm2a for Q3Test v1.05
+SPAZ.ZIP | SPAZ for Q3Test v1.05
+XxUBERxX.zip | XxUBERxX for Q3Test v1.05
+aeroq3.zip | aeroq3 for Q3Test v1.05
+dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.05
+deadlysins.zip | deadlysins for Q3Test v1.05
+dm3a.zip | dm3a for Q3Test v1.05
+dm_portal1.zip | dm_portal1 for Q3Test v1.05
+fact3.zip | fact3 for Q3Test v1.05
+km_portal.zip | km_portal for Q3Test v1.05
+majq3dm1beta.zip | majq3dm1beta for Q3Test v1.05
+morerail.zip | morerail for Q3Test v1.05
+mq3.zip | mq3 for Q3Test v1.05
+poleyard.zip | poleyard for Q3Test v1.05
+q1q3dm3.zip | q1q3dm3 for Q3Test v1.05
+q1q3dm4.zip | q1q3dm4 for Q3Test v1.05
+q1q3dm6z.zip | q1q3dm6z for Q3Test v1.05
+q1q3dm7.zip | q1q3dm7 for Q3Test v1.05
+q3-q2dm8.zip | q3-q2dm8 for Q3Test v1.05
+q3105b.zip | q3105b for Q3Test v1.05
+q32am.zip | q32am for Q3Test v1.05
+q3arail.zip | q3arail for Q3Test v1.05
+q3doom2_map06.zip | q3doom2_map06 for Q3Test v1.05
+q3doom2_map07.zip | q3doom2_map07 for Q3Test v1.05
+q3joe2.zip | q3joe2 for Q3Test v1.05
+q3q1dm1.zip | q3q1dm1 for Q3Test v1.05
+q3q1e1m7.zip | q3q1e1m7 for Q3Test v1.05
+q3q2dm1-converter.zip | q3q2dm1-converter for Q3Test v1.05
+q3q2dm1.zip | q3q2dm1 for Q3Test v1.05
+q3q3a.zip | q3q3a for Q3Test v1.05
+tim_dm1.zip | tim_dm1 for Q3Test v1.05
+wasted.zip | wasted for Q3Test v1.05
+
+### Q3Test v1.08 Maps
+
+File | Description
+--- | ---
+[binah.zip](bin/maps-108/binah.zip) | binah for Q3Test v1.08
+[estafun.zip](bin/maps-108/estafun.zip) | estafun for Q3Test v1.08
+[gdm1_q3.zip](bin/maps-108/gdm1_q3.zip) | gdm1_q3 for Q3Test v1.08
+[goregravec.zip](bin/maps-108/goregravec.zip) | goregravec for Q3Test v1.08
+[hardm1.zip](bin/maps-108/hardm1.zip) | hardm1 for Q3Test v1.08
+[lost.zip](bin/maps-108/lost.zip) | lost for Q3Test v1.08
+[q2dm1.zip](bin/maps-108/q2dm1.zip) | q2dm1 for Q3Test v1.08
+[q2dm2.zip](bin/maps-108/q2dm2.zip) | q2dm2 for Q3Test v1.08
+[q2dm5.zip](bin/maps-108/q2dm5.zip) | q2dm5 for Q3Test v1.08
+[q2dm8.zip](bin/maps-108/q2dm8.zip) | q2dm8 for Q3Test v1.08
+[q2dm9.zip](bin/maps-108/q2dm9.zip) | q2dm9 for Q3Test v1.08
+[q3e1m7a.zip](bin/maps-108/q3e1m7a.zip) | q3e1m7a for Q3Test v1.08
+[s20dm2d.zip](bin/maps-108/s20dm2d.zip) | s20dm2d for Q3Test v1.08
+[traq3a2.zip](bin/maps-108/traq3a2.zip) | traq3a2 for Q3Test v1.08
+[tunnel.zip](bin/maps-108/tunnel.zip) | tunnel for Q3Test v1.08
+
+### Q3Test v? Maps
+
+File | Description
+--- | ---
 [q3q2dm1.zip](bin/q3q2dm1.zip) | The Edge: Converter to Q3Test
 [railmaps.zip](bin/railmaps.zip) | Rail Maps
-[s20dm2d.zip](bin/s20dm2d.zip) | s20dm2d map Q3T v1.08
-[traq3a2.zip](bin/traq3a2.zip) | traq3a2 map Q3T v1.08
-[tunnel.zip](bin/tunnel.zip) | tunnel map Q3T v1.08
 dm6.zip | Q1 DM6 for Q3Test
 the-edge.zip | q2dm1 The Edge
 tim_dm1.zip | tim_dm1 map
