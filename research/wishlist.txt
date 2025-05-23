@@ -15,7 +15,7 @@ the-edge.zip
 tim_dm1.bsp
 tim_dm1.zip
 
-# cracks
+# bots
 q3bot98.exe
 
 # skins
@@ -24,7 +24,6 @@ skinpack1.zip
 # tools
 maxfps105.exe
 maxfps105.zip
-q3-cracks.zip
 Q3EntityEd.zip
 q3wumpass105-107.zip
 Q3Wumpass1.05-1.06.zip
@@ -40,4 +39,8 @@ q3atc3min.zip
 q3atc51.zip
 q3atcfix1.zip
 q3atcserver.zip
+
+# cracks
+q3dcrk-11.zip
+q3-cracks.zip
 
