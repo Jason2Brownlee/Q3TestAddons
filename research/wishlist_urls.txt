@@ -77,3 +77,41 @@ http://www.dqz.de/quake3/b/files/009.zip
 # q3retex.zip
 http://website.lineone.net/~pimper3/files/q3/q3retex.zip
 http://www.psychonomix.de/masher/download/misc/q3retex.zip
+
+# goregrave.zip
+http://q3.zone.ru/ftp/maps/goregrave.zip
+http://www.dqz.de/quake3/b/files/goregrave.zip
+
+# q3q1dm6zc.zip
+http://q3.zone.ru/ftp/maps/q3q1dm6zc.zip
+http://www.dqz.de/quake3/b/files/q3q1dm6zc.zip
+
+# q3test2_rail.zip
+http://q3.zone.ru/ftp/maps/q3test2_rail.zip
+http://www.dqz.de/quake3/b/files/q3test2_rail.zip
+
+# q3saco2beta.zip
+http://q3.zone.ru/ftp/maps/q3saco2beta.zip
+http://www.dqz.de/quake3/b/files/q3saco2beta.zip
+
+# mq3-108.zip
+http://www.dqz.de/quake3/b/files/mq3-108.zip
+
+# dm_mm1.zip
+http://q3.zone.ru/ftp/maps/dm_mm1.zip
+http://www.dqz.de/quake3/b/files/dm_mm1.zip
+http://www.psychonomix.de/masher/download/dm_mm1.zip
+
+# majq3dm1beta.zip
+http://www.dqz.de/quake3/b/files/majq3dm1beta.zip
+
+# two.zip
+http://q3.zone.ru/ftp/maps/two.zip
+http://website.lineone.net/~pimper3/files/q3/two.zip
+http://www.dqz.de/quake3/b/files/two.zip
+
+# ouch.zip
+http://www.dqz.de/quake3/b/files/ouch.zip
+http://q3.zone.ru/ftp/maps/ouch.zip
+
+

@@ -147,7 +147,6 @@ dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.08
 dm6zb_to_c.zip | dm6zb_to_c for Q3Test v1.08
 dm_mm1.zip | dm_mm1 for Q3Test v1.08
 dm_mm1d.zip | dm_mm1d for Q3Test v1.08
-estaFUN.zip | estaFUN for Q3Test v1.08
 extra_q3_maps.zip | extra_q3_maps for Q3Test v1.08
 fragtwn1-q3.zip | fragtwn1-q3 for Q3Test v1.08
 gdm3_q3a.zip | gdm3_q3a for Q3Test v1.08
@@ -187,6 +186,7 @@ q3q2sedm3z.zip | q3q2sedm3z for Q3Test v1.08
 q3saco1.zip | q3saco1 for Q3Test v1.08
 q3saco2beta.zip | q3saco2beta for Q3Test v1.08
 q3spike.zip | q3spike for Q3Test v1.08
+q3test2_rail.zip | q3test2_rail for Q3Test v1.08
 q3tlcctf.zip | q3tlcctf for Q3Test v1.08
 q3wasted.zip | q3wasted for Q3Test v1.08
 q66.zip | q66 for Q3Test v1.08
