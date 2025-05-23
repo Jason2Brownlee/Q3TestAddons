@@ -141,6 +141,7 @@ Tunnelmapz.zip | Tunnelmapz for Q3Test v1.08
 [s20dm2d.zip](bin/maps-108/s20dm2d.zip) | s20dm2d for Q3Test v1.08
 [traq3a2.zip](bin/maps-108/traq3a2.zip) | traq3a2 for Q3Test v1.08
 [tunnel.zip](bin/maps-108/tunnel.zip) | tunnel for Q3Test v1.08
+[vq3maps.zip](bin/maps-108/vq3maps.zip) | VQ3 Maps (vq3 v3test2 q3sphere)
 binah.zip | binah for Q3Test v1.08
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.08
 dm6zb_to_c.zip | dm6zb_to_c for Q3Test v1.08
@@ -205,7 +206,6 @@ ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08
 File | Description
 --- | ---
 [railmaps.zip](bin/railmaps.zip) | Rail Maps
-[vq3maps.zip](bin/vq3maps.zip) | VQ3 Maps (vq3 v3test2 q3sphere)
 dm6.zip | Q1 DM6 for Q3Test
 the-edge.zip | q2dm1 The Edge
 tim_dm1.zip | tim_dm1 map
