@@ -88,11 +88,6 @@ http://q3.zone.ru/ftp/q1q3dm3.zip
 http://www.planetq3.com/nana/files/maps/q1q3dm3.zip
 http://www.quakefiles.com/files/download.php?filekey=q3aqqdm2&d_url=http://www.planetq3.com/nana/files/maps/q1q3dm3.zip
 
-# q3retex.zip
-http://website.lineone.net/~pimper3/files/q3/q3retex.zip
-http://www.psychonomix.de/masher/download/misc/q3retex.zip
-http://www.trendkill.net/files/q3retex.zip
-
 # goregrave.zip
 http://q3.zone.ru/ftp/maps/goregrave.zip
 http://www.dqz.de/quake3/b/files/goregrave.zip

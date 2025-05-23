@@ -9,8 +9,6 @@ RevRL.zip
 386enh.zip
 q3test.zip
 q3105b.zip
-oldQ3TFull.exe
-oldQ3TSetup.exe
 quadepak.zip
 bluepla.zip
 skinpack1.zip
@@ -44,8 +42,9 @@ maxfps105.zip
 md3view_v1_401.zip
 q3atc04.zip
 q3q2dm1-converter.zip
-q3retex.zip
 q3tweak1039.exe
+oldQ3TFull.exe
+oldQ3TSetup.exe
 
 # bots
 q3bot98.exe

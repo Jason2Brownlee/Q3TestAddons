@@ -71,7 +71,6 @@ soundpak.zip | Sound-Pak from Gecko Q3Test v1.09
 
 File | Description
 --- | ---
-q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 [Java_MD3View_1_0.zip](bin/Java_MD3View_1_0.zip) | Java MD3 View
 [Q3EntityEd.zip](bin/Q3EntityEd.zip) | Q3 Entitiy Editor v1.0
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
@@ -86,9 +85,10 @@ q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>[Q3Tweak1047.exe](b
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3nedit.zip](bin/q3nedit.zip) | Quake 3 Name Creater 1.1a
 [q3q2dm1.zip](bin/q3q2dm1.zip)<br>[q3q2dm1c.zip](bin/q3q2dm1c.zip)<br>q3q2dm1-converter.zip | Q2DM1 "The Edge" Converter for Q3Test
+[q3retex.zip](bin/q3retex.zip) | Retexture BSP File
 [q3wumpass105.zip](bin/q3wumpass105.zip)<br>[q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>[q3wumpass105-107.zip](bin/q3wumpass105-107.zip)<br>[q3wumpass105-109.zip](bin/q3wumpass105-109.zip)<br>[q3wumpas.zip](bin/q3wumpas.zip) | Convert Q3Test maps
 maxfps105.exe | Max FPS for Q3 1.05
-q3retex.zip | Retexture BSP File
+q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 
 ### Q3Test Cracks
 
