@@ -107,6 +107,7 @@ File | Description
 File | Description
 --- | ---
 [Scripts.zip](bin/Scripts.zip) | Bot Configs
+[TNT-Q3Test.Bot.Enabled.CRK.zip](bin/TNT-Q3Test.Bot.Enabled.CRK.zip) | Crack to enable bots
 [bot.zip](bin/bot.zip) | Q3Test Bots v1.05
 [q3tbots.zip](bin/q3tbots.zip)<br>[q3tbots-1.1.zip](bin/q3tbots-1.1.zip) | Add bots to q3test v1.05
 [reaper_bot.zip](bin/reaper_bot.zip) | Reaper bot config pak
