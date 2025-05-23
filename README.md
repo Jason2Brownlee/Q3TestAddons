@@ -222,8 +222,18 @@ wiebo_cnv1.zip | wiebo_cnv1 for Q3Test v1.08
 xnd33.zip | xnd33 for Q3Test v1.08
 ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08
 
+### Q3Test v1.09 Maps
 
-
+File | Description
+--- | ---
+Railgun%20Yard.zip | Railgun%20Yard for Q3Test v1.09
+all.zip | all (q3dmall17) for Q3Test v1.09
+arenaall.zip | arenaall for Q3Test v1.09
+q3dmall.zip | q3dmall for Q3Test v1.09
+q3fm01.zip | q3fm01 for Q3Test v1.09
+q3maphacker1-1.zip | q3maphacker1-1 for Q3Test v1.09
+q3powerup2.zip | q3powerup2 for Q3Test v1.09
+qbfg.zip | qbfg for Q3Test v1.09
 
 ### Q3Test v? Maps
 

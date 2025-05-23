@@ -337,8 +337,27 @@ http://quake3.valhalla.com.pl/mapy/q3test2/Arma5.zip
 http://members.nbci.com/q3atour/maps/q3atour_q3ver.ZIP
 http://members.xoom.com/q3atour/maps/q3atour_q3ver.ZIP
 
+# arenaall.zip
+http://diverse.freepage.de/hoshiman/arenaall.zip
 
+# Railgun%20Yard.zip
+http://senfei.splatterworld.de/Q3maps/Railgun%20Yard.zip
 
+# q3dmall.zip
+http://diverse.freepage.de/hoshiman/q3dmall.zip
 
+# q3maphacker1-1.zip
+http://www.gweb.de/sam/quake3/pub/maps/q3maphacker1-1.zip
 
+# q3fm01.zip
+http://www.gweb.de/sam/quake3/pub/mods/q3fm01.zip
+
+# all.zip / q3dmall17
+http://diverse.freepage.de/hoshiman/all.zip
+
+# q3powerup2.zip
+http://www.fortunecity.de/lindenpark/waldvillas/243/q3a/files/q3powerup2.zip
+
+# qbfg.zip
+http://www.fortunecity.de/lindenpark/waldvillas/243/q3a/files/qbfg.zip
 

@@ -92,7 +92,16 @@ railarena.zip
 twierdza.zip
 two.zip
 
-
+# v1.09 maps
+Railgun%20Yard.zip
+all.zip
+arenaall.zip
+q3dmall.zip
+q3dmall17.zip
+q3fm01.zip
+q3maphacker1-1.zip
+q3powerup2.zip
+qbfg.zip
 
 
 
