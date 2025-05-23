@@ -18,6 +18,8 @@ RevRL.zip | Less rocket trail smoke
 [105ctf.zip](bin/105ctf.zip) | CTF Ver 1.05 Final (includes crack) for Q3T v1.08
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
 [q3a_addon.zip](bin/q3a_addon.zip) | Pack of addons for q3test v1.05
+[reaper_bot.zip](bin/reaper_bot.zip) | Reaper bot config pak
+[rfdrd.zip](bin/rfdrd.zip) | Railgun fix
 [sobch.zip](bin/sobch.zip) | High Resolution Crosshair Pak
 [sobpak7.zip](sobpak7.zip) | Pack with resources
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
@@ -42,19 +44,19 @@ Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 [q2toq3t107.zip](bin/q2toq3t107.zip) | Q2 to Q3 Map Converter v1.07
 [q3control.zip](bin/q3control.zip)<br>q3atc3.zip<br>q3atc31.zip<br>q3atc31min.zip<br>q3atc3min.zip<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>q3atc04.zip<br>[q3atc05.zip](bin/q3atc05.zip)<br>q3atc05patch.zip<br>q3atc06.zip<br>q3atc51.zip<br>q3atcfix1.zip<br>q3atcserver.zip<br>q3atc06.zip | Q3A Total Control
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
-[q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip<br>[q3wumpass105-109.zip](bin/q3wumpass105-109.zip) | Convert Q3Test maps
+[q3nedit.zip](bin/q3nedit.zip) | Quake 3 Name Creater 1.1a
+[q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip<br>[q3wumpass105-109.zip](bin/q3wumpass105-109.zip)<br>[q3wumpas.zip](bin/q3wumpas.zip) | Convert Q3Test maps
 maxfps105.exe | Max FPS for Q3 1.05
-
 
 ### Q3Test Cracks
 
 File | Description
 --- | ---
 [productid.txt](bin/productid.txt) | Rename demoq3 to baseq3 and add baseq3/productid.txt
+[q3dcrk-10.zip](bin/q3dcrk-10.zip)<br>q3dcrk-11.zip | Q3Test v1.09 Crack
 [q3t108crack.zip](bin/q3t108crack.zip) | Q3Test v1.08 Crack
 [q3test107-crk.zip](bin/q3test107-crk.zip) | Q3Test v1.07 Crack
 q3-cracks.zip | Cracks for all Q3Test versions
-[q3dcrk-10.zip](bin/q3dcrk-10.zip)<br>q3dcrk-11.zip | Q3Test v1.09 Crack
 
 ### Q3Test Bots
 
