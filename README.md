@@ -16,7 +16,6 @@ File | Description
 Q3TEST_Expansion_Pack.zip | Q3Test Expansion Pack (weapons, maps, skins)
 RevRL.zip | Less rocket trail smoke
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
-[sobch.zip](bin/sobch.zip) | High Resolution Crosshair Pak
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 
