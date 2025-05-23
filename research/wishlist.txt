@@ -31,7 +31,6 @@ fbsound.zip
 railgunpak.zip
 iconpak.zip
 soundpak.zip
-sarge.zip
 virge.zip
 varge.zip
 

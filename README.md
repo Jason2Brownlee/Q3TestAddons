@@ -38,6 +38,7 @@ Q3VCTF.zip | Q3 CTF Pack  Q3Test v1.08
 SENFEI-PACK.zip | SENFEI MEGA-PACK Q3Test v1.08
 [105ctf.zip](bin/105ctf.zip) | CTF for Q3T v1.08
 [rfdrd.zip](bin/rfdrd.zip) | Dr.DooM's Railfix Q3Test v1.08
+[sarge.zip](bin/sarge.zip) | Sarge Model Skin Q3Test v1.08
 bluepla.zip | Blue Plasmagun Q3Test v1.08
 crsrail.zip | Rail-ChRiSt-Pak 2 Q3Test v1.08
 evilrail.zip | Evil-Rail Effect Q3Test v1.08
@@ -50,7 +51,6 @@ quadepak.zip | Q3 Erosion Pak Q3Test v1.08
 rail_christ.zip | Rail-ChRiSt-Pak 1 Q3Test v1.08
 railpak.zip | Rail-Pak Q3Test v1.08
 rig-lan_1.0b.zip | railgun sound from Quake2 Q3Test v1.08
-sarge.zip | Sarge Model Skin Q3Test v1.08
 skinpack1.zip | Additional Skins Q3Test v1.08 with 159 maps and skins
 unipak03.zip | Quake Universe Pak Q3Test v1.08
 varge.zip | Varge Skin Q3Test v1.08

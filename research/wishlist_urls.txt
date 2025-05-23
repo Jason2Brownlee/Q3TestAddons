@@ -436,12 +436,10 @@ http://members.xoom.com/shammysworld/files/railgunpak.zip
 
 # iconpak.zip
 http://members.xoom.com/shammysworld/files/iconpak.zip
+http://www.fortunecity.com/underworld/killer/899/iconpak.zip
 
 # soundpak.zip
 http://members.xoom.com/shammysworld/files/soundpak.zip
-
-# sarge.zip
-http://www.gweb.de/sam/quake3/pub/models/sarge.zip
 
 # virge.zip
 http://webrunner.formoza.ru/skins/virge.zip
