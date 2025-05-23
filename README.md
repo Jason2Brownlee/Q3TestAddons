@@ -50,6 +50,7 @@ Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 [q3q2dm1.zip](bin/q3q2dm1.zip)<br>[q3q2dm1c.zip](bin/q3q2dm1c.zip)<br>q3q2dm1-converter.zip | Q2DM1 "The Edge" Converter for Q3Test
 [q3wumpass105.zip](bin/q3wumpass105.zip)<br>[q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip<br>[q3wumpass105-109.zip](bin/q3wumpass105-109.zip)<br>[q3wumpas.zip](bin/q3wumpas.zip) | Convert Q3Test maps
 maxfps105.exe | Max FPS for Q3 1.05
+q3retex.zip | Retexture BSP File
 
 ### Q3Test Cracks
 
@@ -106,13 +107,13 @@ q3doom2_map07.zip | q3doom2_map07 for Q3Test v1.05
 q3joe2.zip | q3joe2 for Q3Test v1.05
 q3q1dm1.zip | q3q1dm1 for Q3Test v1.05
 q3q1e1m7.zip | q3q1e1m7 for Q3Test v1.05
+q3q1e1m7a | q3q1e1m7a for Q3Test v1.05
 q3q2dm1.zip | q3q2dm1 for Q3Test v1.05
 q3q3a.zip | q3q3a for Q3Test v1.05
 q3test1b.zip | q3test1b for Q3Test v1.05 (requires q3105b)
 q3test2b2.zip | q3test2b2 for Q3Test v1.05 (requires q3105b)
 tim_dm1.zip | tim_dm1 for Q3Test v1.05
 wasted.zip | wasted for Q3Test v1.05
-
 
 ### Q3Test v1.08 Maps
 
@@ -143,6 +144,7 @@ Tunnelmapz.zip | Tunnelmapz for Q3Test v1.08
 binah.zip | binah for Q3Test v1.08
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.08
 dm6zb_to_c.zip | dm6zb_to_c for Q3Test v1.08
+dm_mm1.zip | dm_mm1 for Q3Test v1.08
 dm_mm1d.zip | dm_mm1d for Q3Test v1.08
 estaFUN.zip | estaFUN for Q3Test v1.08
 extra_q3_maps.zip | extra_q3_maps for Q3Test v1.08
@@ -203,10 +205,10 @@ ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08
 File | Description
 --- | ---
 [railmaps.zip](bin/railmaps.zip) | Rail Maps
+[vq3maps.zip](bin/vq3maps.zip) | VQ3 Maps (vq3 v3test2 q3sphere)
 dm6.zip | Q1 DM6 for Q3Test
 the-edge.zip | q2dm1 The Edge
 tim_dm1.zip | tim_dm1 map
-
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Description**: indicates that we could not figure out the purpose of the file yet.

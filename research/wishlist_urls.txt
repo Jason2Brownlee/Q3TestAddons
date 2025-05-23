@@ -73,3 +73,7 @@ http://members.xoom.com/Fragpole/aeroq3.zip
 
 # q1q3dm3
 http://www.dqz.de/quake3/b/files/009.zip
+
+# q3retex.zip
+http://website.lineone.net/~pimper3/files/q3/q3retex.zip
+http://www.psychonomix.de/masher/download/misc/q3retex.zip

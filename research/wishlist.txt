@@ -27,6 +27,7 @@ maxfps105.zip
 Q3EntityEd.zip
 q3wumpass105-107.zip
 Q3Wumpass1.05-1.06.zip
+q3retex.zip
 
 # q3 total control
 q3atc04.zip
