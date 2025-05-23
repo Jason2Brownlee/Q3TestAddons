@@ -43,7 +43,7 @@ Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 [md3view_v1_4.zip](bin/md3view_v1_4.zip)<br>md3view_v1_401.zip<br>[md3view_v1_51.zip](bin/md3view_v1_51.zip)<br>Md3View-Mac_1.sit | MD3-VIEW
 [q2toq3t.zip](bin/q2toq3t.zip) | Convert Quake2 maps to Q3Test v1.01
 [q2toq3t107.zip](bin/q2toq3t107.zip) | Q2 to Q3 Map Converter v1.07
-[q3control.zip](bin/q3control.zip)<br>q3atc3.zip<br>q3atc31.zip<br>q3atc31min.zip<br>q3atc3min.zip<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>q3atc04.zip<br>[q3atc05.zip](bin/q3atc05.zip)<br>q3atc05patch.zip<br>q3atc06.zip<br>q3atc51.zip<br>q3atcfix1.zip<br>q3atcserver.zip<br>q3atc06.zip | Q3A Total Control
+[q3control.zip](bin/q3control.zip)<br>q3atc3.zip<br>q3atc31.zip<br>q3atc31min.zip<br>q3atc3min.zip<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>q3atc04.zip<br>[q3atc05.zip](bin/q3atc05.zip)<br>[q3atc05patch.zip](bin/q3atc05patch.zip)<br>q3atc06.zip<br>q3atc51.zip<br>q3atcfix1.zip<br>q3atcserver.zip<br>q3atc06.zip | Q3A Total Control
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3nedit.zip](bin/q3nedit.zip) | Quake 3 Name Creater 1.1a
 [q3q2dm1.zip](bin/q3q2dm1.zip)<br>[q3q2dm1c.zip](bin/q3q2dm1c.zip)<br>q3q2dm1-converter.zip | Q2DM1 "The Edge" Converter for Q3Test
@@ -77,6 +77,7 @@ q3bot98.exe | Q3Test Bots for Win98
 File | Description
 --- | ---
 ROUND.ZIP | ROUND for Q3Test v1.05
+RailAlley.zip | RailAlley for Q3Test v1.05
 S20_DM.zip | S20_DM for Q3Test v1.05
 S20_DM1.zip | S20_DM1 for Q3Test v1.05
 S20_dm2a.zip | S20_dm2a for Q3Test v1.05
@@ -145,6 +146,7 @@ binah.zip | binah for Q3Test v1.08
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.08
 dm6zb_to_c.zip | dm6zb_to_c for Q3Test v1.08
 dm_mm1.zip | dm_mm1 for Q3Test v1.08
+dm_mm1c.zip | dm_mm1c for Q3Test v1.08
 dm_mm1d.zip | dm_mm1d for Q3Test v1.08
 extra_q3_maps.zip | extra_q3_maps for Q3Test v1.08
 fragtwn1-q3.zip | fragtwn1-q3 for Q3Test v1.08
@@ -199,6 +201,7 @@ vq3maps.zip | vq3maps for Q3Test v1.08
 wiebo_cnv1.zip | wiebo_cnv1 for Q3Test v1.08
 xnd33.zip | xnd33 for Q3Test v1.08
 ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08
+maj_protal.zip | maj_protal for Q3Test v1.08
 
 ### Q3Test v? Maps
 
