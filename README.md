@@ -204,7 +204,6 @@ ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08
 
 File | Description
 --- | ---
-[railmaps.zip](bin/railmaps.zip) | Rail Maps
 dm6.zip | Q1 DM6 for Q3Test
 the-edge.zip | q2dm1 The Edge
 tim_dm1.zip | tim_dm1 map
