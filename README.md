@@ -8,25 +8,52 @@ Before the Quake III Arena Demo was released, and before the retail CD was avail
 
 List of all known Q3Test addons.
 
-### Q3Test Packs
+### Q3Test v? Packs
 
 File | Description
 --- | ---
 386enh.zip | Extension to Q3
 Q3TEST_Expansion_Pack.zip | Q3Test Expansion Pack (weapons, maps, skins)
-Q3VCTF.zip | Q3 CTF Pack
 RevRL.zip | Less rocket trail smoke
-[105ctf.zip](bin/105ctf.zip) | CTF Ver 1.05 Final (includes crack) for Q3T v1.08
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
-[q3a_addon.zip](bin/q3a_addon.zip) | Pack of addons for q3test v1.05
-[rfdrd.zip](bin/rfdrd.zip) | Railgun fix
 [sobch.zip](bin/sobch.zip) | High Resolution Crosshair Pak
-[sobpak7.zip](sobpak7.zip) | Pack with resources
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
+
+### Q3Test v1.05 Mods/Packs
+
+File | Description
+--- | ---
+[q3a_addon.zip](bin/q3a_addon.zip) | Pack of addons for q3test v1.05
+[sobpak7.zip](sobpak7.zip) | Pack with resources Q3Test v1.05
 q3105b.zip | Pak to add weapons to maps in Q3Test v1.05
+q3thud.zip | q3a HUD Q3Test v1.05
+
+### Q3Test v1.08 Mods/Packs
+
+File | Description
+--- | ---
+? | ShadowMan Soundpack Q3Test v1.08
+AustinQ3.zip | Austin-Powers-Soundpack Q3Test v1.08
+Q3VCTF.zip | Q3 CTF Pack  Q3Test v1.08
+SENFEI-PACK.zip | SENFEI MEGA-PACK Q3Test v1.08
+[105ctf.zip](bin/105ctf.zip) | CTF for Q3T v1.08
+[rfdrd.zip](bin/rfdrd.zip) | Dr.DooM's Railfix Q3Test v1.08
+bluepla.zip | Blue Plasmagun Q3Test v1.08
+crsrail.zip | Rail-ChRiSt-Pak 2 Q3Test v1.08
+evilrail.zip | Evil-Rail Effect Q3Test v1.08
+gzarena1.zip | Rocketarena Q3Test v1.08
+kingbeta.zip | King Of The Hill 3 Q3Test v1.08
+modelsounds.zip | New Model Sounds Q3Test v1.08
+q3sounds.zip | Quake 3 Soundpack from CleanerWolf Q3Test v1.08
 q3test.zip | Q3Test 1.08 with 159 maps and skins
-skinpack1.zip | Additional Skins Q3Test 1.08 with 159 maps and skins
+quadepak.zip | Q3 Erosion Pak Q3Test v1.08
+rail_christ.zip | Rail-ChRiSt-Pak 1 Q3Test v1.08
+railpak.zip | Rail-Pak Q3Test v1.08
+rig-lan_1.0b.zip | railgun sound from Quake2 Q3Test v1.08
+skinpack1.zip | Additional Skins Q3Test v1.08 with 159 maps and skins
+unipak03.zip | Quake Universe Pak Q3Test v1.08
+
 
 ### Q3Test Tools
 

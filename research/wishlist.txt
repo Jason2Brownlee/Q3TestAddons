@@ -1,7 +1,7 @@
 # File Wishlist
 # ---------------------------
 
-# packs
+# mods/packs
 Q3TEST_Expansion_Pack.zip
 l33tq3a102.zip
 l33t_101-102.zip
@@ -9,36 +9,49 @@ RevRL.zip
 386enh.zip
 q3test.zip
 q3105b.zip
-q3tweak1039.exe
-Q3Tweak1046.exe
 oldQ3TFull.exe
 oldQ3TSetup.exe
-Q3Tweek1043.exe
+quadepak.zip
+bluepla.zip
+skinpack1.zip
+kingbeta.zip
+gzarena1.zip
+crsrail.zip
+AustinQ3.zip
+evilrail.zip
+rail_christ.zip
+railpak.zip
+SENFEI-PACK.zip
+rig-lan_1.0b.zip
+q3sounds.zip
+modelsounds.zip
+unipak03.zip
+q3thud.zip
 
-# maps
-dm6.zip
-the-edge.zip
-tim_dm1.bsp
-tim_dm1.zip
+# tools
+Md3View-Mac_1.sit
+Q3Tweak1046.exe
+Q3Tweek1043.exe
+Q3Wumpass1.05-1.08.zip
+maxfps105.exe
+maxfps105.zip
+md3view_v1_401.zip
+q3atc04.zip
+q3q2dm1-converter.zip
+q3retex.zip
+q3tweak1039.exe
 
 # bots
 q3bot98.exe
 
-# skins
-skinpack1.zip
-
-# tools
-maxfps105.exe
-maxfps105.zip
-Q3Wumpass1.05-1.08.zip
-q3retex.zip
-md3view_v1_401.zip
-Md3View-Mac_1.sit
-q3atc04.zip
-q3q2dm1-converter.zip
-
 # cracks
 q3dcrk-11.zip
+
+# maps v?
+dm6.zip
+the-edge.zip
+tim_dm1.bsp
+tim_dm1.zip
 
 # v1.05 maps
 q3test1b.zip

@@ -21,6 +21,7 @@ http://www.voodooextreme.com/reverend/Q3Arena/q3aGoodies/RLtrails/RevRL.zip
 http://www.trendkill.net/files/l33tq3a102.zip
 http://www.q3arena.pl/download/add/l33tq3a102.zip
 http://actionxtreme.com/trendkill/l33tq3a/l33t.html
+# l33t_101-102.zip
 http://actionxtreme.com/trendkill/files/l33t_101-102.zip
 http://www.quakefiles.com/files/download.php?filekey=q3altqamod1&d_url=http://actionxtreme.com/trendkill/files/l33t_101-102.zip
 
@@ -148,7 +149,6 @@ http://members.home.com/j03/ouch.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q1dm4z.zip
 http://members.xoom.com/Fragpole/q1q3dm6z.zip
 http://www.quake.de/FILES/quake3/maps/q1q3dm6z.zip
-
 
 # q1q3dm6z.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q1q3dm6z.zip
@@ -310,6 +310,7 @@ http://members.xoom.com/KenATT/q3e1m7.zip
 # Tunnelmapz.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/Tunnelmapz.zip
 http://members.xoom.com/KenATT/Tunnelmapz.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/Tunnelmapz.zip
 
 #  goregrave.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/goregrave.zip
@@ -360,4 +361,66 @@ http://www.fortunecity.de/lindenpark/waldvillas/243/q3a/files/q3powerup2.zip
 
 # qbfg.zip
 http://www.fortunecity.de/lindenpark/waldvillas/243/q3a/files/qbfg.zip
+
+# oldQ3TFull.exe
+http://www.voodooextreme.com/q3tweak/download/oldQ3TFull.exe
+
+# oldQ3TSetup.exe
+http://www.voodooextreme.com/q3tweak/download/oldQ3TSetup.exe
+
+# q3tweak1039.exe
+http://people.a2000.nl/babe/q3tweak1039.exe
+
+# q66.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/q66.zip
+
+# quadepak.zip
+http://www.gweb.de/sam/quake3/pub/mods/quadepak.zip
+
+# bluepla.zip
+http://www.gweb.de/sam/quake3/pub/mods/bluepla.zip
+
+# kingbeta.zip
+http://www.gweb.de/sam/quake3/pub/mods/kingbeta.zip
+
+# gzarena1.zip
+http://www.gweb.de/sam/quake3/pub/mods/gzarena1.zip
+
+# crsrail.zip
+http://www.gweb.de/sam/quake3/pub/mods/crsrail.zip
+
+# AustinQ3.zip
+http://www.redrival.com/rizzo/AustinQ3.zip
+
+# evilrail.zip
+http://www.gweb.de/sam/quake3/pub/mods/evilrail.zip
+
+# rail_christ.zip
+http://www.gweb.de/sam/quake3/pub/mods/rail_christ.zip
+
+# railpak.zip
+http://www.gweb.de/sam/quake3/pub/mods/railpak.zip
+
+# SENFEI-PACK.zip
+http://www.senfei.de/files/SENFEI-PACK.zip
+
+# rig-lan_1.0b.zip
+ftp://quake2.telestream.com/Quake%20Stuff/Quake3/ctf/Rig-lan/rig-lan_1.0b.zip
+
+# q3sounds.zip
+http://www.gweb.de/sam/quake3/pub/mods/q3sounds.zip
+
+# modelsounds.zip
+http://members.microdsi.net/bitstream/Files/modelsounds.zip
+
+# unipak03.zip
+http://senfei.splatterworld.de/Tools/unipak03.zip
+http://www.quake-universe.de/files/unipak03.zip
+
+# q3thud.zip
+http://www.gweb.de/sam/quake3/pub/mods/q3thud.zip
+
+#
+
+
 
