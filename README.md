@@ -27,6 +27,7 @@ l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 q3test.zip | Q3Test 1.08 with 159 maps and skins
 q3test_expansion_pack.zip | q3test_expansion_pack for Q3Test v1.05
 skinpack1.zip | Additional Skins Q3Test 1.08 with 159 maps and skins
+q3105b.zip | Pak to add weapons to maps in Q3Test v1.05
 
 ### Q3Test Tools
 
@@ -46,8 +47,9 @@ Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 [q3control.zip](bin/q3control.zip)<br>q3atc3.zip<br>q3atc31.zip<br>q3atc31min.zip<br>q3atc3min.zip<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>q3atc04.zip<br>[q3atc05.zip](bin/q3atc05.zip)<br>q3atc05patch.zip<br>q3atc06.zip<br>q3atc51.zip<br>q3atcfix1.zip<br>q3atcserver.zip<br>q3atc06.zip | Q3A Total Control
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3nedit.zip](bin/q3nedit.zip) | Quake 3 Name Creater 1.1a
-[q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip<br>[q3wumpass105-109.zip](bin/q3wumpass105-109.zip)<br>[q3wumpas.zip](bin/q3wumpas.zip) | Convert Q3Test maps
+[q3wumpass105.zip](bin/q3wumpass105.zip)<br>[q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip<br>[q3wumpass105-109.zip](bin/q3wumpass105-109.zip)<br>[q3wumpas.zip](bin/q3wumpas.zip) | Convert Q3Test maps
 maxfps105.exe | Max FPS for Q3 1.05
+q3q2dm1-converter.zip<br>[q3q2dm1c.zip](bin/q3q2dm1c.zip) | q3q2dm1-converter for Q3Test
 
 ### Q3Test Cracks
 
@@ -56,6 +58,7 @@ File | Description
 [productid.txt](bin/productid.txt) | Rename demoq3 to baseq3 and add baseq3/productid.txt
 [q3dcrk-10.zip](bin/q3dcrk-10.zip)<br>q3dcrk-11.zip | Q3Test v1.09 Crack
 [q3t108crack.zip](bin/q3t108crack.zip) | Q3Test v1.08 Crack
+[q3test106-crk.zip](bin/q3test106-crk.zip) | Q3Test v1.06 Crack
 [q3test107-crk.zip](bin/q3test107-crk.zip) | Q3Test v1.07 Crack
 q3-cracks.zip | Cracks for all Q3Test versions
 
@@ -79,6 +82,7 @@ S20_DM1.zip | S20_DM1 for Q3Test v1.05
 S20_dm2a.zip | S20_dm2a for Q3Test v1.05
 SPAZ.ZIP | SPAZ for Q3Test v1.05
 XxUBERxX.zip | XxUBERxX for Q3Test v1.05
+[q3test2b.zip](bin/maps-105/q3test2b.zip) | q3test2b for Q3Test v1.05  (requires q3105b)
 aeroq3.zip | aeroq3 for Q3Test v1.05
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.05
 deadlysins.zip | deadlysins for Q3Test v1.05
@@ -95,7 +99,6 @@ q1q3dm4.zip | q1q3dm4 for Q3Test v1.05
 q1q3dm6z.zip | q1q3dm6z for Q3Test v1.05
 q1q3dm7.zip | q1q3dm7 for Q3Test v1.05
 q3-q2dm8.zip | q3-q2dm8 for Q3Test v1.05
-q3105b.zip | q3105b for Q3Test v1.05
 q32am.zip | q32am for Q3Test v1.05
 q3arail.zip | q3arail for Q3Test v1.05
 q3doom2_map06.zip | q3doom2_map06 for Q3Test v1.05
@@ -103,11 +106,13 @@ q3doom2_map07.zip | q3doom2_map07 for Q3Test v1.05
 q3joe2.zip | q3joe2 for Q3Test v1.05
 q3q1dm1.zip | q3q1dm1 for Q3Test v1.05
 q3q1e1m7.zip | q3q1e1m7 for Q3Test v1.05
-q3q2dm1-converter.zip | q3q2dm1-converter for Q3Test v1.05
 q3q2dm1.zip | q3q2dm1 for Q3Test v1.05
 q3q3a.zip | q3q3a for Q3Test v1.05
+q3test1b.zip | q3test1b for Q3Test v1.05 (requires q3105b)
+q3test2b2.zip | q3test2b2 for Q3Test v1.05 (requires q3105b)
 tim_dm1.zip | tim_dm1 for Q3Test v1.05
 wasted.zip | wasted for Q3Test v1.05
+
 
 ### Q3Test v1.08 Maps
 

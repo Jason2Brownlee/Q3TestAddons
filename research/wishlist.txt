@@ -44,3 +44,8 @@ q3atcserver.zip
 q3dcrk-11.zip
 q3-cracks.zip
 
+
+
+# q3 v1.05 maps
+q3test1b.zip
+q3test2b2.zip

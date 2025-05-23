@@ -66,3 +66,10 @@ http://www.geocities.com/dinkhotline/q3/the-edge.zip
 # q3dcrk-11.zip
 http://www.geocities.com/TimesSquare/Tower/8163/zips/q3/q3dcrk-11.zip
 
+# v1.05 maps
+http://www.nationwide.net/~montroll/quake3/maps/q3test2b2.zip
+http://www.nationwide.net/~montroll/quake3/maps/q3test1b.zip
+http://members.xoom.com/Fragpole/aeroq3.zip
+
+# q1q3dm3
+http://www.dqz.de/quake3/b/files/009.zip
