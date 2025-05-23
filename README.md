@@ -47,9 +47,9 @@ Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 [q3control.zip](bin/q3control.zip)<br>q3atc3.zip<br>q3atc31.zip<br>q3atc31min.zip<br>q3atc3min.zip<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>q3atc04.zip<br>[q3atc05.zip](bin/q3atc05.zip)<br>q3atc05patch.zip<br>q3atc06.zip<br>q3atc51.zip<br>q3atcfix1.zip<br>q3atcserver.zip<br>q3atc06.zip | Q3A Total Control
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3nedit.zip](bin/q3nedit.zip) | Quake 3 Name Creater 1.1a
+[q3q2dm1.zip](bin/q3q2dm1.zip)<br>[q3q2dm1c.zip](bin/q3q2dm1c.zip)<br>q3q2dm1-converter.zip | Q2DM1 "The Edge" Converter for Q3Test
 [q3wumpass105.zip](bin/q3wumpass105.zip)<br>[q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>q3wumpass105-107.zip<br>[q3wumpass105-109.zip](bin/q3wumpass105-109.zip)<br>[q3wumpas.zip](bin/q3wumpas.zip) | Convert Q3Test maps
 maxfps105.exe | Max FPS for Q3 1.05
-q3q2dm1-converter.zip<br>[q3q2dm1c.zip](bin/q3q2dm1c.zip) | q3q2dm1-converter for Q3Test
 
 ### Q3Test Cracks
 
@@ -138,7 +138,6 @@ File | Description
 
 File | Description
 --- | ---
-[q3q2dm1.zip](bin/q3q2dm1.zip) | The Edge: Converter to Q3Test
 [railmaps.zip](bin/railmaps.zip) | Rail Maps
 dm6.zip | Q1 DM6 for Q3Test
 the-edge.zip | q2dm1 The Edge
