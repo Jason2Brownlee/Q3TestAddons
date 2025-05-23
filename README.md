@@ -18,7 +18,6 @@ RevRL.zip | Less rocket trail smoke
 [105ctf.zip](bin/105ctf.zip) | CTF Ver 1.05 Final (includes crack) for Q3T v1.08
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
 [q3a_addon.zip](bin/q3a_addon.zip) | Pack of addons for q3test v1.05
-[reaper_bot.zip](bin/reaper_bot.zip) | Reaper bot config pak
 [rfdrd.zip](bin/rfdrd.zip) | Railgun fix
 [sobch.zip](bin/sobch.zip) | High Resolution Crosshair Pak
 [sobpak7.zip](sobpak7.zip) | Pack with resources
@@ -70,8 +69,8 @@ File | Description
 [Scripts.zip](bin/Scripts.zip) | Bot Configs
 [bot.zip](bin/bot.zip) | Q3Test Bots v1.05
 [q3tbots.zip](bin/q3tbots.zip)<br>[q3tbots-1.1.zip](bin/q3tbots-1.1.zip) | Add bots to q3test v1.05
+[reaper_bot.zip](bin/reaper_bot.zip) | Reaper bot config pak
 q3bot98.exe | Q3Test Bots for Win98
-
 
 ### Q3Test v1.05 Maps
 
