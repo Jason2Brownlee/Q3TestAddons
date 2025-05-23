@@ -51,15 +51,6 @@ http://www.q3arena.pl/download/q3test/win/maxfps105.exe
 # q3test.zip
 http://24.72.5.78/dink/q3test.zip
 
-# q3-cracks.zip
-https://www.geocities.ws/dinkhotline/q3/q3-cracks.zip
-
-# Q3EntityEd.zip
-https://www.geocities.ws/dinkhotline/q3/Q3EntityEd.zip
-
-# Q3Wumpass1.05-1.06.zip
-https://www.geocities.ws/dinkhotline/q3/Q3Wumpass1.05-1.06.zip
-
 # the-edge.zip
 http://www.geocities.com/dinkhotline/q3/the-edge.zip
 

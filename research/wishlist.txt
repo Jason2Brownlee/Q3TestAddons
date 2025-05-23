@@ -24,7 +24,6 @@ skinpack1.zip
 # tools
 maxfps105.exe
 maxfps105.zip
-Q3EntityEd.zip
 q3wumpass105-107.zip
 Q3Wumpass1.05-1.06.zip
 q3retex.zip
@@ -43,7 +42,6 @@ q3atcserver.zip
 
 # cracks
 q3dcrk-11.zip
-q3-cracks.zip
 
 # v1.05 maps
 q3test1b.zip

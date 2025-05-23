@@ -32,9 +32,9 @@ q3105b.zip | Pak to add weapons to maps in Q3Test v1.05
 
 File | Description
 --- | ---
-Q3EntityEd.zip | Q3 Entitiy Editor v1.0
 Q3Tweek1043.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 [Java_MD3View_1_0.zip](bin/Java_MD3View_1_0.zip) | Java MD3 View
+[Q3EntityEd.zip](bin/Q3EntityEd.zip) | Q3 Entitiy Editor v1.0
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
 [QuakeStarter-v0.73b.zip](bin/QuakeStarter-v0.73b.zip) | Q3Test Starter
 [funname.zip](bin/funname.zip) | Fun name script
@@ -55,12 +55,12 @@ q3retex.zip | Retexture BSP File
 
 File | Description
 --- | ---
-[productid.txt](bin/productid.txt) | Rename demoq3 to baseq3 and add baseq3/productid.txt
+[productid.zip](bin/productid.zip)<br>[productid.txt](bin/productid.txt) | Rename demoq3 to baseq3 and add baseq3/productid.txt
+[q3-cracks.zip](bin/q3-cracks.zip) | Cracks for all Q3Test versions
 [q3dcrk-10.zip](bin/q3dcrk-10.zip)<br>q3dcrk-11.zip | Q3Test v1.09 Crack
 [q3t108crack.zip](bin/q3t108crack.zip) | Q3Test v1.08 Crack
 [q3test106-crk.zip](bin/q3test106-crk.zip) | Q3Test v1.06 Crack
 [q3test107-crk.zip](bin/q3test107-crk.zip) | Q3Test v1.07 Crack
-q3-cracks.zip | Cracks for all Q3Test versions
 
 ### Q3Test Bots
 
