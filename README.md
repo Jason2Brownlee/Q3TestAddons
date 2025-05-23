@@ -24,7 +24,6 @@ RevRL.zip | Less rocket trail smoke
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 q3test.zip | Q3Test 1.08 with 159 maps and skins
-q3test_expansion_pack.zip | q3test_expansion_pack for Q3Test v1.05
 skinpack1.zip | Additional Skins Q3Test 1.08 with 159 maps and skins
 q3105b.zip | Pak to add weapons to maps in Q3Test v1.05
 

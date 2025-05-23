@@ -8,6 +8,8 @@ l33t_101-102.zip
 RevRL.zip
 386enh.zip
 q3test.zip
+q3105b.zip
+Q3Tweek1043.exe
 
 # maps
 dm6.zip
@@ -26,9 +28,10 @@ maxfps105.exe
 maxfps105.zip
 Q3Wumpass1.05-1.08.zip
 q3retex.zip
-
-# q3 total control
+md3view_v1_401.zip
+Md3View-Mac_1.sit
 q3atc04.zip
+q3q2dm1-converter.zip
 
 # cracks
 q3dcrk-11.zip
@@ -62,7 +65,6 @@ q3q1dm6zc.zip
 q3q2ctf1.zip
 q3q2dmX.zip
 q3saco1.zip
-q3saco2beta.zip
 q3saco2beta.zip
 q3test2_rail.zip
 q3wasted.zip
