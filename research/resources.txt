@@ -50,6 +50,9 @@ https://web.archive.org/web/19991009163957/http://www.dqz.de/quake3/b/index.htm
 	maps
 https://web.archive.org/web/*/http://www.fortunecity.com/underworld/cartridge/395/maps/*
 	maps
+https://web.archive.org/web/20010303155124/http://q3.zone.ru/sections/general/files/files.html
+https://web.archive.org/web/20010203204300/http://q3.zone.ru/sections/general/maps/maps.html
+	maps
 
 
 q3tweak | ?

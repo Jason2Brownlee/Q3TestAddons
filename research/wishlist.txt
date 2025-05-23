@@ -50,6 +50,12 @@ RailAlley.zip
 
 # v1.08 maps
 2box4.zip
+Arma5.zip
+Bugs_pit.zip
+Fusion.zip
+HARdm1beta.zip
+HomieG.zip
+Tunnelmapz.zip
 city1q3.zip
 city64.zip
 command3.zip
@@ -57,12 +63,20 @@ dakyne4-q3.zip
 dm_mm1.zip
 dm_mm1c.zip
 dmc-q1dm3.zip
+doc_q3dm1.zip
+doom2map1.zip
+e1m1.zip
 goregrave.zip
 maj_protal.zip
 majq3dm1beta.zip
 mq3-108.zip
+nvdm1.zip
 ouch.zip
+q2ctf5.zip
+q2ma3.zip
 q3a-q3.zip
+q3atour_q3ver.ZIP
+q3e1m7.zip
 q3iceland.zip
 q3q1dm5-108.zip
 q3q1dm6zc.zip
@@ -72,8 +86,15 @@ q3saco1.zip
 q3saco2beta.zip
 q3test2_rail.zip
 q3wasted.zip
+q66.zip
+rage.zip
 railarena.zip
+twierdza.zip
 two.zip
+
+
+
+
 
 
 

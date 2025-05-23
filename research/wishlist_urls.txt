@@ -272,6 +272,73 @@ http://www2.memes.com/quaker/Q3/q3q1dm4.zip
 # q3q2dm1-converter.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.05/q3q2dm1-converter.zip
 
+# rage.zip
+http://clanshadow.hypermart.net/maps/rage.zip
+
+# HomieG.zip
+http://members.xoom.com/KenATT/HomieG.zip
+
+# doc_q3dm1.zip
+http://www.longfield.cwc.net/q3map/files/maps/doc_q3dm1.zip
+
+# nvdm1.zip
+http://members.xoom.com/_XOOM/custommaps/maps/nvdm1.zip
+
+# Bugs_pit.zip
+http://members.xoom.com/custommaps/maps/Bugs_pit.zip
+
+# q66.zip
+ftp://208.187.236.10/q3test/Maps/v1.08/q66.zip
+http://q3.zone.ru/ftp/maps/q66.zip
+http://www.gweb.de/sam/quake3/pub/maps/q66.zip
+
+# HARdm1beta.zip
+http://www.fortunecity.com/underworld/shootout/580/files/HARdm1beta.zip
+
+# e1m1.zip
+http://members.xoom.com/_XOOM/WinClan/e1m1.zip
+
+# doom2map1.zip
+http://members.xoom.com/_XOOM/WinClan/doom2map1.zip
+
+# q2ma3
+http://www.southport.uk.com/java/q2ma3.zip
+
+# q3e1m7.zip
+http://members.xoom.com/KenATT/q3e1m7.zip
+
+# Tunnelmapz.zip
+ftp://208.187.236.10/q3test/Maps/v1.08/Tunnelmapz.zip
+http://members.xoom.com/KenATT/Tunnelmapz.zip
+
+#  goregrave.zip
+ftp://208.187.236.10/q3test/Maps/v1.08/goregrave.zip
+http://q3.zone.ru/ftp/maps/goregrave.zip
+http://www.dqz.de/quake3/b/files/goregrave.zip
+
+# Q3VCTF.zip
+http://www.thescorchedearth.com/resources/Q3VCTF.zip
+
+# Fusion.zip
+http://quake3.valhalla.com.pl/mapy/q3test2/Fusion.zip
+
+# twierdza.zip
+http://quake3.valhalla.com.pl/mapy/q3test2/twierdza.zip
+
+# q2ctf5.zip
+http://quake3.valhalla.com.pl/mapy/q3test2/q2ctf5.zip
+http://www.fortunecity.com/underworld/quake/739/q2ctf5.zip
+http://www.fortunecity.com/underworld/spaceinvader/674/q2ctf5.zip
+
+# Arma5.zip
+http://quake3.valhalla.com.pl/mapy/q3test2/Arma5.zip
+
+# q3atour_q3ver.ZIP
+http://members.nbci.com/q3atour/maps/q3atour_q3ver.ZIP
+http://members.xoom.com/q3atour/maps/q3atour_q3ver.ZIP
+
+
+
 
 
 
