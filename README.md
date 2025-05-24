@@ -211,9 +211,7 @@ city64.zip | city64 for Q3Test v1.08
 command3.zip | command3 for Q3Test v1.08
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.08
 dm6zb_to_c.zip | dm6zb_to_c for Q3Test v1.08
-dm_mm1.zip | dm_mm1 for Q3Test v1.08
-dm_mm1c.zip | dm_mm1c for Q3Test v1.08
-dm_mm1d.zip | dm_mm1d for Q3Test v1.08
+dm_mm1.zip<br>dm_mm1c.zip<br>dm_mm1d.zip | Masher's Playground for Q3Test v1.08
 dmc-q1dm3.zip | dmc-q1dm3 for Q3Test v1.08
 doc_q3dm1.zip | doc_q3dm1 for Q3Test v1.08
 doom2map1.zip | doom2map1 for Q3Test v1.08
@@ -304,7 +302,7 @@ darkq2dm2.zip | Map from Quake2 - q2dm2
 darkq2dm8.zip | Map from Quake2 - q2dm8
 deadlysins.zip | Deadly Sins for Q3Test
 dm6.zip | Q1 DM6 for Q3Test
-gdm3_q3.zip | Q3Test Map
+gdm3_q3.zip | Golney's DM3 Arena Q3Test Map
 ibdm1base.zip | Map for Q3Test
 q1q3dm1.zip | Map from Quake
 q1q3dm6.zip | Map from Quake

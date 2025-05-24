@@ -31,15 +31,16 @@ http://www.quakefiles.com/files/download.php?filekey=q3altqamod1&d_url=http://ac
 http://www.q3arena.pl/download/tools/Q3Tweek1043.exe
 
 # tim_dm1.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/tim_dm1.zip
+ftp://ftp.ukrnet.net/pub/games/q3a/ihv/tim_dm1.zip
+http://members.xoom.com/E_Piphany/tim_dm1.zip
+http://members.xoom.com/bikkelpage/tim_dm1.zip
+http://quake.axg.net/pql/files/tim_dm1.bsp
 http://www.captured.com/underground/news/tim_dm1.zip
 http://www.fortunecity.com/underworld/shootout/580/files/tim_dm1.zip
 http://www.primorye.ru/quake/files%5Cq3%5Ctim_dm1.zip
 http://www.primorye.ru/quake/files/q3/tim_dm1.zip
-http://quake.axg.net/pql/files/tim_dm1.bsp
-ftp://ftp.ukrnet.net/pub/games/q3a/ihv/tim_dm1.zip
-http://members.xoom.com/E_Piphany/tim_dm1.zip
 http://www2.memes.com/quaker/q3/tim_dm1.zip
-ftp://208.187.236.10:21/q3test/Maps/v1.05/tim_dm1.zip
 
 # dm6.zip
 http://www.primorye.ru/quake/files/q3/dm6.zip
