@@ -34,6 +34,8 @@ varge.zip
 core.pk3
 geckopak.zip
 sodq3exp.zip
+ctf105.zip
+newskins.zip
 
 # tools
 Md3View-Mac_1.sit
@@ -62,6 +64,18 @@ dm6.zip
 the-edge.zip
 tim_dm1.bsp
 tim_dm1.zip
+railgun101.zip
+q3sphere.zip
+q3v.zip
+v3test2.zip
+q3saco2beta.zip
+q1q3dm6zc.zip
+q1q3dm6.zip
+q1q3dm1.zip
+q3q2e4m3.zip
+darkq2dm1.zip
+darkq2dm2.zip
+darkq2dm8.zip
 
 # v1.05 maps
 q3test1b.zip
@@ -114,6 +128,8 @@ rage.zip
 railarena.zip
 twierdza.zip
 two.zip
+q3dm2.zip
+majq3dm1.zip
 
 # v1.09 maps
 Railgun%20Yard.zip

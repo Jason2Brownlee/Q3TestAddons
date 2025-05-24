@@ -455,6 +455,60 @@ http://q3.zone.ru/ftp/crq3108.zip
 http://q3.zone.ru/files/geckopak.zip
 
 # sodq3exp.zip
+ftp://24.31.27.145/c%3A/alex/ftp/pub/quake3source/OtherDls/etc/sodq3exp.zip
+http://thor.prohosting.com/~jeppef/cgi-bin/clickcount.cgi?url=http://home.swipnet.se/~w-78894/sod/sodq3exp.zip&file=../download.htm&mark=sodq3
 http://home.swipnet.se/~w-78894/sod/sodq3exp.zip
+
+# ctf105.zip
+http://q3.zone.ru/ftp/mods/ctf105.zip
+http://www.quake.wplus.net/archiv/ctf105.zip
+
+# newskins.zip
+http://q3.zone.ru/ftp/newskins.zip
+
+# railgun101.zip
+http://q3.zone.ru/ftp/maps/railgun101.zip
+
+# q3dm2.zip
+http://q3.zone.ru/ftp/maps/q3dm2.zip
+
+# majq3dm1.zip
+http://q3.zone.ru/ftp/maps/majq3dm1.zip
+
+# q3sphere.zip
+http://q3.zone.ru/ftp/maps/q3sphere.zip
+
+# q3v.zip
+http://q3.zone.ru/ftp/maps/q3v.zip
+
+# v3test2.zip
+http://q3.zone.ru/ftp/maps/v3test2.zip
+
+# q3saco2beta.zip
+http://q3.zone.ru/ftp/maps/q3saco2beta.zip
+
+# q1q3dm6zc.zip
+http://q3.zone.ru/ftp/maps/q1q3dm6zc.zip
+
+# q1q3dm6.zip
+http://q3.zone.ru/ftp/q1q3dm6.zip
+
+# q1q3dm1.zip
+http://q3.zone.ru/files/q1q3dm1.zip
+
+# q3q2e4m3.zip
+http://q3.zone.ru/files/q3q2e4m3.zip
+
+# darkq2dm1.zip
+http://q3.zone.ru/ftp/darkq2dm1.zip
+
+# darkq2dm2.zip
+http://q3.zone.ru/darkman/darkq2dm2.zip
+
+# darkq2dm8.zip
+http://q3.zone.ru/darkman/darkq2dm8.zip
+
+
+
 
 

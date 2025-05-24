@@ -20,6 +20,7 @@ RevRL.zip | Less rocket trail smoke
 core.pk3 | Q3dm17 for q3demotest
 geckopak.zip | Multiple Addons in one pak
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
+newskins.zip | New Skins
 sodq3exp.zip | New numbers, sight and background for console
 
 ### Q3Test v1.05 Mods/Packs
@@ -40,7 +41,7 @@ File | Description
 AustinQ3.zip | Austin-Powers-Soundpack Q3Test v1.08
 Q3VCTF.zip | Q3 CTF Pack  Q3Test v1.08
 SENFEI-PACK.zip | SENFEI MEGA-PACK Q3Test v1.08
-[105ctf.zip](bin/105ctf.zip) | CTF for Q3T v1.08
+[105ctf.zip](bin/105ctf.zip)<br>ctf105.zip | CTF for Q3T v1.08
 [rfdrd.zip](bin/rfdrd.zip) | Dr.DooM's Railfix Q3Test v1.08
 [sarge.zip](bin/sarge.zip) | Sarge Model Skin Q3Test v1.08
 bluepla.zip | Blue Plasmagun Q3Test v1.08
@@ -221,6 +222,7 @@ japanc.zip | japanc for Q3Test v1.08
 kick.zip | kick for Q3Test v1.08
 maj_portal.zip | maj_portal for Q3Test v1.08
 maj_protal.zip | maj_protal for Q3Test v1.08
+majq3dm1.zip | Map for Q3Test 1.08 Similar to q3test2
 majq3dm1beta.zip | majq3dm1beta for Q3Test v1.08
 majq3dm1beta2.zip | majq3dm1beta2 for Q3Test v1.08
 mq3-108.zip | mq3-108 for Q3Test v1.08
@@ -238,6 +240,7 @@ q3atour.zip | q3atour for Q3Test v1.08
 q3atour_q3ver.ZIP | q3atour_q3ver for Q3Test v1.08
 q3demo.zip | q3demo for Q3Test v1.08
 q3dm12_ctf.zip | q3dm12_ctf for Q3Test v1.08
+q3dm2.zip | Map for Q3Test 1.08 Similar to q3test2
 q3e1m7.zip | q3e1m7 for Q3Test v1.08
 q3evilq2dm.zip | q3evilq2dm for Q3Test v1.08
 q3iceland.zip | q3iceland for Q3Test v1.08
@@ -286,9 +289,21 @@ qbfg.zip | qbfg for Q3Test v1.09
 
 File | Description
 --- | ---
+darkq2dm1.zip | Map from Quake2 - q2dm1 - another version
+darkq2dm2.zip | Map from Quake2 - q2dm2
+darkq2dm8.zip | Map from Quake2 - q2dm8
 dm6.zip | Q1 DM6 for Q3Test
+q1q3dm1.zip | Map from Quake
+q1q3dm6.zip | Map from Quake
+q1q3dm6zc.zip | Another dm6 convention (The Dark Zone) in Q3Test
+q3q2e4m3.zip | Map from Quake
+q3saco.zip | Another map with abyss and jump pads
+q3sphere.zip | A small sphere with lots of weapons but little space
+q3v.zip | Quite a good map for DM and duels
+railgun101.zip | Railgun 101 from Quake2
 the-edge.zip | q2dm1 The Edge
 tim_dm1.zip | tim_dm1 map
+v3test2.zip | Made on the basis of q3test2. Added a new "floor"
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Description**: indicates that we could not figure out the purpose of the file yet.
