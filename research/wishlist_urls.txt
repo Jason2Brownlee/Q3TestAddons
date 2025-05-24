@@ -729,3 +729,6 @@ ftp://ftp.cityline.ru/pub/quake/quake3/patches/q3ctf103.zip
 
 # q2toq3t105.zip
 http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t105.zip
+
+# q2toq3t.zip
+http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t.zip
