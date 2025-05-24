@@ -134,7 +134,6 @@ http://www.dqz.de/quake3/b/files/majq3dm1beta.zip
 http://www.gweb.de/sam/quake3/pub/maps/majq3dm1beta.zip
 http://www.quake3.baltnet.ru/q/maps/majq3dm1beta.zip
 
-
 # two.zip
 http://q3.zone.ru/ftp/maps/two.zip
 http://website.lineone.net/~pimper3/files/q3/two.zip
@@ -566,85 +565,147 @@ http://www.altern.org/lavite/zip/maps/gdm3_q3.zip
 # mq3.zip
 http://www.altern.org/lavite/zip/maps/mq3.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/mq3.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/mq3.zip
+http://www.gweb.de/sam/quake3/pub/maps/mq3.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/mq3.zip
 
 # ibdm1.zip
 http://perso.club-internet.fr/lavite/goodies/maps/q3108/ibdm1.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/ibdm1.zip
 
 # pak91.zip
 http://www.quake.wplus.net/archiv/pak91.zip
 
-# tra.zip
+# tra.zip (aka traq3a2.zip)
 http://q3.zone.ru/ftp/maps/tra.zip
+http://home.sol.no/~simhagen/tra.zip
+
+# traq3a2.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/traq3a2.zip
+http://members.xoom.com/custommaps/maps/traq3a2.zip
 
 # keep.zip
 http://q3.zone.ru/ftp/maps/keep.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/Keep.zip
 
 # ROUND.ZIP
 ftp://208.187.236.10/q3test/Maps/v1.05/ROUND.ZIP
+ftp://208.187.236.10:21/q3test/Maps/v1.05/ROUND.ZIP
+http://www.geocities.ws/dinkhotline/q3/round.zip
 
 # S20_DM.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/S20_DM.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/S20_DM.zip
 
 # S20_DM1.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/S20_DM1.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/S20_DM1.zip
+http://q3maps.dynip.com/q3stuff/maps/S20_DM1.zip
 
 # S20_dm2a.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/S20_dm2a.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/S20_dm2a.zip
+http://q3maps.dynip.com/q3stuff/maps/S20_dm2a.zip
 
 # SPAZ.ZIP
 ftp://208.187.236.10/q3test/Maps/v1.05/SPAZ.ZIP
+ftp://208.187.236.10:21/q3test/Maps/v1.05/SPAZ.ZIP
+http://q3maps.dynip.com/q3stuff/maps/SPAZ.ZIP
+http://www.gweb.de/sam/quake3/pub/maps/spaz.zip
 
 # XxUBERxX.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/XxUBERxX.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/XxUBERxX.zip
+http://www.trendkill.net/files/XxUBERxX.zip
 
 # dm3a.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/dm3a.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/dm3a.zip
 
 # dm_portal1.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/dm_portal1.zip
 
 # fact3.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/fact3.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/fact3.zip
+http://members.xoom.com/Fragpole/fact3.zip
+http://www.trendkill.net/files/fact3.zip
 
 # km_portal.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/km_portal.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/km_portal.zip
 
 # morerail.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/morerail.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/morerail.zip
+http://www2.memes.com/quaker/q3/morerail.zip
 
 # poleyard.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/poleyard.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/poleyard.zip
+http://q3fa.quake3nation.com/files/maps/poleyard.zip
+http://www.quakefiles.com/files/download.php?filekey=q3apoleyar1&d_url=http://q3fa.quake3nation.com/files/maps/poleyard.zip
 
 # q1q3dm4.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q1q3dm4.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q1q3dm4.zip
+http://enterprise.powerup.com.au/~flsmith/Q1Q3Dm4.zip
+http://q3.zone.ru/ftp/q1q3dm4.zip
+http://www.planetq3.com/nana/files/maps/q1q3dm4.zip
+http://www.quakefiles.com/files/download.php?filekey=q3aqqdm3&d_url=http://www.planetq3.com/nana/files/maps/q1q3dm4.zip
 
 # q1q3dm7.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q1q3dm7.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q1q3dm7.zip
+http://enterprise.powerup.com.au/~admsj/Q1Q3DM7.zip
+http://q3.zone.ru/ftp/q1q3dm7.zip
 
 # q3-q2dm8.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3-q2dm8.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q3-q2dm8.zip
+http://q3maps.dynip.com/q3-q2dm8.zip
+http://www2.memes.com/quaker/q3/q3-q2dm8.zip
 
 # q32am.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q32am.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q32am.zip
+http://www.trendkill.net/files/q32am.zip
+http://www2.memes.com/quaker/q3/q32am.zip
 
 # q3arail.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3arail.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q3arail.zip
 
 # q3doom2_map06.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3doom2_map06.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q3doom2_map06.zip
+http://www.planetq3.com/../q3doom2_map06.zip
+http://www.planetq3.com/nana/files/maps/q3doom2_map06.zip
+http://www.quakefiles.com/files/download.php?filekey=q3aqdoomma1&d_url=http://www.planetq3.com/nana/files/maps/q3doom2_map06.zip
+http://www.trendkill.net/files/q3doom2_map06.zip
+http://www2.memes.com/quaker/q3/q3doom2_map06.zip
 
 # q3doom2_map07.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3doom2_map07.zip
 
 # q3joe2.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3joe2.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q3joe2.zip
+http://www.gweb.de/sam/quake3/pub/maps/q3joe2.zip
 
 # q3q1dm1.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3q1dm1.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q3q1dm1.zip
+http://www.fortunecity.com/underworld/blaster/904/maps/q3q1dm1.zip
+http://www.trendkill.net/files/q3q1dm1.zip
 
 # q3q1e1m7.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3q1e1m7.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q3q1e1m7.zip
 
 # q3q3a.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3q3a.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q3q3a.zip
+http://www.trendkill.net/files/q3q3a.zip
+http://www2.memes.com/quaker/q3/q3q3a.zip
 
