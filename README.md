@@ -23,6 +23,7 @@ core.pk3 | Q3dm17 for q3demotest
 geckopak.zip | Multiple Addons in one pak
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 newskins.zip | New Skins
+pak91.zip | tim_dm1a and timdm2b maps for q3test
 q1visor.zip | Quake1 Player Sounds for Q3Test
 sodq3exp.zip | New numbers, sight and background for console
 
@@ -275,6 +276,7 @@ two.zip | two for Q3Test v1.08
 wiebo_cnv1.zip | wiebo_cnv1 for Q3Test v1.08
 xnd33.zip | xnd33 for Q3Test v1.08
 ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08
+tra.zip | traq3a2 for Q3Test v1.08
 
 ### Q3Test v1.09 Maps
 

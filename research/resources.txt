@@ -47,18 +47,20 @@ http://horb.chat.ru/q3edits.htm
 http://horb.chat.ru/q3maps.htm
 	maps [processed]
 https://web.archive.org/web/19991009163957/http://www.dqz.de/quake3/b/index.htm
-	maps
+https://web.archive.org/web/19991009183238/http://www.dqz.de/quake3/d/index.htm
+	maps [processed]
 https://web.archive.org/web/*/http://www.fortunecity.com/underworld/cartridge/395/maps/*
-	maps
+	maps [processed, not q3 as far as i can tell]
 https://web.archive.org/web/20010303155124/http://q3.zone.ru/sections/general/files/files.html
 https://web.archive.org/web/20010203204300/http://q3.zone.ru/sections/general/maps/maps.html
-	maps
+	maps [processed]
 https://web.archive.org/web/19991127120248/http://q3.zone.ru:80/sections/general/files/files.html
 	so much [processed]
 https://web.archive.org/web/20010128183200/http://www.gweb.de/sam/quake3/njindex.html
 	so many maps and mods!!!! [processed]
 https://web.archive.org/web/20000302055546/http://www.quake.wplus.net/
-	packs
+https://web.archive.org/web/20000919160557fw/http://www.quake.wplus.net/down.html
+	packs [processed]
 https://web.archive.org/web/20000511210701/http://www.altern.org/lavite/maps.htm
 	q3test maps [processed]
 

@@ -183,6 +183,7 @@ ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/q3a-q3.zip
 # maj_protal.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/maj_portal.zip
 http://www.quake3.baltnet.ru/q/maps/maj_portal.zip
+http://q3.zone.ru/ftp/maps/maj_portal.zip
 
 # fragtwn1-q3
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/fragtwn1-q3.zip
@@ -501,6 +502,7 @@ http://q3.zone.ru/ftp/maps/v3test2.zip
 # q3saco2beta.zip
 http://q3.zone.ru/ftp/maps/q3saco2beta.zip
 http://www.altern.org/lavite/zip/maps/q3saco2beta.ZIP
+http://www.dqz.de/quake3/b/files/q3saco2beta.zip
 
 # q1q3dm6zc.zip
 http://q3.zone.ru/ftp/maps/q1q3dm6zc.zip
@@ -566,4 +568,11 @@ http://www.altern.org/lavite/zip/maps/mq3.zip
 # ibdm1.zip
 http://perso.club-internet.fr/lavite/goodies/maps/q3108/ibdm1.zip
 
+# pak91.zip
+http://www.quake.wplus.net/archiv/pak91.zip
 
+# tra.zip
+http://q3.zone.ru/ftp/maps/tra.zip
+
+# keep.zip
+http://q3.zone.ru/ftp/maps/keep.zip

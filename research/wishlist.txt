@@ -38,6 +38,7 @@ ctf105.zip
 newskins.zip
 q1visor.zip
 q3.zip
+pak91.zip
 
 # tools
 Md3View-Mac_1.sit
@@ -141,6 +142,9 @@ twierdza.zip
 two.zip
 q3dm2.zip
 majq3dm1.zip
+tra.zip
+traq3a2.zip
+keep.zip
 
 # v1.09 maps
 Railgun%20Yard.zip
