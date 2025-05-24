@@ -44,6 +44,7 @@ q3ctf103.zip
 q2toq3t105.zip
 q2toq3t.zip
 q2toq3t_102.zip
+q2toq3t1.071.zip
 
 # tools
 Md3View-Mac_1.sit

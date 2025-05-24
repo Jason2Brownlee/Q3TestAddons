@@ -735,3 +735,6 @@ http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t.zip
 
 # q2toq3t_102.zip
 http://www.quake.de/FILES/quake3/tool/q2toq3t_102.zip
+
+# q2toq3t1.071.zip
+ftp://208.187.236.10:21/q3test/Map%20Converter/q2toq3t1.071.zip
