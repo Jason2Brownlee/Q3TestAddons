@@ -723,3 +723,7 @@ http://www.moneychair.demon.co.uk/quake3/railfix/railgf1a.zip
 # q3name.zip
 http://www.moneychair.demon.co.uk/quake3/funname/Q3name.zip
 
+# q3ctf103.zip
+http://website.lineone.net/~pimper2/files/q3/q3ctf103.zip
+ftp://ftp.cityline.ru/pub/quake/quake3/patches/q3ctf103.zip
+

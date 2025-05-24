@@ -48,7 +48,7 @@ File | Description
 AustinQ3.zip | Austin-Powers-Soundpack Q3Test v1.08
 Q3VCTF.zip | Q3 CTF Pack  Q3Test v1.08
 SENFEI-PACK.zip | SENFEI MEGA-PACK Q3Test v1.08
-[105ctf.zip](bin/105ctf.zip)<br>ctf105.zip | CTF for Q3T v1.08
+[105ctf.zip](bin/105ctf.zip)<br>ctf105.zip<br>q3ctf103.zip | CTF for Q3T v1.08
 [rfdrd.zip](bin/rfdrd.zip) | Dr.DooM's Railfix Q3Test v1.08
 [sarge.zip](bin/sarge.zip) | Sarge Model Skin Q3Test v1.08
 bluepla.zip | Blue Plasmagun Q3Test v1.08
