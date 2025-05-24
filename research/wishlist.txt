@@ -37,6 +37,7 @@ sodq3exp.zip
 ctf105.zip
 newskins.zip
 q1visor.zip
+q3.zip
 
 # tools
 Md3View-Mac_1.sit
@@ -83,7 +84,7 @@ pq3m0.zip
 2am-q3.zip
 majq3dm1beta2.zip
 ibdm1base.zip
-
+gdm3_q3.zip
 
 # v1.05 maps
 q3test1b.zip
@@ -92,8 +93,10 @@ aeroq3.zip
 q3q1dm4.zip
 q1q3dm6z.zip
 RailAlley.zip
+mq3.zip
 
 # v1.08 maps
+ibdm1.zip
 2box4.zip
 Arma5.zip
 Bugs_pit.zip

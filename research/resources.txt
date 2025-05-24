@@ -59,5 +59,6 @@ https://web.archive.org/web/20010128183200/http://www.gweb.de/sam/quake3/njindex
 	so many maps and mods!!!! [processed]
 https://web.archive.org/web/20000302055546/http://www.quake.wplus.net/
 	packs
-
+https://web.archive.org/web/20000511210701/http://www.altern.org/lavite/maps.htm
+	q3test maps [processed]
 

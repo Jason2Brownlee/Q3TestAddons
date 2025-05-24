@@ -34,6 +34,7 @@ File | Description
 [q3thud.zip](bin/q3thud.zip) | q3a HUD Q3Test v1.05
 [q3tmaps.zip](bin/q3tmaps.zip) | Q3Test Maps (Q3TEST1b.bsp and Q3TEST2b.bsp), sounds, icons, crosshairs, etc.
 [sobpak7.zip](sobpak7.zip) | Pack with resources Q3Test v1.05
+q3.zip | Collection of maps (q3test2h, km_portal, conv), bot support for Q3Test v1.05
 q3105b.zip | Pak to add weapons to maps in Q3Test v1.05
 
 ### Q3Test v1.08 Mods/Packs
@@ -297,6 +298,7 @@ darkq2dm2.zip | Map from Quake2 - q2dm2
 darkq2dm8.zip | Map from Quake2 - q2dm8
 deadlysins.zip | Deadly Sins for Q3Test
 dm6.zip | Q1 DM6 for Q3Test
+gdm3_q3.zip | Q3Test Map
 ibdm1base.zip | Map for Q3Test
 q1q3dm1.zip | Map from Quake
 q1q3dm6.zip | Map from Quake
