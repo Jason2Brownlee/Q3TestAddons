@@ -124,6 +124,7 @@ http://q3.zone.ru/ftp/maps/dm_mm1.zip
 http://www.dqz.de/quake3/b/files/dm_mm1.zip
 http://www.psychonomix.de/masher/download/dm_mm1.zip
 http://perso.club-internet.fr/lavite/goodies/maps/q3108/dm_mm1.zip
+http://members.xoom.com/quake3bots/files/dm_mm1.zip
 
 # majq3dm1beta.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/majq3dm1beta.zip
@@ -185,6 +186,8 @@ ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/q3a-q3.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/maj_portal.zip
 http://www.quake3.baltnet.ru/q/maps/maj_portal.zip
 http://q3.zone.ru/ftp/maps/maj_portal.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/maj_portal.zip
+http://quake.at.frob.org/files/editing/maj_portal.zip
 
 # fragtwn1-q3
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/fragtwn1-q3.zip
@@ -566,6 +569,7 @@ http://www.skipnet.com/~ryan/q3.zip
 
 # gdm3_q3.zip
 http://www.altern.org/lavite/zip/maps/gdm3_q3.zip
+ftp://ftp.mgon.com/q3center/maps/gdm3_q3.zip
 
 # mq3.zip
 http://www.altern.org/lavite/zip/maps/mq3.zip
@@ -593,6 +597,7 @@ http://members.xoom.com/custommaps/maps/traq3a2.zip
 # keep.zip
 http://q3.zone.ru/ftp/maps/keep.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/Keep.zip
+http://members.xoom.com/quake3bots/files/keep.zip
 
 # ROUND.ZIP
 ftp://208.187.236.10/q3test/Maps/v1.05/ROUND.ZIP

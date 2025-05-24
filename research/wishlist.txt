@@ -59,6 +59,7 @@ q3q2dm1-converter.zip
 q3tweak1039.exe
 Q3T1048-2w.exe
 Q3T1048r.exe
+Q3TPpp.exe
 oldQ3TFull.exe
 oldQ3TSetup.exe
 q3viewer.zip
