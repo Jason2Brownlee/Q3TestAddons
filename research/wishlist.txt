@@ -88,16 +88,37 @@ ibdm1base.zip
 gdm3_q3.zip
 
 # v1.05 maps
+ROUND.ZIP
+RailAlley.zip
+S20_DM.zip
+S20_DM1.zip
+S20_dm2a.zip
+SPAZ.ZIP
+XxUBERxX.zip
+aeroq3.zip
+dm3a.zip
+dm_portal1.zip
+fact3.zip
+km_portal.zip
+morerail.zip
+mq3.zip
+poleyard.zip
+q1q3dm4.zip
+q1q3dm6z.zip
+q1q3dm7.zip
+q3-q2dm8.zip
+q32am.zip
+q3arail.zip
+q3doom2_map06.zip
+q3joe2.zip
+q3q1dm1.zip
+q3q1dm4.zip
+q3q1e1m7.zip
+q3q3a.zip
 q3test1b.zip
 q3test2b2.zip
-aeroq3.zip
-q3q1dm4.zip
-q1q3dm6z.zip
-RailAlley.zip
-mq3.zip
 
 # v1.08 maps
-ibdm1.zip
 2box4.zip
 Arma5.zip
 Bugs_pit.zip
@@ -116,7 +137,10 @@ doc_q3dm1.zip
 doom2map1.zip
 e1m1.zip
 goregrave.zip
+ibdm1.zip
+keep.zip
 maj_protal.zip
+majq3dm1.zip
 majq3dm1beta.zip
 mq3-108.zip
 nvdm1.zip
@@ -125,6 +149,7 @@ q2ctf5.zip
 q2ma3.zip
 q3a-q3.zip
 q3atour_q3ver.ZIP
+q3dm2.zip
 q3e1m7.zip
 q3iceland.zip
 q3q1dm5-108.zip
@@ -138,13 +163,10 @@ q3wasted.zip
 q66.zip
 rage.zip
 railarena.zip
-twierdza.zip
-two.zip
-q3dm2.zip
-majq3dm1.zip
 tra.zip
 traq3a2.zip
-keep.zip
+twierdza.zip
+two.zip
 
 # v1.09 maps
 Railgun%20Yard.zip

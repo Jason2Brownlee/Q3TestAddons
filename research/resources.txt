@@ -2,50 +2,51 @@ Resources
 ---------
 
 
+https://www.geocities.ws/dinkhotline/q3/files.html
+	[processed]
+https://www.geocities.ws/dinkhotline/q3/q3testversions.html
+	[processed]
+https://www.geocities.ws/dinkhotline/q3/1.05maps.html
+	maps [processed]
+https://www.geocities.ws/dinkhotline/q3/1.08maps.html
+	maps
 https://dow.narod.ru/files/index.htm
-	list of tools and maps
+	list of tools and maps [processed]
 https://web.archive.org/web/19991013102327/http://hackfleisch.de/
-	expansion
+	expansion [processed]
 https://web.archive.org/web/19991012095133/http://trendkill.net:80/files.html
 https://web.archive.org/web/19990819041800/http://trendkill.net:80/index.html
-	mapping
+	mapping [processed, links don't work?]
 https://web.archive.org/web/20010508183234/http://www.captured.com:80/underground/news/oldnews.htm
 https://web.archive.org/web/20010522083148/http://www.captured.com:80/underground/news/may28-jul07.html
-	maps and tools
-https://web.archive.org/web/19990508205307/http://www.planetquake.com/ra2io/
-https://web.archive.org/web/20000303223325/http://www.planetquake.com/ra2io/files.shtm
-https://web.archive.org/web/*/http://www.planetquake.com/ra2io/*
-	packs
-https://web.archive.org/web/*/http://www.voodooextreme.com/reverend/Q3Arena/q3aGoodies*
-https://web.archive.org/web/20000408173054/http://www.voodooextreme.com:80/reverend/Q3Arena/Q3A_frames.html
-	goodies
+	maps and tools [processed]
 https://web.archive.org/web/*/http://www.q3arena.pl/download/*
 https://web.archive.org/web/19991113072315/http://www.q3arena.pl:80/
 https://web.archive.org/web/19991113223955/http://www.q3arena.pl/skiny.html
-	goodies
-https://www.geocities.ws/dinkhotline/q3/files.html
-https://www.geocities.ws/dinkhotline/q3/q3testversions.html
-https://www.geocities.ws/dinkhotline/q3/1.05maps.html
-https://www.geocities.ws/dinkhotline/q3/1.08maps.html
-	maps,  tools
+	skins
+https://web.archive.org/web/*/http://www.voodooextreme.com/reverend/Q3Arena/q3aGoodies*
+https://web.archive.org/web/20000408173054/http://www.voodooextreme.com:80/reverend/Q3Arena/Q3A_frames.html
+	goodies [processed, meh]
+https://web.archive.org/web/19990508205307/http://www.planetquake.com/ra2io/
+https://web.archive.org/web/20000303223325/http://www.planetquake.com/ra2io/files.shtm
+https://web.archive.org/web/*/http://www.planetquake.com/ra2io/*
 https://www.gamers.org/pub/games/idgames2/planetquake/ra2io/
-	stuff
+	stuff [processed, one pack?, meh]
 https://discmaster.textfiles.com/browse/26855/PCZONE%2388APR00.iso/Quake%20III%20Arena/Levels
-	maps
+	maps [processed, all after q3test from what i can tell]
 https://discmaster.textfiles.com/browse/31424/QUAKEBIBLE.bin/quake3
-	maps
-https://fragpile.tripod.com/maptools.htm
-	tools
-https://discmaster.textfiles.com/browse/22872/PCA9911.BIN/Spielerforum/Quake3Arena
-	tools
-https://web.archive.org/web/20000615181159/http://members.aol.com/rjdriver/q3test1.htm
-	crosshairs
-https://groups.google.com/g/alt.games.quake3/c/jXvkX7la-UQ
-	q3test faq
-http://horb.chat.ru/q3edits.htm
-	tools
-http://horb.chat.ru/q3maps.htm
 	maps [processed]
+https://fragpile.tripod.com/maptools.htm
+	tools [processed]
+https://discmaster.textfiles.com/browse/22872/PCA9911.BIN/Spielerforum/Quake3Arena
+	tools [processed]
+https://web.archive.org/web/20000615181159/http://members.aol.com/rjdriver/q3test1.htm
+	crosshairs [processed]
+https://groups.google.com/g/alt.games.quake3/c/jXvkX7la-UQ
+	q3test faq [processed]
+http://horb.chat.ru/q3maps.htm
+http://horb.chat.ru/q3edits.htm
+	maps, tools [processed]
 https://web.archive.org/web/19991009163957/http://www.dqz.de/quake3/b/index.htm
 https://web.archive.org/web/19991009183238/http://www.dqz.de/quake3/d/index.htm
 	maps [processed]
