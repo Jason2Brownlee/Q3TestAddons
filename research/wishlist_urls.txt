@@ -730,11 +730,31 @@ ftp://ftp.cityline.ru/pub/quake/quake3/patches/q3ctf103.zip
 # q2toq3t105.zip
 http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t105.zip
 
-# q2toq3t.zip
+# q2toq3t.zip (many versions with the same filename)
+http://ftp.sunet.se/idgames2/planetquake/kcmaps/q2toq3t.zip
+http://ftp.sunet.se/planetquake/kcmaps/q2toq3t.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/kcmaps/q2toq3t.zip
+http://people.a2000.nl/babe/q2toq3t.zip
 http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t.zip
+http://q3.zone.ru/ftp/Q2toQ3T.zip
+http://quake3.de/files/q2toq3t.zip
+http://www.captured.com/underground/news/q2toq3t.zip
+http://www.der-quaker.de/mykros/files/q2toq3t.zip
+http://www.dqz.de/quake3/b/files/q2toq3t.zip
+http://www.dqz.de/quake3/d/files/q2toq3t.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/kcmaps/q2toq3t.zip
+http://www.gamers.org/pub/idgames2/planetquake/kcmaps/q2toq3t.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/kcmaps/q2toq3t.zip
+http://www.gweb.de/sam/quake3/pub/tools/q2toq3t.zip
+http://www.moneychair.demon.co.uk/quake3/maps/q2toq3t.zip
+http://www.primorye.ru/quake/files%5Cq3%5Cq2toq3t.zip
+https://www.quaddicted.com/files/idgames2/planetquake/kcmaps/q2toq3t.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/kcmaps/q2toq3t.zip
 
 # q2toq3t_102.zip
 http://www.quake.de/FILES/quake3/tool/q2toq3t_102.zip
 
 # q2toq3t1.071.zip
 ftp://208.187.236.10:21/q3test/Map%20Converter/q2toq3t1.071.zip
+
+
