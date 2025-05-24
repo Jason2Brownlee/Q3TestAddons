@@ -103,7 +103,7 @@ File | Description
 [wened.zip](bin/wened.zip) | Q3Test Color Name Maker
 maxfps105.exe | Max FPS for Q3 1.05
 q3name.zip | Q3 Fun Name Maker
-q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
+q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>Q3T1048-2w.exe<br>Q3T1048r.exe<br>[Q3TSetup.exe](bin/Q3TSetup.exe)<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 q3viewer.zip | Q3 Model Viewer
 
 ### Q3Test Cracks
@@ -135,8 +135,7 @@ File | Description
 --- | ---
 ROUND.ZIP | ROUND for Q3Test v1.05
 RailAlley.zip | RailAlley for Q3Test v1.05
-S20_DM.zip | S20_DM for Q3Test v1.05
-S20_DM1.zip | S20_DM1 for Q3Test v1.05
+S20_DM.zip<br>S20_DM1.zip | S20_DM for Q3Test v1.05
 S20_dm2a.zip | S20_dm2a for Q3Test v1.05
 SPAZ.ZIP | SPAZ for Q3Test v1.05
 XxUBERxX.zip<br>uberfix.zip | XxUBERxX for Q3Test v1.05
@@ -226,10 +225,7 @@ ibdm1.zip | ibdm1 for Q3Test v1.08
 japanc.zip | japanc for Q3Test v1.08
 kick.zip | kick for Q3Test v1.08
 maj_portal.zip | maj_portal for Q3Test v1.08
-maj_protal.zip | maj_protal for Q3Test v1.08
-majq3dm1.zip | Map for Q3Test 1.08 Similar to q3test2
-majq3dm1beta.zip | majq3dm1beta for Q3Test v1.08
-majq3dm1beta2.zip | majq3dm1beta2 for Q3Test v1.08
+majq3dm1.zip<br>majq3dm1beta.zip<br>majq3dm1beta2.zip | Map for Q3Test 1.08 Similar to q3test2
 mq3-108.zip | mq3-108 for Q3Test v1.08
 myhome.zip | myhome for Q3Test v1.08
 nvdm1.zip | nvdm1 for Q3Test v1.08

@@ -134,6 +134,7 @@ ftp://quake2.telestream.com/Quake%20Stuff/Quake3/maps/v1.08/majq3dm1beta.zip
 http://www.dqz.de/quake3/b/files/majq3dm1beta.zip
 http://www.gweb.de/sam/quake3/pub/maps/majq3dm1beta.zip
 http://www.quake3.baltnet.ru/q/maps/majq3dm1beta.zip
+http://quake.at.frob.org/files/maps/majq3dm1beta.zip
 
 # two.zip
 http://q3.zone.ru/ftp/maps/two.zip
@@ -180,7 +181,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/q3q2ctf1.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/q3a-q3.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/q3a-q3.zip
 
-# maj_protal.zip
+# maj_portal.zip (misspelled: maj_protal.zip)
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/maj_portal.zip
 http://www.quake3.baltnet.ru/q/maps/maj_portal.zip
 http://q3.zone.ru/ftp/maps/maj_portal.zip
@@ -267,6 +268,7 @@ http://q3arena.net/mentalvortex/md3view/download/Md3View-Mac_1.sit
 
 # Q3Tweak1046.exe
 http://quake.lviv.ua/files/1299/Q3Tweak1046.exe
+http://www.clarionuk.co.uk/q3tweak/Q3Tweak1046.exe
 
 # md3view_v1_401.zip
 http://q3arena.net/mentalvortex/md3view/download/md3view_v1_401.zip
@@ -719,9 +721,13 @@ http://www.trendkill.net/files/uberfix.zip
 
 # railgf1a.zip
 http://www.moneychair.demon.co.uk/quake3/railfix/railgf1a.zip
+http://www.gweb.de/sam/quake3/pub/mods/railgf1a.zip
 
 # q3name.zip
 http://www.moneychair.demon.co.uk/quake3/funname/Q3name.zip
+http://people.a2000.nl/tscheff/q3name.zip
+http://members.home.com/broken1/q3name.zip
+http://website.lineone.net/~pimper/files/q3name.zip
 
 # q3ctf103.zip
 http://website.lineone.net/~pimper2/files/q3/q3ctf103.zip

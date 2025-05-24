@@ -57,6 +57,8 @@ md3view_v1_401.zip
 q3atc04.zip
 q3q2dm1-converter.zip
 q3tweak1039.exe
+Q3T1048-2w.exe
+Q3T1048r.exe
 oldQ3TFull.exe
 oldQ3TSetup.exe
 q3viewer.zip
@@ -148,6 +150,7 @@ goregrave.zip
 ibdm1.zip
 keep.zip
 maj_protal.zip
+maj_portal.zip
 majq3dm1.zip
 majq3dm1beta.zip
 mq3-108.zip
