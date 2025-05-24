@@ -9,7 +9,7 @@ https://www.geocities.ws/dinkhotline/q3/q3testversions.html
 https://www.geocities.ws/dinkhotline/q3/1.05maps.html
 	maps [processed]
 https://www.geocities.ws/dinkhotline/q3/1.08maps.html
-	maps
+	maps [processed]
 https://dow.narod.ru/files/index.htm
 	list of tools and maps [processed]
 https://web.archive.org/web/19991013102327/http://hackfleisch.de/

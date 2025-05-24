@@ -57,7 +57,6 @@ md3view_v1_401.zip
 q3atc04.zip
 q3q2dm1-converter.zip
 q3tweak1039.exe
-Q3T1048-2w.exe
 Q3T1048r.exe
 Q3TPpp.exe
 oldQ3TFull.exe
@@ -70,6 +69,7 @@ q3bot98.exe
 
 # cracks
 q3dcrk-11.zip
+q3dcrk-10.zip
 crq3108.zip
 
 # maps v?
@@ -91,11 +91,11 @@ darkq2dm2.zip
 darkq2dm8.zip
 q3-dm3.zip
 deadlysins.zip
-pq3m0.zip
 2am-q3.zip
-majq3dm1beta2.zip
 ibdm1base.zip
 gdm3_q3.zip
+q3q2dm1b.zip
+q3edge.zip
 
 # v1.05 maps
 ROUND.ZIP
@@ -130,6 +130,10 @@ q3test1b.zip
 q3test2b2.zip
 
 # v1.08 maps
+q3demo.zip
+q3a-e3.zip
+pq3m0.zip
+majq3dm1beta2.zip
 2box4.zip
 Arma5.zip
 Bugs_pit.zip
@@ -179,6 +183,41 @@ tra.zip
 traq3a2.zip
 twierdza.zip
 two.zip
+Ibdm2.zip
+dm_mm1d.zip
+fragtwn1-q3.zip
+gdm3_q3a.zip
+gun_q3.zip
+gzarena108_.zip
+q3pool.zip
+q3q2dm8.zip
+LAVATUBE.zip
+Medieval.zip
+Pbdm1.zip
+dm6zb_to_c.zip
+extra_q3_maps.zip
+extra_q3_maps.txt
+hokan.zip
+kick.zip
+myhome.zip
+overflow3.zip
+pulquemaps.zip
+q3atour.zip
+q3evilq2dm.zip
+q3q1dm3z.zip
+q3q1dm4z.zip
+q3q2sedm3z.zip
+q3spike.zip
+sbq3one.zip
+temple2z.zip
+wiebo_cnv1.zip
+xnd33.zip
+ztn_cnv1.zip
+gsctf1.zip
+japanc.zip
+q3dm12_ctf.zip
+q3tlcctf.zip
+tmp.zip
 
 # v1.09 maps
 Railgun%20Yard.zip

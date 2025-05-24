@@ -103,7 +103,7 @@ File | Description
 [wened.zip](bin/wened.zip) | Q3Test Color Name Maker
 maxfps105.exe | Max FPS for Q3 1.05
 q3name.zip | Q3 Fun Name Maker
-q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>Q3T1048-2w.exe<br>Q3T1048r.exe<br>Q3TPpp.exe<br>[Q3TSetup.exe](bin/Q3TSetup.exe)<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
+q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>[Q3T1048-2w.exe](bin/Q3T1048-2w.exe)<br>Q3T1048r.exe<br>Q3TPpp.exe<br>[Q3TSetup.exe](bin/Q3TSetup.exe)<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 q3viewer.zip | Q3 Model Viewer
 
 ### Q3Test Cracks
@@ -112,7 +112,7 @@ File | Description
 --- | ---
 [productid.zip](bin/productid.zip)<br>[productid.txt](bin/productid.txt) | Rename demoq3 to baseq3 and add baseq3/productid.txt
 [q3-cracks.zip](bin/q3-cracks.zip) | Cracks for all Q3Test versions
-[q3dcrk-10.zip](bin/q3dcrk-10.zip)<br>q3dcrk-11.zip | Q3Test v1.09 Crack
+[q3dcrk-10.zip](bin/q3dcrk-10.zip)<br>q3dcrk-11.zip | Quake3 Demo Restricted Mode Crack
 [q3t108crack.zip](bin/q3t108crack.zip) | Q3Test v1.08 Crack
 [q3test106-crk.zip](bin/q3test106-crk.zip) | Q3Test v1.06 Crack
 [q3test107-crk.zip](bin/q3test107-crk.zip) | Q3Test v1.07 Crack
@@ -302,6 +302,8 @@ q1q3dm1.zip | Map from Quake
 q1q3dm6.zip | Map from Quake
 q1q3dm6zc.zip | Another dm6 convention (The Dark Zone) in Q3Test
 q3-dm3.zip | The Abandoned Base Q3
+q3edge.zip | Q2dm1 for Q3Test
+q3q2dm1b.zip | Q2DM1 for Q3Test
 q3q2e4m3.zip | Map from Quake
 q3saco.zip | Another map with abyss and jump pads
 q3sphere.zip | A small sphere with lots of weapons but little space
