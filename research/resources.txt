@@ -64,4 +64,9 @@ https://web.archive.org/web/20000919160557fw/http://www.quake.wplus.net/down.htm
 	packs [processed]
 https://web.archive.org/web/20000511210701/http://www.altern.org/lavite/maps.htm
 	q3test maps [processed]
-
+https://groups.google.com/g/alt.games.quake3/c/fsIvu-Bz2Cs/m/2ay-73WDomkJ
+https://groups.google.com/g/alt.games.quake3/c/MIwfuXk65iM/m/i0BhKhEqMpgJ
+	maps [processed]
+https://web.archive.org/web/19990908204855/http://www.moneychair.demon.co.uk/quake3/maps.htm
+https://web.archive.org/web/19990908214858/http://www.moneychair.demon.co.uk/quake3/paks.htm
+	maps, packs, etc.

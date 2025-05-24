@@ -19,12 +19,14 @@ Q3TEST_Expansion_Pack.zip | Q3Test Expansion Pack (weapons, maps, skins)
 RevRL.zip | Less rocket trail smoke
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
+[vision2.zip](bin/vision2.zip) | Visual improves to weapon firing
 core.pk3 | Q3dm17 for q3demotest
 geckopak.zip | Multiple Addons in one pak
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 newskins.zip | New Skins
 pak91.zip | tim_dm1a and timdm2b maps for q3test
 q1visor.zip | Quake1 Player Sounds for Q3Test
+railgf1a.zip<br>[railfix.zip](bin/railfix.zip) | Replace the Railgun sound with the q2 railgun sound
 sodq3exp.zip | New numbers, sight and background for console
 
 ### Q3Test v1.05 Mods/Packs
@@ -83,6 +85,7 @@ File | Description
 --- | ---
 [Java_MD3View_1_0.zip](bin/Java_MD3View_1_0.zip) | Java MD3 View
 [Q3EntityEd.zip](bin/Q3EntityEd.zip) | Q3 Entitiy Editor v1.0
+[Q3Stats20b2a_win32.zip](bin/Q3Stats20b2a_win32.zip) | Stats for Q3Test  v1.08
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
 [QuakeStarter-v0.73b.zip](bin/QuakeStarter-v0.73b.zip) | Q3Test Starter
 [funname.zip](bin/funname.zip) | Fun name script
@@ -100,6 +103,7 @@ File | Description
 [qube102.zip](bin/qube102.zip) | Qube Quake3 Editor
 [wened.zip](bin/wened.zip) | Q3Test Color Name Maker
 maxfps105.exe | Max FPS for Q3 1.05
+q3name.zip | Q3 Fun Name Maker
 q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe)<br>[Q3TFull.exe](bin/Q3TFull.exe) | Q3Tweak
 q3viewer.zip | Q3 Model Viewer
 
@@ -136,7 +140,7 @@ S20_DM.zip | S20_DM for Q3Test v1.05
 S20_DM1.zip | S20_DM1 for Q3Test v1.05
 S20_dm2a.zip | S20_dm2a for Q3Test v1.05
 SPAZ.ZIP | SPAZ for Q3Test v1.05
-XxUBERxX.zip | XxUBERxX for Q3Test v1.05
+XxUBERxX.zip<br>uberfix.zip | XxUBERxX for Q3Test v1.05
 [q3test2b.zip](bin/maps-105/q3test2b.zip) | q3test2b for Q3Test v1.05  (requires q3105b)
 aeroq3.zip | aeroq3 for Q3Test v1.05
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.05

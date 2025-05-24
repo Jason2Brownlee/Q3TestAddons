@@ -394,10 +394,12 @@ http://www.gweb.de/sam/quake3/pub/mods/bluepla.zip
 # kingbeta.zip
 http://www.gweb.de/sam/quake3/pub/mods/kingbeta.zip
 http://freestyle.splatterworld.de/kingbeta.zip
+http://www.dqz.de/quake3/e/files/kingbeta.zip
 
 # gzarena1.zip
 http://www.gweb.de/sam/quake3/pub/mods/gzarena1.zip
 http://freestyle.splatterworld.de/gzarena1.zip
+http://www.dqz.de/quake3/e/files/gzarena1.zip
 
 # crsrail.zip
 http://www.gweb.de/sam/quake3/pub/mods/crsrail.zip
@@ -568,6 +570,7 @@ ftp://208.187.236.10/q3test/Maps/v1.05/mq3.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.05/mq3.zip
 http://www.gweb.de/sam/quake3/pub/maps/mq3.zip
 http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/mq3.zip
+http://www.moneychair.demon.co.uk/quake3/maps/mq3.zip
 
 # ibdm1.zip
 http://perso.club-internet.fr/lavite/goodies/maps/q3108/ibdm1.zip
@@ -624,6 +627,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.05/dm3a.zip
 
 # dm_portal1.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/dm_portal1.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/dm_portal1.zip
 
 # fact3.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/fact3.zip
@@ -708,4 +712,13 @@ ftp://208.187.236.10/q3test/Maps/v1.05/q3q3a.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.05/q3q3a.zip
 http://www.trendkill.net/files/q3q3a.zip
 http://www2.memes.com/quaker/q3/q3q3a.zip
+
+# uberfix.zip
+http://www.trendkill.net/files/uberfix.zip
+
+# railgf1a.zip
+http://www.moneychair.demon.co.uk/quake3/railfix/railgf1a.zip
+
+# q3name.zip
+http://www.moneychair.demon.co.uk/quake3/funname/Q3name.zip
 

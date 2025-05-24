@@ -39,6 +39,7 @@ newskins.zip
 q1visor.zip
 q3.zip
 pak91.zip
+railgf1a.zip
 
 # tools
 Md3View-Mac_1.sit
@@ -54,6 +55,7 @@ q3tweak1039.exe
 oldQ3TFull.exe
 oldQ3TSetup.exe
 q3viewer.zip
+q3name.zip
 
 # bots
 q3bot98.exe
@@ -95,6 +97,7 @@ S20_DM1.zip
 S20_dm2a.zip
 SPAZ.ZIP
 XxUBERxX.zip
+uberfix.zip
 aeroq3.zip
 dm3a.zip
 dm_portal1.zip
