@@ -100,7 +100,7 @@ File | Description
 [qube102.zip](bin/qube102.zip) | Qube Quake3 Editor
 [wened.zip](bin/wened.zip) | Q3Test Color Name Maker
 maxfps105.exe | Max FPS for Q3 1.05
-q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
+q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe)<br>[Q3TFull.exe](bin/Q3TFull.exe) | Q3Tweak
 q3viewer.zip | Q3 Model Viewer
 
 ### Q3Test Cracks
@@ -271,12 +271,12 @@ railmaps.zip | railmaps for Q3Test v1.08
 sbq3one.zip | sbq3one for Q3Test v1.08
 temple2z.zip | temple2z for Q3Test v1.08
 tmp.zip | tmp for Q3Test v1.08
+tra.zip | traq3a2 for Q3Test v1.08
 twierdza.zip | twierdza for Q3Test v1.08
 two.zip | two for Q3Test v1.08
 wiebo_cnv1.zip | wiebo_cnv1 for Q3Test v1.08
 xnd33.zip | xnd33 for Q3Test v1.08
 ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08
-tra.zip | traq3a2 for Q3Test v1.08
 
 ### Q3Test v1.09 Maps
 
