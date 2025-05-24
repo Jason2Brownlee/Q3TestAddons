@@ -69,7 +69,6 @@ q3bot98.exe
 
 # cracks
 q3dcrk-11.zip
-q3dcrk-10.zip
 crq3108.zip
 
 # maps v?

@@ -44,6 +44,7 @@ http://www2.memes.com/quaker/q3/tim_dm1.zip
 
 # dm6.zip
 http://www.primorye.ru/quake/files/q3/dm6.zip
+http://www.quake2news.com/quake/files/dm6.zip
 
 # skinpack1.zip
 http://www.primorye.ru/quake/files/q3/skinpack1.zip
@@ -199,6 +200,7 @@ ftp://208.187.236.10/q3test/Maps/v1.08/maj_portal.zip
 # fragtwn1-q3.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/fragtwn1-q3.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/fragtwn1-q3.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/fragtwn1-q3.zip
 
 # dmc-q1dm3.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/dmc-q1dm3.zip
@@ -323,6 +325,7 @@ http://www.fortunecity.com/underworld/shootout/580/files/HARdm1beta.zip
 
 # e1m1.zip
 http://members.xoom.com/_XOOM/WinClan/e1m1.zip
+http://www.quake2news.com/quake/files/e1m1.zip
 
 # doom2map1.zip
 http://members.xoom.com/_XOOM/WinClan/doom2map1.zip
@@ -790,6 +793,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/Ibdm2.zip
 
 # dm_mm1d.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/dm_mm1d.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/dm_mm1d.zip
 
 # gdm3_q3a.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/gdm3_q3a.zip
@@ -888,5 +892,9 @@ ftp://208.187.236.10/quake3/maps%20ctf/q3tlcctf.zip
 # tmp.zip
 ftp://208.187.236.10/quake3/maps%20ctf/tmp.zip
 
+# Q3T1048r.exe
+http://www.clarionuk.co.uk/q3tweak/Q3T1048r.exe
 
+# Q3TPpp.exe
+http://www.clarionuk.co.uk/q3tweak/download/Q3TPpp.exe
 
