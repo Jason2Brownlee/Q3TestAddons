@@ -289,13 +289,17 @@ qbfg.zip | qbfg for Q3Test v1.09
 
 File | Description
 --- | ---
+2am-q3.zip | Map for Q3Test
 darkq2dm1.zip | Map from Quake2 - q2dm1 - another version
 darkq2dm2.zip | Map from Quake2 - q2dm2
 darkq2dm8.zip | Map from Quake2 - q2dm8
+deadlysins.zip | Deadly Sins for Q3Test
 dm6.zip | Q1 DM6 for Q3Test
+ibdm1base.zip | Map for Q3Test
 q1q3dm1.zip | Map from Quake
 q1q3dm6.zip | Map from Quake
 q1q3dm6zc.zip | Another dm6 convention (The Dark Zone) in Q3Test
+q3-dm3.zip | The Abandoned Base Q3
 q3q2e4m3.zip | Map from Quake
 q3saco.zip | Another map with abyss and jump pads
 q3sphere.zip | A small sphere with lots of weapons but little space

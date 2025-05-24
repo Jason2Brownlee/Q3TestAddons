@@ -113,6 +113,7 @@ http://members.xoom.com/q3maps/mq3-108.zip
 http://www.dqz.de/quake3/b/files/mq3-108.zip
 http://www.quake3.baltnet.ru/q/maps/mq3-108.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/mq3-108.zip
+http://www.quake3.baltnet.ru/q/maps/mq3-108.zip
 
 # dm_mm1.zip
 http://q3.zone.ru/ftp/maps/dm_mm1.zip
@@ -128,6 +129,7 @@ ftp://quake2.telestream.com/Quake%20Stuff/Quake3/maps/v1.08/majq3dm1beta.zip
 http://www.dqz.de/quake3/b/files/majq3dm1beta.zip
 http://www.gweb.de/sam/quake3/pub/maps/majq3dm1beta.zip
 http://www.quake3.baltnet.ru/q/maps/majq3dm1beta.zip
+
 
 # two.zip
 http://q3.zone.ru/ftp/maps/two.zip
@@ -174,6 +176,7 @@ ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/q3a-q3.zip
 
 # maj_protal.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/maj_portal.zip
+http://www.quake3.baltnet.ru/q/maps/maj_portal.zip
 
 # fragtwn1-q3
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/fragtwn1-q3.zip
@@ -508,6 +511,26 @@ http://q3.zone.ru/darkman/darkq2dm2.zip
 # darkq2dm8.zip
 http://q3.zone.ru/darkman/darkq2dm8.zip
 
+# q3-dm3.zip
+http://www.turkishqf.org/q3-dm3.zip
+
+# deadlysins.zip
+http://www.deadlysins.net/master/deadlysins.zip
+
+# pq3m0.zip
+http://www.quake3.baltnet.ru/q/maps/pq3m0.zip
+
+# vq3maps.zip
+http://www.quake3.baltnet.ru/q/maps/vq3maps.zip
+
+# 2am-q3.zip
+http://www.quake3.baltnet.ru/q/maps/2am-q3.zip
+
+# majq3dm1beta2.zip
+http://www.quake3.baltnet.ru/q/maps/majq3dm1beta2.zip
+
+# ibdm1base.zip
+http://www.quake3.baltnet.ru/q/maps/ibdm1base.zip
 
 
 

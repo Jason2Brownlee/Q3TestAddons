@@ -45,7 +45,7 @@ https://groups.google.com/g/alt.games.quake3/c/jXvkX7la-UQ
 http://horb.chat.ru/q3edits.htm
 	tools
 http://horb.chat.ru/q3maps.htm
-	maps
+	maps [processed]
 https://web.archive.org/web/19991009163957/http://www.dqz.de/quake3/b/index.htm
 	maps
 https://web.archive.org/web/*/http://www.fortunecity.com/underworld/cartridge/395/maps/*
@@ -54,29 +54,10 @@ https://web.archive.org/web/20010303155124/http://q3.zone.ru/sections/general/fi
 https://web.archive.org/web/20010203204300/http://q3.zone.ru/sections/general/maps/maps.html
 	maps
 https://web.archive.org/web/19991127120248/http://q3.zone.ru:80/sections/general/files/files.html
-	so much
+	so much [processed]
 https://web.archive.org/web/20010128183200/http://www.gweb.de/sam/quake3/njindex.html
-	things
+	so many maps and mods!!!! [processed]
 https://web.archive.org/web/20000302055546/http://www.quake.wplus.net/
 	packs
-
-
-http://horb.chat.ru/q3maps.htm
-
-	The Abandoned Base (dm3.bsp) - worth a look.
-	l33t Quake3:Arena Mod
-	The PoleYard - a modified version of Q3test2. BFG and Lighting are present.
-	DeadlySins Rocket Arena - conversion of the q3test1 map.
-	pq3m0.zip(305Kb) - Meat, meat, meat...
-	q3q2dm1 - q2dm1 for q3test.
-	bdm1base.zip(359Kb) - Not a bad map. Behind the quad, otherwise you'll lose!
-	majq3dm1beta2.zip(253Kb) - Lots of space, cool map!
-	ibdm1base.zip(381Kb)
-	mq3-108.zip(161Kb) - Map for those who like to shoot in flight.
-	ouch.zip(94Kb) - Small meaty level
-
-	maj_portal.zip(88Kb) - Map with a large mirror, but it's a bit glitchy for me.
-	2box4.zip(240Kb) - Dedicated to those who like to shoot from a rail...
-
 
 

@@ -76,6 +76,14 @@ q3q2e4m3.zip
 darkq2dm1.zip
 darkq2dm2.zip
 darkq2dm8.zip
+q3-dm3.zip
+deadlysins.zip
+pq3m0.zip
+vq3maps.zip
+2am-q3.zip
+majq3dm1beta2.zip
+ibdm1base.zip
+
 
 # v1.05 maps
 q3test1b.zip
