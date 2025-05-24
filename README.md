@@ -4,6 +4,8 @@ The goal of this project is to archive **all versions** of **all addons** for th
 
 Before the Quake III Arena Demo was released, and before the retail CD was available, id Software released test versions of Quake3 called Q3Test. The versions spanned from v1.02 to v1.09 From April to November 1999. During this time many third-party mods and hacks were developed, e.g. to add bots, play additional maps, etc. This project archives those addons.
 
+For official quake3 releases from id Software, see the [Quake III Arena Archive](https://github.com/Jason2Brownlee/Quake3OfficialArchive).
+
 ## Q3Test Files
 
 List of all known Q3Test addons.
@@ -21,6 +23,7 @@ core.pk3 | Q3dm17 for q3demotest
 geckopak.zip | Multiple Addons in one pak
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 newskins.zip | New Skins
+q1visor.zip | Quake1 Player Sounds for Q3Test
 sodq3exp.zip | New numbers, sight and background for console
 
 ### Q3Test v1.05 Mods/Packs
@@ -268,7 +271,6 @@ temple2z.zip | temple2z for Q3Test v1.08
 tmp.zip | tmp for Q3Test v1.08
 twierdza.zip | twierdza for Q3Test v1.08
 two.zip | two for Q3Test v1.08
-vq3maps.zip | vq3maps for Q3Test v1.08
 wiebo_cnv1.zip | wiebo_cnv1 for Q3Test v1.08
 xnd33.zip | xnd33 for Q3Test v1.08
 ztn_cnv1.zip | ztn_cnv1 for Q3Test v1.08

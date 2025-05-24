@@ -36,6 +36,7 @@ geckopak.zip
 sodq3exp.zip
 ctf105.zip
 newskins.zip
+q1visor.zip
 
 # tools
 Md3View-Mac_1.sit
@@ -79,7 +80,6 @@ darkq2dm8.zip
 q3-dm3.zip
 deadlysins.zip
 pq3m0.zip
-vq3maps.zip
 2am-q3.zip
 majq3dm1beta2.zip
 ibdm1base.zip

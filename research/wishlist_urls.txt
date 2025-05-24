@@ -386,9 +386,11 @@ http://www.gweb.de/sam/quake3/pub/mods/bluepla.zip
 
 # kingbeta.zip
 http://www.gweb.de/sam/quake3/pub/mods/kingbeta.zip
+http://freestyle.splatterworld.de/kingbeta.zip
 
 # gzarena1.zip
 http://www.gweb.de/sam/quake3/pub/mods/gzarena1.zip
+http://freestyle.splatterworld.de/gzarena1.zip
 
 # crsrail.zip
 http://www.gweb.de/sam/quake3/pub/mods/crsrail.zip
@@ -401,6 +403,7 @@ http://www.gweb.de/sam/quake3/pub/mods/evilrail.zip
 
 # rail_christ.zip
 http://www.gweb.de/sam/quake3/pub/mods/rail_christ.zip
+http://www.q3viking.de/files/rail_christ.zip
 
 # railpak.zip
 http://www.gweb.de/sam/quake3/pub/mods/railpak.zip
@@ -468,6 +471,7 @@ http://www.quake.wplus.net/archiv/ctf105.zip
 
 # newskins.zip
 http://q3.zone.ru/ftp/newskins.zip
+ftp://24.31.27.145/c%3A/alex/ftp/pub/quake3source/Skins/Visor/newskins.zip
 
 # railgun101.zip
 http://q3.zone.ru/ftp/maps/railgun101.zip
@@ -495,12 +499,16 @@ http://q3.zone.ru/ftp/maps/q1q3dm6zc.zip
 
 # q1q3dm6.zip
 http://q3.zone.ru/ftp/q1q3dm6.zip
+http://www.planetq3.com/nana/files/maps/q1q3dm6.zip
 
 # q1q3dm1.zip
 http://q3.zone.ru/files/q1q3dm1.zip
 
 # q3q2e4m3.zip
 http://q3.zone.ru/files/q3q2e4m3.zip
+http://members.tripod.com/~q3r00lz/q3q2e4m3.Zip
+http://www.planetq3.com/nana/files/maps/q3q2e4m3.zip
+http://www.quakefiles.com/files/download.php?filekey=q3aqqem1&d_url=http://www.planetq3.com/nana/files/maps/q3q2e4m3.zip
 
 # darkq2dm1.zip
 http://q3.zone.ru/ftp/darkq2dm1.zip
@@ -513,25 +521,28 @@ http://q3.zone.ru/darkman/darkq2dm8.zip
 
 # q3-dm3.zip
 http://www.turkishqf.org/q3-dm3.zip
+http://www.quakefiles.com/files/download.php?filekey=q3aabnbase1&d_url=http://www.turkishqf.org/q3-dm3.zip
 
 # deadlysins.zip
 http://www.deadlysins.net/master/deadlysins.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/deadlysins.zip
+http://www.quakefiles.com/files/download.php?filekey=q3adeadlys1&d_url=http://www.deadlysins.net/master/deadlysins.zip
 
 # pq3m0.zip
 http://www.quake3.baltnet.ru/q/maps/pq3m0.zip
-
-# vq3maps.zip
-http://www.quake3.baltnet.ru/q/maps/vq3maps.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/pq3m0.zip
 
 # 2am-q3.zip
 http://www.quake3.baltnet.ru/q/maps/2am-q3.zip
 
 # majq3dm1beta2.zip
 http://www.quake3.baltnet.ru/q/maps/majq3dm1beta2.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/majq3dm1beta2.zip
 
 # ibdm1base.zip
 http://www.quake3.baltnet.ru/q/maps/ibdm1base.zip
 
-
-
+# q1visor.zip
+http://www.skipnet.com/~ryan/q1visor.zip
+ftp://24.31.27.145/c%3A/alex/ftp/pub/quake3source/OtherDls/sounds/q1visor.zip
 
