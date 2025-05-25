@@ -49,6 +49,7 @@ q3ausp10.zip
 q3addons.zip
 
 # tools
+NMS_v4.15-update.zip
 Md3View-Mac_1.sit
 NMS_v1.00.zip
 NMS_v1.54.zip
@@ -68,7 +69,6 @@ Q3ASetupb0.7.5.exe
 Q3T1048r.exe
 Q3TPpp.exe
 Q3Tweak1046.exe
-Q3Tweek1043.exe
 Q3Wumpass1.05-1.08.zip
 TweeQ3v048MAX.zip
 gbiotchv08b.zip

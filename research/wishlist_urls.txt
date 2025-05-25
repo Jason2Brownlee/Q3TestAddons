@@ -252,9 +252,10 @@ http://www.quake3.baltnet.ru/q/maps/2box4.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/2box4.zip
 
 # railarena.zip
+ftp://208.187.236.10/q3test/Maps/v1.08/railarena.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/railarena.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/maps/v1.08/railarena.zip
-ftp://208.187.236.10/q3test/Maps/v1.08/railarena.zip
+http://quake3.valhalla.com.pl/mapy/full/railarena.zip
 http://www.valhalla.com.pl/quake3/mapy/full/railarena.zip
 
 # q3q1dm5-108.zip
@@ -767,34 +768,29 @@ http://people.a2000.nl/tscheff/q3name.zip
 http://members.home.com/broken1/q3name.zip
 http://website.lineone.net/~pimper/files/q3name.zip
 
+# q2toq3t_102.zip
+http://www.quake.de/FILES/quake3/tool/q2toq3t_102.zip
+# q2toq3t1.071.zip
+ftp://208.187.236.10:21/q3test/Map%20Converter/q2toq3t1.071.zip
 # q3ctf103.zip
 http://website.lineone.net/~pimper2/files/q3/q3ctf103.zip
 ftp://ftp.cityline.ru/pub/quake/quake3/patches/q3ctf103.zip
-
 # q2toq3t105.zip
 http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t105.zip
-
-# q3a-e3.zip
-http://www.der-quaker.de/mykros/files/q2toq3t.zip
-http://www.dqz.de/quake3/b/files/q2toq3t.zip
-http://www.dqz.de/quake3/d/files/q2toq3t.zip
-http://www.moneychair.demon.co.uk/quake3/maps/q2toq3t.zip
-http://www.primorye.ru/quake/files%5Cq3%5Cq2toq3t.zip
-http://www.gweb.de/sam/quake3/pub/tools/q2toq3t.zip
+# q2toq3t.zip (many versions with the same filename)
 http://people.a2000.nl/babe/q2toq3t.zip
+http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t.zip
 http://q3.zone.ru/ftp/Q2toQ3T.zip
 http://quake3.de/files/q2toq3t.zip
-http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t.zip
+http://quake3.valhalla.com.pl/pliki/q2toq3t.zip
 http://www.captured.com/underground/news/q2toq3t.zip
-
-# q2toq3t.zip (many versions with the same filename)
+http://www.der-quaker.de/mykros/files/q2toq3t.zip
+http://www.dqz.de/quake3/b/files/q2toq3t.zip
+http://www.gweb.de/sam/quake3/pub/tools/q2toq3t.zip
+http://www.moneychair.demon.co.uk/quake3/maps/q2toq3t.zip
+http://www.primorye.ru/quake/files%5Cq3%5Cq2toq3t.zip
 http://www.q3a.de/files/q2toq3t.zip
-
-# q2toq3t_102.zip
-http://www.quake.de/FILES/quake3/tool/q2toq3t_102.zip
-
-# q2toq3t1.071.zip
-ftp://208.187.236.10:21/q3test/Map%20Converter/q2toq3t1.071.zip
+http://www.quake3.de/files/q2toq3t.zip
 
 # q3q2dm1b.zip
 http://members.xoom.com/bikkelpage/q3q2dm1b.zip
@@ -934,17 +930,19 @@ http://members.xoom.com/quake3bots/files/gsctf1.zip
 ftp://208.187.236.10:21/quake3/maps%20ctf/gsctf1.zip
 ftp://quake2.telestream.com/quake3/maps%20ctf/gsctf1.zip
 
-
 # japanc.zip
 ftp://208.187.236.10/quake3/maps%20ctf/japanc.zip
-http://www.valhalla.com.pl/quake3/mapy/full/japanc.zip
 ftp://208.187.236.10:21/quake3/maps%20ctf/japanc.zip
+ftp://ftp.q3a.de/maps/japanc.zip
+http://quake3.valhalla.com.pl/mapy/full/japanc.zip
+http://www.valhalla.com.pl/quake3/mapy/full/japanc.zip
 
 # q3dm12_ctf.zip
 ftp://208.187.236.10/quake3/maps%20ctf/q3dm12_ctf.zip
 ftp://208.187.236.10:21/quake3/maps%20ctf/q3dm12_ctf.zip
 ftp://quake2.telestream.com/quake3/maps%20ctf/q3dm12_ctf.zip
 http://members.xoom.com/quake3bots/files/q3dm12_ctf.zip
+http://quake3.valhalla.com.pl/mapy/full/q3dm12_ctf.zip
 http://www.planetquake3.net/files/q3dm12_ctf.zip
 
 # q3tlcctf.zip
@@ -963,10 +961,9 @@ http://www.q3viking.de/files/NMS_v3.55.exe
 http://www.valhalla.com.pl/quake3/pliki/NMS_v3.00b.exe
 http://nms.quakecity.net/download/NMS_v3.00.exe
 # NMS_v1.00.zip
-http://nms.q**kecity.net/download/NMS_v1.00.zip
 http://nms.quakecity.net/download/NMS_v1.00.zip
 # NMS_v1.54.zip
-http://nms.q**kecity.net/download/NMS_v1.54.zip
+http://nms.quakecity.net/download/NMS_v1.54.zip
 # NMSv2.00.exe
 http://www.valhalla.com.pl/quake3/pliki/NMSv2.00.exe
 # NMS_v4.25.zip
