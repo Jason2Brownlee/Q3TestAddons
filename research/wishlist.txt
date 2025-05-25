@@ -50,30 +50,39 @@ q3addons.zip
 
 # tools
 Md3View-Mac_1.sit
+NMS_v1.00.zip
+NMS_v1.54.zip
+NMS_v2.00.zip
+NMS_v3.00.exe
+NMS_v3.00b.exe
+NMS_v3.50.exe
+NMS_v3.55.exe
+NMS_v3.59.exe
+NMS_v3.60.exe
+NMS_v4.13-update.zip
+NMS_v4.13.zip
+NMS_v4.25.zip
+NMSv2.00.exe
+Q3ASetup0.8.2.exe
+Q3ASetupb0.7.5.exe
+Q3T1048r.exe
+Q3TPpp.exe
 Q3Tweak1046.exe
 Q3Tweek1043.exe
 Q3Wumpass1.05-1.08.zip
+TweeQ3v048MAX.zip
+gbiotchv08b.zip
 maxfps105.exe
 maxfps105.zip
 md3view_v1_401.zip
-q3atc04.zip
-q3q2dm1-converter.zip
-q3tweak1039.exe
-Q3T1048r.exe
-Q3TPpp.exe
 oldQ3TFull.exe
 oldQ3TSetup.exe
-q3viewer.zip
+q3atc04.zip
 q3name.zip
-NMS_v3.55.exe
-TweeQ3v048MAX.zip
-NMS_v3.00b.exe
-NMSv2.00.exe
-Q3ASetupb0.7.5.exe
-gbiotchv08b.zip
-Q3ASetup0.8.2.exe
-NMS_v4.25.zip
-NMS_v4.13.zip
+q3q2dm1-converter.zip
+q3tweak1039.exe
+q3viewer.zip
+NMS_v4.15.zip
 
 # bots
 q3bot98.exe
