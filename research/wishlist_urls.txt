@@ -154,15 +154,15 @@ http://www.altern.org/lavite/zip/maps/two.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/two.zip
 
 # ouch.zip
+ftp://208.187.236.10/q3test/Maps/v1.08/ouch.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/ouch.zip
+http://members.home.com/j03/ouch.zip
 http://q3.zone.ru/ftp/maps/ouch.zip
 http://web.inter.nl.net/users/B.Vloon/gp2/ouch.zip
+http://www.altern.org/lavite/zip/maps/ouch.zip
 http://www.dqz.de/quake3/b/files/ouch.zip
 http://www.fortunecity.com/underworld/lylat/554/ouch.zip
 http://www.quake3.baltnet.ru/q/maps/ouch.zip
-http://members.home.com/j03/ouch.zip
-http://www.altern.org/lavite/zip/maps/ouch.zip
-ftp://208.187.236.10/q3test/Maps/v1.08/ouch.zip
 
 # q3q1dm4z.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q1dm4z.zip
@@ -195,13 +195,14 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/q3a-q3.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/q3a-q3.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/q3a-q3.zip
 
-# maj_portal.zip (misspelled: maj_protal.zip)
+# maj_portal.zip (misspelled: maj_protal.zip, maja_portal.zip)
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/maj_portal.zip
 http://www.quake3.baltnet.ru/q/maps/maj_portal.zip
 http://q3.zone.ru/ftp/maps/maj_portal.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/maj_portal.zip
 http://quake.at.frob.org/files/editing/maj_portal.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/maj_portal.zip
+http://www.quake3arenawikingclan.de/files/maja_portal.zip
 
 # fragtwn1-q3.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/fragtwn1-q3.zip
@@ -995,4 +996,53 @@ http://www.valhalla.com.pl/quake3/pliki/Q3ASetup0.8.2.exe
 # NMS_v4.13.zip
 http://www.valhalla.com.pl/quake3/pliki/NMS_v4.13.zip
 
+# s20_dm2d_floor_fix.zip
+http://www.fortunecity.de:80/wolkenkratzer/hal/106/quake3/maps/s20_dm2d_floor_fix.zip
+
+# jumppad_map.zip
+http://www.quake3arenawikingclan.de/files/jumppad_map.zip
+
+# q1q3dm5-108.zip
+http://www.quake3arenawikingclan.de/files/q1q3dm5-108.zip
+
+# gzctfbeta.zip
+ttp://www.quake3arenawikingclan.de/files/gzctfbeta.zip
+
+# test5.zip
+http://www.quake3arenawikingclan.de/files/test5.zip
+
+# deadsimp.zip
+http://www.quake3arenawikingclan.de/files/deadsimp.zip
+
+# death.zip
+http://www.quake3arenawikingclan.de/files/death.zip
+
+# fragtown.zip
+http://www.quake3arenawikingclan.de/files/fragtown.zip
+
+# fragtown10.zip
+http://www.quake3arenawikingclan.de/files/fragtown10.zip
+
+# frgtwndallas.zip
+http://www.quake3arenawikingclan.de/files/frgtwndallas.zip
+
+# siriusarena.zip
+http://www.quake3arenawikingclan.de/files/siriusarena.zip
+
+# sky.zip
+http://www.quake3arenawikingclan.de/files/sky.zip
+
+# Test.zip
+http://www.quake3arenawikingclan.de/files/Test.zip
+
+# q3q2dm1_z.zip
+http://members.xoom.com:80/custommaps/maps/q3q2dm1_z.zip
+
+# q3q2dm8_z.zip
+http://members.xoom.com:80/custommaps/maps/q3q2dm8_z.zip
+
+# q3q1dm6zb.zip
+http://members.xoom.com:80/custommaps/maps/q3q1dm6zb.zip
+
+#
 
