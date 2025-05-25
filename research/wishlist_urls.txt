@@ -1089,3 +1089,7 @@ http://www.angelfire.com/ut/jediquake3/images/mq3108.zip
 # hardm1betaz.zip
 http://www.angelfire.com/ut/jediquake3/images/hardm1betaz.zip
 
+# q3a_maps.zip
+http://quake.at.frob.org/files/q3a_maps.zip
+
+
