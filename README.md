@@ -26,6 +26,7 @@ geckopak.zip | Multiple Addons in one pak
 l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 newskins.zip | New Skins
 pak91.zip | tim_dm1a and timdm2b maps for q3test
+pak9.zip | Hud and stuff
 q1visor.zip | Quake1 Player Sounds for Q3Test
 q3ausp10.zip | Unofficial Skinpack for Q3A Test
 q3dmpak2_5z.zip | q3dmpak2_5z map pak
@@ -321,8 +322,10 @@ darkq2dm2.zip | Map from Quake2 - q2dm2
 darkq2dm8.zip | Map from Quake2 - q2dm8
 dm6.zip | Q1 DM6 for Q3Test
 gdm3_q3.zip | Golney's DM3 Arena Q3Test Map
+hardm1betaz.zip | hardm1betaz q3test map
 ibdm1base.zip | Map for Q3Test
 mauerblut.zip | mauerblut map
+mq3108.zip | mq3108 qtest map
 q1q3dm1.zip | Map from Quake
 q1q3dm6.zip | Map from Quake
 q1q3dm6zc.zip | Another dm6 convention (The Dark Zone) in Q3Test

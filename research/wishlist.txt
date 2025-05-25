@@ -49,6 +49,7 @@ q3ausp10.zip
 q3addons.zip
 WizQ3maps.zip
 q3dmpak2_5z.zip
+pak9.zip
 
 # tools
 Md3View-Mac_1.sit
@@ -121,6 +122,8 @@ q3edge.zip
 mauerblut.zip
 railheim.zip
 test6.zip
+mq3108.zip
+hardm1betaz.zip
 
 # v1.05 maps
 ROUND.ZIP

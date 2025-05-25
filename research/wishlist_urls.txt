@@ -280,6 +280,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/q3saco1.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/q3q2dmX.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/maps/v1.08/q3q2dmX.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/q3q2dmX.zip
+ftp://ftp.cityline.ru/pub/quake/incoming/q3q2dmx.zip
 
 # q3wasted.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/wasted.zip
@@ -617,6 +618,8 @@ ftp://208.187.236.10/q3test/Maps/v1.08/ibdm1.zip
 
 # pak91.zip
 http://www.quake.wplus.net/archiv/pak91.zip
+# pak9.zip
+http://www.quakefiles.com/supertech/pak9.zip
 
 # tra.zip (aka traq3a2.zip)
 http://q3.zone.ru/ftp/maps/tra.zip
@@ -1079,3 +1082,10 @@ http://www.baypoint.com/clan/files/WizQ3maps.zip
 
 # q3dmpak2_5z.zip
 http://www.redrival.com/rizzo/q3dmpak2_5z.zip
+
+# mq3108.zip
+http://www.angelfire.com/ut/jediquake3/images/mq3108.zip
+
+# hardm1betaz.zip
+http://www.angelfire.com/ut/jediquake3/images/hardm1betaz.zip
+
