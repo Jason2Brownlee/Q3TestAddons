@@ -95,7 +95,7 @@ Q3ASetupb0.7.5.exe<br>[Q3ASetup0.8.0.exe](bin/Q3ASetup0.8.0.exe)<br>Q3ASetup0.8.
 [gnb132sw.exe](bin/gnb132sw.exe)<br>[gnbp134.exe](bin/gnbp134.exe)<br>[gnbp144.exe](bin/gnbp144.exe)<br>[gnb163sw.exe](bin/gnb163sw.exe)<br>[gnbp163.exe](bin/gnbp163.exe)<br>[gnb182sw.exe](bin/gnb182sw.exe)<br>[gnbp182.exe](bin/gnbp182.exe)| Game Name Builder
 [md3.zip](bin/md3.zip) | MD3VIEW Model Viewer
 [md3view_v1_4.zip](bin/md3view_v1_4.zip)<br>md3view_v1_401.zip<br>[md3view_v1_51.zip](bin/md3view_v1_51.zip)<br>Md3View-Mac_1.sit | MD3-VIEW
-[q2toq3t_082.zip](bin/q2toq3t_082.zip)<br>[q2toq3t_101.zip](bin/q2toq3t_101.zip)<br>q2toq3t_102.zip<br>[q2toq3t_103.zip](bin/q2toq3t_103.zip)<br>q2toq3t105.zip<br>[q2toq3t107.zip](bin/q2toq3t107.zip)<br>q2toq3t1.071.zip | Q2 to Q3 Map Converter (Mastaba)
+[q2toq3t_082.zip](bin/q2toq3t_082.zip)<br>[q2toq3t_101.zip](bin/q2toq3t_101.zip)<br>q2toq3t_102.zip<br>[q2toq3t_103.zip](bin/q2toq3t_103.zip)<br>q2toq3t105.zip<br>[q2toq3t107.zip](bin/q2toq3t107.zip)<br>q2toq3t1.071.zip<br>[q2toq3a200.zip](bin/q2toq3a200.zip) | Q2 to Q3 Map Converter (Mastaba)
 [q3control.zip](bin/q3control.zip)<br>[q3a-tc02.zip](bin/q3a-tc02.zip)<br>[q3atc3.zip](bin/q3atc3.zip)<br>[q3atc31.zip](bin/q3atc31.zip)<br>[q3atc31min.zip](bin/q3atc31min.zip)<br>[q3atc3min.zip](bin/q3atc3min.zip)<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>q3atc04.zip<br>[q3atc05.zip](bin/q3atc05.zip)<br>[q3atc05patch.zip](bin/q3atc05patch.zip)<br>[q3atc51.zip](bin/q3atc51.zip)<br>[q3atcfix1.zip](bin/q3atcfix1.zip)<br>[q3atcserver.zip](bin/q3atcserver.zip)<br>[q3atc06.zip](bin/q3atc06.zip) | Q3A Total Control
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3nedit.zip](bin/q3nedit.zip) | Quake 3 Name Creater 1.1a
@@ -148,7 +148,7 @@ XxUBERxX.zip<br>uberfix.zip | XxUBERxX for Q3Test v1.05
 [q3test2b.zip](bin/maps-105/q3test2b.zip) | q3test2b for Q3Test v1.05  (requires q3105b)
 aeroq3.zip | aeroq3 for Q3Test v1.05
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.05
-deadlysins.zip | deadlysins for Q3Test v1.05
+deadlysins.zip | Deadly Sins for Q3Test v1.05
 dm3a.zip | dm3a for Q3Test v1.05
 dm_portal1.zip | dm_portal1 for Q3Test v1.05
 fact3.zip | fact3 for Q3Test v1.05
@@ -316,7 +316,6 @@ File | Description
 darkq2dm1.zip | Map from Quake2 - q2dm1 - another version
 darkq2dm2.zip | Map from Quake2 - q2dm2
 darkq2dm8.zip | Map from Quake2 - q2dm8
-deadlysins.zip | Deadly Sins for Q3Test
 dm6.zip | Q1 DM6 for Q3Test
 gdm3_q3.zip | Golney's DM3 Arena Q3Test Map
 ibdm1base.zip | Map for Q3Test
