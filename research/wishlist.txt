@@ -47,6 +47,7 @@ q2toq3t_102.zip
 q2toq3t1.071.zip
 q3ausp10.zip
 q3addons.zip
+WizQ3maps.zip
 
 # tools
 Md3View-Mac_1.sit
@@ -62,6 +63,7 @@ NMS_v3.60.exe
 NMS_v4.13-update.zip
 NMS_v4.13.zip
 NMS_v4.15-update.zip
+NMS_v4.15.zip
 NMS_v4.25.zip
 NMSv2.00.exe
 Q3ASetup0.8.2.exe
@@ -82,7 +84,6 @@ q3name.zip
 q3q2dm1-converter.zip
 q3tweak1039.exe
 q3viewer.zip
-NMS_v4.15.zip
 
 # bots
 q3bot98.exe

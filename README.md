@@ -17,6 +17,7 @@ File | Description
 386enh.zip | Extension to Q3
 Q3TEST_Expansion_Pack.zip | Q3Test Expansion Pack (weapons, maps, skins)
 RevRL.zip | Less rocket trail smoke
+WizQ3maps.zip | Wizard's Q3test Server Maps
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
 [vision2.zip](bin/vision2.zip) | Visual improves to weapon firing

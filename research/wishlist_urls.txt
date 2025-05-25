@@ -180,6 +180,7 @@ http://www.quake3.baltnet.ru/q/maps/ouch.zip
 # q3q1dm4z.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q1dm4z.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3q1dm4z.zip
+http://www.angelfire.com/ut/jediquake3/images/q3q1dm4z.zip
 
 # q1q3dm6z.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q1q3dm6z.zip
@@ -786,6 +787,7 @@ http://quake3.valhalla.com.pl/pliki/q2toq3t.zip
 http://www.captured.com/underground/news/q2toq3t.zip
 http://www.der-quaker.de/mykros/files/q2toq3t.zip
 http://www.dqz.de/quake3/b/files/q2toq3t.zip
+http://www.dqz.de/quake3/d/files/q2toq3t.zip
 http://www.gweb.de/sam/quake3/pub/tools/q2toq3t.zip
 http://www.moneychair.demon.co.uk/quake3/maps/q2toq3t.zip
 http://www.primorye.ru/quake/files%5Cq3%5Cq2toq3t.zip
@@ -982,6 +984,8 @@ http://nms.quakecity.net/download/NMS_v4.13-update.zip
 # NMS_v4.15.zip
 http://nms.quakecity.net/download/NMS_v4.15.zip
 http://www.fortunecity.com/underworld/vidiot/296/NMS_v4.15.zip
+# NMS_v4.15-update.zip
+http://nms.quakecity.net/download/NMS_v4.15-update.zip
 
 # Q31.09crack.zip
 http://www.q3viking.de/files/Q31.09crack.zip
@@ -1018,6 +1022,7 @@ http://www.quake3arenawikingclan.de/files/gzctfbeta.zip
 http://www.quake3arenawikingclan.de/files/test5.zip
 http://freestyle.splatterworld.de/test5.zip
 http://www.csv.warwick.ac.uk/~miapd/quake/test5.zip
+
 # deadsimp.zip
 http://www.quake3arenawikingclan.de/files/deadsimp.zip
 
@@ -1067,4 +1072,5 @@ http://freestyle.splatterworld.de/railheim.zip
 # test6.zip
 http://freestyle.splatterworld.de/test6.zip
 
-
+# WizQ3maps.zip
+http://www.baypoint.com/clan/files/WizQ3maps.zip
