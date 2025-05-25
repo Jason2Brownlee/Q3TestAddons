@@ -49,7 +49,6 @@ q3ausp10.zip
 q3addons.zip
 
 # tools
-NMS_v4.15-update.zip
 Md3View-Mac_1.sit
 NMS_v1.00.zip
 NMS_v1.54.zip
@@ -62,6 +61,7 @@ NMS_v3.59.exe
 NMS_v3.60.exe
 NMS_v4.13-update.zip
 NMS_v4.13.zip
+NMS_v4.15-update.zip
 NMS_v4.25.zip
 NMSv2.00.exe
 Q3ASetup0.8.2.exe
