@@ -1,6 +1,8 @@
 Resources
 ---------
 
+PROCESSED
+========
 
 https://www.geocities.ws/dinkhotline/q3/files.html
 	[processed]
@@ -22,8 +24,7 @@ https://web.archive.org/web/20010522083148/http://www.captured.com:80/undergroun
 	maps and tools [processed]
 https://web.archive.org/web/*/http://www.q3arena.pl/download/*
 https://web.archive.org/web/19991113072315/http://www.q3arena.pl:80/
-https://web.archive.org/web/19991113223955/http://www.q3arena.pl/skiny.html
-	skins
+	[processed]
 https://web.archive.org/web/*/http://www.voodooextreme.com/reverend/Q3Arena/q3aGoodies*
 https://web.archive.org/web/20000408173054/http://www.voodooextreme.com:80/reverend/Q3Arena/Q3A_frames.html
 	goodies [processed, meh]
@@ -76,3 +77,11 @@ https://web.archive.org/web/19990908214858/http://www.moneychair.demon.co.uk/qua
 	maps, packs, tools [processed]
 https://groups.google.com/g/uk.games.computer.quake3/c/hUCLuACJnLg/m/ur-4Pft_J9EJ
 	ihv stuff, out of scope? [processed]
+
+TODO
+====
+
+https://web.archive.org/web/20000303154743/http://www.fortunecity.de:80/wolkenkratzer/hal/106/quake3/maps.htm
+	maps
+https://web.archive.org/web/19991113223955/http://www.q3arena.pl/skiny.html
+	skins

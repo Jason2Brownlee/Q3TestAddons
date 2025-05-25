@@ -96,6 +96,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/goregrave.zip
 http://perso.club-internet.fr/lavite/goodies/maps/q3108/goregrave.zip
 http://q3.zone.ru/ftp/maps/goregrave.zip
 http://www.dqz.de/quake3/b/files/goregrave.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/goregrave.zip
 
 # q3q1dm6zc.zip
 http://q3.zone.ru/ftp/maps/q3q1dm6zc.zip
@@ -103,16 +104,19 @@ http://www.dqz.de/quake3/b/files/q3q1dm6zc.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q1dm6zc.zip
 http://perso.club-internet.fr/lavite/goodies/maps/q3108/q3q1dm6zc.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3q1dm6zc.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/q3q1dm6zc.zip
 
 # q3test2_rail.zip
 http://q3.zone.ru/ftp/maps/q3test2_rail.zip
 http://www.dqz.de/quake3/b/files/q3test2_rail.zip
 http://perso.club-internet.fr/lavite/goodies/maps/q3108/q3test2_rail.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/q3test2_rail.zip
 
 # q3saco2beta.zip
 http://q3.zone.ru/ftp/maps/q3saco2beta.zip
 http://www.dqz.de/quake3/b/files/q3saco2beta.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/q3saco2beta.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/q3saco2beta.zip
 
 # mq3-108.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/mq3-108.zip
@@ -121,6 +125,7 @@ http://www.dqz.de/quake3/b/files/mq3-108.zip
 http://www.quake3.baltnet.ru/q/maps/mq3-108.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/mq3-108.zip
 http://www.quake3.baltnet.ru/q/maps/mq3-108.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/mq3-108.zip
 
 # dm_mm1.zip
 http://q3.zone.ru/ftp/maps/dm_mm1.zip
@@ -177,6 +182,7 @@ http://www.angelfire.com/al/rogerbeaty/images/RailAlley.zip
 
 # dm_mm1c.zip
 http://www.psychonomix.de/masher/download/dm_mm1c.zip
+http://members.xoom.com/custommaps/maps/dm_mm1c.zip
 
 # q3q2ctf1.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/q3q2ctf1.zip
@@ -204,6 +210,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/fragtwn1-q3.zip
 
 # dmc-q1dm3.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/dmc-q1dm3.zip
+http://www.quake3arenawikingclan.de/files/dmc-q1dm3.zip
 
 # dakyne4-q3.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/dakyne4-q3.zip
@@ -215,9 +222,11 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/dakyne4-q3.zip
 
 # command3.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/command3.zip
+http://www.quake3arenawikingclan.de/files/command3.zip
 
 # city64.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/city64.zip
+http://www.quake3arenawikingclan.de/files/city64.zip
 
 # city1q3.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/city1q3.zip
@@ -242,6 +251,7 @@ http://trendkill.net/maps/q3q1dm5-108.zip
 # q3evilq2dm.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3evilq2dm.zip
 http://members.xoom.com/q3shackftp/108maps/q3evilq2dm.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3evilq2dm.zip
 
 # q3saco1.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/q3saco1.zip
@@ -326,9 +336,11 @@ http://www.fortunecity.com/underworld/shootout/580/files/HARdm1beta.zip
 # e1m1.zip
 http://members.xoom.com/_XOOM/WinClan/e1m1.zip
 http://www.quake2news.com/quake/files/e1m1.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/e1m1.zip
 
 # doom2map1.zip
 http://members.xoom.com/_XOOM/WinClan/doom2map1.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/doom2map1.zip
 
 # q2ma3
 http://www.southport.uk.com/java/q2ma3.zip
@@ -408,11 +420,13 @@ http://www.gweb.de/sam/quake3/pub/mods/bluepla.zip
 http://www.gweb.de/sam/quake3/pub/mods/kingbeta.zip
 http://freestyle.splatterworld.de/kingbeta.zip
 http://www.dqz.de/quake3/e/files/kingbeta.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/kingbeta.zip
 
 # gzarena1.zip
 http://www.gweb.de/sam/quake3/pub/mods/gzarena1.zip
 http://freestyle.splatterworld.de/gzarena1.zip
 http://www.dqz.de/quake3/e/files/gzarena1.zip
+http://freestyle.splatterworld.de/files/gzarena1.zip
 
 # crsrail.zip
 http://www.gweb.de/sam/quake3/pub/mods/crsrail.zip
@@ -429,9 +443,11 @@ http://www.q3viking.de/files/rail_christ.zip
 
 # railpak.zip
 http://www.gweb.de/sam/quake3/pub/mods/railpak.zip
+ftp://quake2.telestream.com/quake3/hud%20%26%20misc/railpak.zip
 
 # SENFEI-PACK.zip
 http://www.senfei.de/files/SENFEI-PACK.zip
+http://senfei.splatterworld.de/files/SENFEI-PACK.zip
 
 # rig-lan_1.0b.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/ctf/Rig-lan/rig-lan_1.0b.zip
@@ -565,6 +581,7 @@ http://www.quake3.baltnet.ru/q/maps/2am-q3.zip
 http://www.quake3.baltnet.ru/q/maps/majq3dm1beta2.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/majq3dm1beta2.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/majq3dm1beta2.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/majq3dm1beta2.zip
 
 # ibdm1base.zip
 http://www.quake3.baltnet.ru/q/maps/ibdm1base.zip
@@ -579,6 +596,7 @@ http://www.skipnet.com/~ryan/q3.zip
 # gdm3_q3.zip
 http://www.altern.org/lavite/zip/maps/gdm3_q3.zip
 ftp://ftp.mgon.com/q3center/maps/gdm3_q3.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/gdm3_q3.zip
 
 # mq3.zip
 http://www.altern.org/lavite/zip/maps/mq3.zip
@@ -587,6 +605,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.05/mq3.zip
 http://www.gweb.de/sam/quake3/pub/maps/mq3.zip
 http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/mq3.zip
 http://www.moneychair.demon.co.uk/quake3/maps/mq3.zip
+ftp://quake2.telestream.com/quake3/maps/mq3.zip
 
 # ibdm1.zip
 http://perso.club-internet.fr/lavite/goodies/maps/q3108/ibdm1.zip
@@ -754,26 +773,21 @@ ftp://ftp.cityline.ru/pub/quake/quake3/patches/q3ctf103.zip
 # q2toq3t105.zip
 http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t105.zip
 
-# q2toq3t.zip (many versions with the same filename)
-http://ftp.sunet.se/idgames2/planetquake/kcmaps/q2toq3t.zip
-http://ftp.sunet.se/planetquake/kcmaps/q2toq3t.zip
-http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/kcmaps/q2toq3t.zip
-http://people.a2000.nl/babe/q2toq3t.zip
-http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t.zip
-http://q3.zone.ru/ftp/Q2toQ3T.zip
-http://quake3.de/files/q2toq3t.zip
-http://www.captured.com/underground/news/q2toq3t.zip
+# q3a-e3.zip
 http://www.der-quaker.de/mykros/files/q2toq3t.zip
 http://www.dqz.de/quake3/b/files/q2toq3t.zip
 http://www.dqz.de/quake3/d/files/q2toq3t.zip
-http://www.gamers.org/pub/games/idgames2/planetquake/kcmaps/q2toq3t.zip
-http://www.gamers.org/pub/idgames2/planetquake/kcmaps/q2toq3t.zip
-http://www.gamers.org/pub/mirrors/ftp.planetquake.com/kcmaps/q2toq3t.zip
-http://www.gweb.de/sam/quake3/pub/tools/q2toq3t.zip
 http://www.moneychair.demon.co.uk/quake3/maps/q2toq3t.zip
 http://www.primorye.ru/quake/files%5Cq3%5Cq2toq3t.zip
-https://www.quaddicted.com/files/idgames2/planetquake/kcmaps/q2toq3t.zip
-https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/kcmaps/q2toq3t.zip
+http://www.gweb.de/sam/quake3/pub/tools/q2toq3t.zip
+http://people.a2000.nl/babe/q2toq3t.zip
+http://q3.zone.ru/ftp/Q2toQ3T.zip
+http://quake3.de/files/q2toq3t.zip
+http://personal.lig.bellsouth.net/lig/d/f/dfrey/q2toq3t.zip
+http://www.captured.com/underground/news/q2toq3t.zip
+
+# q2toq3t.zip (many versions with the same filename)
+http://www.q3a.de/files/q2toq3t.zip
 
 # q2toq3t_102.zip
 http://www.quake.de/FILES/quake3/tool/q2toq3t_102.zip
@@ -797,100 +811,149 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/dm_mm1d.zip
 
 # gdm3_q3a.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/gdm3_q3a.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/gdm3_q3a.zip
+http://members.xoom.com/custommaps/maps/gdm3_q3a.zip
 
 # gun_q3.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/gun_q3.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/gun_q3.zip
 
 # gzarena108_.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/gzarena108_.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/gzarena108_.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/gzarena108_.zip
 
 # q3a-e3.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/q3a-e3.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/q3a-e3.zip
+ftp://24.31.27.145/c%3A/alex/ftp/pub/quake3source/Levels/q3a-e3.zip
+ftp://quake2.telestream.com/Quake%20Stuff/Quake3/untested/maps/q3a-e3.zip
 
 # q3demo.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/q3demo.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/q3demo.zip
 
 # q3pool.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/q3pool.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/q3pool.zip
 
 # q3q2dm8.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/q3q2dm8.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/q3q2dm8.zip
 
 # railmaps.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/railmaps.zip
 
 # LAVATUBE.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/LAVATUBE.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/LAVATUBE.zip
 
 # Medieval.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/Medieval.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/Medieval.zip
+http://www2.memes.com/quaker/variousmaps/medieval.zip
 
 # Pbdm1.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/Pbdm1.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/Pbdm1.zip
 
 # dm6zb_to_c.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/dm6zb_to_c.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/dm6zb_to_c.zip
 
 # extra_q3_maps.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/extra_q3_maps.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/extra_q3_maps.txt
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/extra_q3_maps.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/extra_q3_maps.txt
 
 # hokan.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/hokan.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/hokan.zip
 
 # kick.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/kick.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/kick.zip
+http://q3.zone.ru/ftp/skins/kick.zip
 
 # myhome.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/myhome.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/myhome.zip
+http://www.quake3arenawikingclan.de/files/myhome.zip
 
 # overflow3.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/overflow3.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/overflow3.zip
 
 # pulquemaps.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/pulquemaps.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/pulquemaps.zip
 
 # q3atour.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3atour.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3atour.zip
 
 # q3q1dm3z.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3q1dm3z.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q1dm3z.zip
 
 # q3q2sedm3z.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3q2sedm3z.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q2sedm3z.zip
 
 # q3spike.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3spike.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3spike.zip
 
 # sbq3one.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/sbq3one.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/sbq3one.zip
 
 # temple2z.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/temple2z.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/temple2z.zip
 
 # wiebo_cnv1.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/wiebo_cnv1.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/wiebo_cnv1.zip
 
 # xnd33.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/xnd33.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/xnd33.zip
 
 # ztn_cnv1.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/ztn_cnv1.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/ztn_cnv1.zip
 
 # gsctf1.zip
 ftp://208.187.236.10/quake3/maps%20ctf/gsctf1.zip
+http://www.geocities.com/undeaddemon/gsctf1.zip
+http://members.xoom.com/quake3bots/files/gsctf1.zip
+ftp://208.187.236.10:21/quake3/maps%20ctf/gsctf1.zip
+ftp://quake2.telestream.com/quake3/maps%20ctf/gsctf1.zip
+
 
 # japanc.zip
 ftp://208.187.236.10/quake3/maps%20ctf/japanc.zip
+http://www.valhalla.com.pl/quake3/mapy/full/japanc.zip
+ftp://208.187.236.10:21/quake3/maps%20ctf/japanc.zip
 
 # q3dm12_ctf.zip
 ftp://208.187.236.10/quake3/maps%20ctf/q3dm12_ctf.zip
+ftp://208.187.236.10:21/quake3/maps%20ctf/q3dm12_ctf.zip
+ftp://quake2.telestream.com/quake3/maps%20ctf/q3dm12_ctf.zip
+http://members.xoom.com/quake3bots/files/q3dm12_ctf.zip
+http://www.planetquake3.net/files/q3dm12_ctf.zip
 
 # q3tlcctf.zip
 ftp://208.187.236.10/quake3/maps%20ctf/q3tlcctf.zip
+ftp://208.187.236.10:21/quake3/maps%20ctf/q3tlcctf.zip
+ftp://quake2.telestream.com/quake3/maps%20ctf/q3tlcctf.zip
 
 # tmp.zip
 ftp://208.187.236.10/quake3/maps%20ctf/tmp.zip
+ftp://208.187.236.10:21/quake3/maps%20ctf/tmp.zip
+ftp://quake2.telestream.com/quake3/maps%20ctf/tmp.zip
 
 # Q3T1048r.exe
 http://www.clarionuk.co.uk/q3tweak/Q3T1048r.exe
