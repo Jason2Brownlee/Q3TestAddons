@@ -201,7 +201,7 @@ Tunnelmapz.zip | Tunnelmapz for Q3Test v1.08
 [goregravec.zip](bin/maps-108/goregravec.zip) | goregravec for Q3Test v1.08
 [hardm1.zip](bin/maps-108/hardm1.zip) | hardm1 for Q3Test v1.08
 [lost.zip](bin/maps-108/lost.zip) | lost for Q3Test v1.08
-[majq3dm1.zip](bin/majq3dm1.zip)<br>majq3dm1beta.zip<br>majq3dm1beta2.zip | Map for Q3Test 1.08 Similar to q3test2
+[majq3dm1.zip](bin/maps-108/majq3dm1.zip)<br>majq3dm1beta.zip<br>majq3dm1beta2.zip | Map for Q3Test 1.08 Similar to q3test2
 [q2dm1.zip](bin/maps-108/q2dm1.zip) | q2dm1 for Q3Test v1.08
 [q2dm2.zip](bin/maps-108/q2dm2.zip) | q2dm2 for Q3Test v1.08
 [q2dm5.zip](bin/maps-108/q2dm5.zip) | q2dm5 for Q3Test v1.08
