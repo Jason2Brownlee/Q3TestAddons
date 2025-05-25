@@ -26,6 +26,7 @@ l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 newskins.zip | New Skins
 pak91.zip | tim_dm1a and timdm2b maps for q3test
 q1visor.zip | Quake1 Player Sounds for Q3Test
+q3addons.zip | Q3Test Addons
 q3ausp10.zip | Unofficial Skinpack for Q3A Test
 railgf1a.zip<br>[railfix.zip](bin/railfix.zip) | Replace the Railgun sound with the q2 railgun sound
 sodq3exp.zip | New numbers, sight and background for console

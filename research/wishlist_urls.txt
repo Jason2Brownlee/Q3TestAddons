@@ -1044,5 +1044,7 @@ http://members.xoom.com:80/custommaps/maps/q3q2dm8_z.zip
 # q3q1dm6zb.zip
 http://members.xoom.com:80/custommaps/maps/q3q1dm6zb.zip
 
-#
+# q3addons.zip
+http://freestyle.splatterworld.de/q3addons.zip
+http://www.quake3arenawikingclan.de/files/q3addons.zip
 
