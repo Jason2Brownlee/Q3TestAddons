@@ -84,8 +84,8 @@ soundpak.zip | Sound-Pak from Gecko Q3Test v1.09
 
 File | Description
 --- | ---
-NMSv2.00.exe<br>NMS_v3.00b.exe<br>NMS_v3.55.exe | Name Maker Studio
-Q3ASetupb0.7.5.exe<br>[Q3ASetup0.8.0.exe](bin/Q3ASetup0.8.0.exe) | Configure Q3Test
+NMSv2.00.exe<br>NMS_v3.00b.exe<br>NMS_v3.55.exe<br>NMS_v4.13.zip<br>NMS_v4.25.zip | Name Maker Studio
+Q3ASetupb0.7.5.exe<br>[Q3ASetup0.8.0.exe](bin/Q3ASetup0.8.0.exe)<br>Q3ASetup0.8.2.exe | Configure Q3Test
 [Java_MD3View_1_0.zip](bin/Java_MD3View_1_0.zip) | Java MD3 View
 [Q3EntityEd.zip](bin/Q3EntityEd.zip) | Q3 Entitiy Editor v1.0
 [Q3Stats20b2a_win32.zip](bin/Q3Stats20b2a_win32.zip) | Stats for Q3Test  v1.08
@@ -108,6 +108,8 @@ maxfps105.exe | Max FPS for Q3 1.05
 q3name.zip | Q3 Fun Name Maker
 q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>[Q3T1048-2w.exe](bin/Q3T1048-2w.exe)<br>Q3T1048r.exe<br>TweeQ3v048MAX.zip<br>Q3TPpp.exe<br>[Q3TSetup.exe](bin/Q3TSetup.exe)<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 q3viewer.zip | Q3 Model Viewer
+gbiotchv08b.zip | The gBi0Tch Log Analyzer
+
 
 ### Q3Test Cracks
 

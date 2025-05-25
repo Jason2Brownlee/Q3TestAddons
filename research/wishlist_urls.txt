@@ -423,10 +423,11 @@ http://www.dqz.de/quake3/e/files/kingbeta.zip
 http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/kingbeta.zip
 
 # gzarena1.zip
-http://www.gweb.de/sam/quake3/pub/mods/gzarena1.zip
+http://freestyle.splatterworld.de/files/gzarena1.zip
 http://freestyle.splatterworld.de/gzarena1.zip
 http://www.dqz.de/quake3/e/files/gzarena1.zip
-http://freestyle.splatterworld.de/files/gzarena1.zip
+http://www.gweb.de/sam/quake3/pub/mods/gzarena1.zip
+http://www.valhalla.com.pl/quake3/pliki/gzarena1.zip
 
 # crsrail.zip
 http://www.gweb.de/sam/quake3/pub/mods/crsrail.zip
@@ -981,4 +982,17 @@ http://geocities.com/timessquare/corridor/2783/q3a/q3ausp10.zip
 
 # Q3ASetupb0.7.5.exe
 http://www.valhalla.com.pl/quake3/pliki/Q3ASetupb0.7.5.exe
+
+# gbiotchv08b.zip
+http://www.valhalla.com.pl/quake3/pliki/gbiotchv08b.zip
+
+# NMS_v4.25.zip
+http://www.valhalla.com.pl/quake3/pliki/NMS_v4.25.zip
+
+# Q3ASetup0.8.2.exe
+http://www.valhalla.com.pl/quake3/pliki/Q3ASetup0.8.2.exe
+
+# NMS_v4.13.zip
+http://www.valhalla.com.pl/quake3/pliki/NMS_v4.13.zip
+
 

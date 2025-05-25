@@ -77,11 +77,12 @@ https://web.archive.org/web/19990908214858/http://www.moneychair.demon.co.uk/qua
 	maps, packs, tools [processed]
 https://groups.google.com/g/uk.games.computer.quake3/c/hUCLuACJnLg/m/ur-4Pft_J9EJ
 	ihv stuff, out of scope? [processed]
+https://web.archive.org/web/20001028022954/http://quake3.valhalla.com.pl/archiwum.asp
+	news for each month of 1999, lots of maps and packs [done]
 
 TODO
 ====
-https://web.archive.org/web/20001028022954/http://quake3.valhalla.com.pl/archiwum.asp
-	news for each month of 1999, lots of maps and packs
+
 https://web.archive.org/web/20000303154743/http://www.fortunecity.de:80/wolkenkratzer/hal/106/quake3/maps.htm
 	maps
 https://web.archive.org/web/19991113223955/http://www.q3arena.pl/skiny.html

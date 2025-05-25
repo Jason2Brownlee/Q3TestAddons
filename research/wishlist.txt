@@ -69,7 +69,10 @@ TweeQ3v048MAX.zip
 NMS_v3.00b.exe
 NMSv2.00.exe
 Q3ASetupb0.7.5.exe
-
+gbiotchv08b.zip
+Q3ASetup0.8.2.exe
+NMS_v4.25.zip
+NMS_v4.13.zip
 
 # bots
 q3bot98.exe
