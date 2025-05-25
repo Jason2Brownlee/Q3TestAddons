@@ -45,6 +45,7 @@ q2toq3t105.zip
 q2toq3t.zip
 q2toq3t_102.zip
 q2toq3t1.071.zip
+q3ausp10.zip
 
 # tools
 Md3View-Mac_1.sit
@@ -63,6 +64,12 @@ oldQ3TFull.exe
 oldQ3TSetup.exe
 q3viewer.zip
 q3name.zip
+NMS_v3.55.exe
+TweeQ3v048MAX.zip
+NMS_v3.00b.exe
+NMSv2.00.exe
+Q3ASetupb0.7.5.exe
+
 
 # bots
 q3bot98.exe
@@ -70,6 +77,7 @@ q3bot98.exe
 # cracks
 q3dcrk-11.zip
 crq3108.zip
+Q31.09crack.zip
 
 # maps v?
 dm6.zip

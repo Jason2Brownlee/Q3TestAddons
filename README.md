@@ -26,6 +26,7 @@ l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 newskins.zip | New Skins
 pak91.zip | tim_dm1a and timdm2b maps for q3test
 q1visor.zip | Quake1 Player Sounds for Q3Test
+q3ausp10.zip | Unofficial Skinpack for Q3A Test
 railgf1a.zip<br>[railfix.zip](bin/railfix.zip) | Replace the Railgun sound with the q2 railgun sound
 sodq3exp.zip | New numbers, sight and background for console
 
@@ -83,6 +84,8 @@ soundpak.zip | Sound-Pak from Gecko Q3Test v1.09
 
 File | Description
 --- | ---
+NMSv2.00.exe<br>NMS_v3.00b.exe<br>NMS_v3.55.exe | Name Maker Studio
+Q3ASetupb0.7.5.exe<br>[Q3ASetup0.8.0.exe](bin/Q3ASetup0.8.0.exe) | Configure Q3Test
 [Java_MD3View_1_0.zip](bin/Java_MD3View_1_0.zip) | Java MD3 View
 [Q3EntityEd.zip](bin/Q3EntityEd.zip) | Q3 Entitiy Editor v1.0
 [Q3Stats20b2a_win32.zip](bin/Q3Stats20b2a_win32.zip) | Stats for Q3Test  v1.08
@@ -103,13 +106,14 @@ File | Description
 [wened.zip](bin/wened.zip) | Q3Test Color Name Maker
 maxfps105.exe | Max FPS for Q3 1.05
 q3name.zip | Q3 Fun Name Maker
-q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>[Q3T1048-2w.exe](bin/Q3T1048-2w.exe)<br>Q3T1048r.exe<br>Q3TPpp.exe<br>[Q3TSetup.exe](bin/Q3TSetup.exe)<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
+q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>[Q3T1048-2w.exe](bin/Q3T1048-2w.exe)<br>Q3T1048r.exe<br>TweeQ3v048MAX.zip<br>Q3TPpp.exe<br>[Q3TSetup.exe](bin/Q3TSetup.exe)<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 q3viewer.zip | Q3 Model Viewer
 
 ### Q3Test Cracks
 
 File | Description
 --- | ---
+Q31.09crack.zip | Q3Test v1.09 Crack
 [productid.zip](bin/productid.zip)<br>[productid.txt](bin/productid.txt) | Rename demoq3 to baseq3 and add baseq3/productid.txt
 [q3-cracks.zip](bin/q3-cracks.zip) | Cracks for all Q3Test versions
 [q3dcrk-10.zip](bin/q3dcrk-10.zip)<br>q3dcrk-11.zip | Quake3 Demo Restricted Mode Crack

@@ -961,3 +961,24 @@ http://www.clarionuk.co.uk/q3tweak/Q3T1048r.exe
 # Q3TPpp.exe
 http://www.clarionuk.co.uk/q3tweak/download/Q3TPpp.exe
 
+# NMS_v3.55.exe
+http://www.q3viking.de/files/NMS_v3.55.exe
+
+# NMS_v3.00b.exe
+http://www.valhalla.com.pl/quake3/pliki/NMS_v3.00b.exe
+
+# NMSv2.00.exe
+http://www.valhalla.com.pl/quake3/pliki/NMSv2.00.exe
+
+# TweeQ3v048MAX.zip
+http://www.q3viking.de/files/TweeQ3v048MAX.zip
+
+# Q31.09crack.zip
+http://www.q3viking.de/files/Q31.09crack.zip
+
+# q3ausp10.zip
+http://geocities.com/timessquare/corridor/2783/q3a/q3ausp10.zip
+
+# Q3ASetupb0.7.5.exe
+http://www.valhalla.com.pl/quake3/pliki/Q3ASetupb0.7.5.exe
+
