@@ -48,6 +48,7 @@ q2toq3t1.071.zip
 q3ausp10.zip
 q3addons.zip
 WizQ3maps.zip
+q3dmpak2_5z.zip
 
 # tools
 Md3View-Mac_1.sit

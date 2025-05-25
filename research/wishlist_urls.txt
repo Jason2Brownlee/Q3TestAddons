@@ -118,6 +118,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q1dm6zc.zip
 http://perso.club-internet.fr/lavite/goodies/maps/q3108/q3q1dm6zc.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3q1dm6zc.zip
 http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/q3q1dm6zc.zip
+http://www.redrival.com/rizzo/q3q1dm6zc.zip
 
 # q3test2_rail.zip
 http://q3.zone.ru/ftp/maps/q3test2_rail.zip
@@ -900,6 +901,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q1dm3z.zip
 # q3q2sedm3z.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3q2sedm3z.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q2sedm3z.zip
+http://www.redrival.com/rizzo/q3q2sedm3z.zip
 
 # q3spike.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3spike.zip
@@ -1074,3 +1076,6 @@ http://freestyle.splatterworld.de/test6.zip
 
 # WizQ3maps.zip
 http://www.baypoint.com/clan/files/WizQ3maps.zip
+
+# q3dmpak2_5z.zip
+http://www.redrival.com/rizzo/q3dmpak2_5z.zip
