@@ -87,6 +87,7 @@ q3name.zip
 q3q2dm1-converter.zip
 q3tweak1039.exe
 q3viewer.zip
+Java_MD3View_1_0beta.zip
 
 # bots
 q3bot98.exe

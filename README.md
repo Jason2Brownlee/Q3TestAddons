@@ -91,7 +91,7 @@ File | Description
 --- | ---
 NMS_v1.00.zip<br>[nms_v1.53.zip](bin/nms_v1.53.zip)<br>NMS_v1.54.zip<br>NMSv2.00.exe<br>NMS_v3.00.exe<br>NMS_v3.00b.exe<br>NMS_v3.50.exe<br>NMS_v3.55.exe<br>NMS_v3.59.exe<br>NMS_v3.60.exe<br>NMS_v4.13.zip<br>NMS_v4.13-update.zip<br>NMS_v4.15.zip<br>NMS_v4.15-update.zip<br>NMS_v4.25.zip<br>[NMS_v4.26.zip](bin/NMS_v4.26.zip) | Name Maker Studio
 Q3ASetupb0.7.5.exe<br>[Q3ASetup0.8.0.exe](bin/Q3ASetup0.8.0.exe)<br>Q3ASetup0.8.2.exe | Configure Q3Test
-[Java_MD3View_1_0.zip](bin/Java_MD3View_1_0.zip) | Java MD3 View
+Java_MD3View_1_0beta.zip<br>[Java_MD3View_1_0.zip](bin/Java_MD3View_1_0.zip)<br>[Java_MD3View_v1_2_2.zip](bin/Java_MD3View_v1_2_2.zip) | Java MD3 View
 [Q3EntityEd.zip](bin/Q3EntityEd.zip) | Q3 Entitiy Editor v1.0
 [Q3Stats20b2a_win32.zip](bin/Q3Stats20b2a_win32.zip) | Stats for Q3Test  v1.08
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
