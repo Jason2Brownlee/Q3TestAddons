@@ -191,7 +191,6 @@ keep.zip
 kick.zip
 maj_portal.zip
 maj_protal.zip
-majq3dm1.zip
 majq3dm1beta.zip
 majq3dm1beta2.zip
 mq3-108.zip

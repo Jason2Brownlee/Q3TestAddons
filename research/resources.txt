@@ -81,12 +81,13 @@ https://web.archive.org/web/20001028022954/http://quake3.valhalla.com.pl/archiwu
 	news for each month of 1999, lots of maps and packs [done]
 https://web.archive.org/web/20000303154743/http://www.fortunecity.de:80/wolkenkratzer/hal/106/quake3/maps.htm
 	maps [done]
+https://web.archive.org/web/19991003200155/http://freestyle.splatterworld.de/
+	maps [done]
+
 
 TODO
 ====
 
-https://web.archive.org/web/19991003200155/http://freestyle.splatterworld.de/
-	maps
 https://web.archive.org/web/19991113223955/http://www.q3arena.pl/skiny.html
 	skins
 https://www.quaddicted.com/files/idgames2/utils/name_editor/

@@ -521,10 +521,6 @@ http://q3.zone.ru/ftp/maps/railgun101.zip
 # q3dm2.zip
 http://q3.zone.ru/ftp/maps/q3dm2.zip
 
-# majq3dm1.zip
-http://q3.zone.ru/ftp/maps/majq3dm1.zip
-http://www.altern.org/lavite/zip/maps/majq3dm1.zip
-
 # q3sphere.zip
 http://q3.zone.ru/ftp/maps/q3sphere.zip
 
@@ -734,6 +730,7 @@ http://www2.memes.com/quaker/q3/q3doom2_map06.zip
 
 # q3doom2_map07.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3doom2_map07.zip
+ftp://ftp.istc.kg/games/Action/Quake/Quake%20III/Maps/q3doom2_map07.zip
 
 # q3joe2.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3joe2.zip
