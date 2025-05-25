@@ -85,6 +85,7 @@ https://web.archive.org/web/20000303154743/http://www.fortunecity.de:80/wolkenkr
 TODO
 ====
 
-
+https://web.archive.org/web/19991003200155/http://freestyle.splatterworld.de/
+	maps
 https://web.archive.org/web/19991113223955/http://www.q3arena.pl/skiny.html
 	skins

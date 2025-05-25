@@ -242,6 +242,7 @@ ftp://208.187.236.10/q3test/Maps/v1.08/2box4.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/railarena.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/maps/v1.08/railarena.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/railarena.zip
+http://www.valhalla.com.pl/quake3/mapy/full/railarena.zip
 
 # q3q1dm5-108.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/q3q1dm5-108.zip
@@ -512,6 +513,7 @@ http://www.quake.wplus.net/archiv/ctf105.zip
 # newskins.zip
 http://q3.zone.ru/ftp/newskins.zip
 ftp://24.31.27.145/c%3A/alex/ftp/pub/quake3source/Skins/Visor/newskins.zip
+http://http//q3.zone.ru/ftp/newskins.zip
 
 # railgun101.zip
 http://q3.zone.ru/ftp/maps/railgun101.zip
@@ -877,6 +879,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/hokan.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/kick.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/kick.zip
 http://q3.zone.ru/ftp/skins/kick.zip
+http://www.fortunecity.de/wolkenkratzer/486/133/kick.zip
 
 # myhome.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/myhome.zip
@@ -980,6 +983,7 @@ http://www.q3viking.de/files/Q31.09crack.zip
 
 # q3ausp10.zip
 http://geocities.com/timessquare/corridor/2783/q3a/q3ausp10.zip
+http://geocities.com/TimesSquare/Corridor/2783/q3a/Q3AUSP10.zip
 
 # Q3ASetupb0.7.5.exe
 http://www.valhalla.com.pl/quake3/pliki/Q3ASetupb0.7.5.exe
@@ -995,9 +999,11 @@ http://www.valhalla.com.pl/quake3/pliki/Q3ASetup0.8.2.exe
 
 # NMS_v4.13.zip
 http://www.valhalla.com.pl/quake3/pliki/NMS_v4.13.zip
+http://nms.quakecity.net/download/NMS_v4.13.zip
 
 # s20_dm2d_floor_fix.zip
 http://www.fortunecity.de:80/wolkenkratzer/hal/106/quake3/maps/s20_dm2d_floor_fix.zip
+http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/maps/s20_dm2d_floor_fix.zip
 
 # jumppad_map.zip
 http://www.quake3arenawikingclan.de/files/jumppad_map.zip
@@ -1007,10 +1013,13 @@ http://www.quake3arenawikingclan.de/files/q1q3dm5-108.zip
 
 # gzctfbeta.zip
 ttp://www.quake3arenawikingclan.de/files/gzctfbeta.zip
+http://freestyle.splatterworld.de/gzctfbeta.zip
+http://www.quake3arenawikingclan.de/files/gzctfbeta.zip
 
 # test5.zip
 http://www.quake3arenawikingclan.de/files/test5.zip
-
+http://freestyle.splatterworld.de/test5.zip
+http://www.csv.warwick.ac.uk/~miapd/quake/test5.zip
 # deadsimp.zip
 http://www.quake3arenawikingclan.de/files/deadsimp.zip
 
@@ -1037,14 +1046,27 @@ http://www.quake3arenawikingclan.de/files/Test.zip
 
 # q3q2dm1_z.zip
 http://members.xoom.com:80/custommaps/maps/q3q2dm1_z.zip
+http://members.xoom.com/custommaps/maps/q3q2dm1_z.zip
 
 # q3q2dm8_z.zip
 http://members.xoom.com:80/custommaps/maps/q3q2dm8_z.zip
+http://members.xoom.com/custommaps/maps/q3q2dm8_z.zip
 
 # q3q1dm6zb.zip
 http://members.xoom.com:80/custommaps/maps/q3q1dm6zb.zip
+http://members.xoom.com/custommaps/maps/q3q1dm6zb.zip
 
 # q3addons.zip
 http://freestyle.splatterworld.de/q3addons.zip
 http://www.quake3arenawikingclan.de/files/q3addons.zip
+
+# mauerblut.zip
+http://freestyle.splatterworld.de/mauerblut.zip
+
+# railheim.zip
+http://freestyle.splatterworld.de/railheim.zip
+
+# test6.zip
+http://freestyle.splatterworld.de/test6.zip
+
 

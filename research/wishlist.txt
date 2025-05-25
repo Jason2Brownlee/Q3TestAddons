@@ -107,6 +107,9 @@ ibdm1base.zip
 gdm3_q3.zip
 q3q2dm1b.zip
 q3edge.zip
+mauerblut.zip
+railheim.zip
+test6.zip
 
 # v1.05 maps
 ROUND.ZIP

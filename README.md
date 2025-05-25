@@ -26,7 +26,6 @@ l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 newskins.zip | New Skins
 pak91.zip | tim_dm1a and timdm2b maps for q3test
 q1visor.zip | Quake1 Player Sounds for Q3Test
-q3addons.zip | Q3Test Addons
 q3ausp10.zip | Unofficial Skinpack for Q3A Test
 railgf1a.zip<br>[railfix.zip](bin/railfix.zip) | Replace the Railgun sound with the q2 railgun sound
 sodq3exp.zip | New numbers, sight and background for console
@@ -57,8 +56,9 @@ bluepla.zip | Blue Plasmagun Q3Test v1.08
 crsrail.zip | Rail-ChRiSt-Pak 2 Q3Test v1.08
 evilrail.zip | Evil-Rail Effect Q3Test v1.08
 gzarena1.zip | Rocketarena Q3Test v1.08
-kingbeta.zip | King Of The Hill 3 Q3Test v1.08
+kingbeta.zip | KING3 (New Gameplay +2 Maps in this Mod for Q3test) Beta-Release
 modelsounds.zip | New Model Sounds Q3Test v1.08
+q3addons.zip | Q3Test Addons (You need them to play King3 and GzTf)
 q3sounds.zip | Quake 3 Soundpack from CleanerWolf Q3Test v1.08
 q3test.zip | Q3Test 1.08 with 159 maps and skins
 quadepak.zip | Q3 Erosion Pak Q3Test v1.08
@@ -233,7 +233,7 @@ goregrave.zip | goregrave for Q3Test v1.08
 gsctf1.zip | gsctf1 for Q3Test v1.08
 gun_q3.zip | gun_q3 for Q3Test v1.08
 gzarena108_.zip | gzarena108_ for Q3Test v1.08
-gzctfbeta.zip  | gzctfbeta for Q3Test v1.08
+gzctfbeta.zip  | GZCTF1 (First Map of the Mod GzTf for Q3test) Beta-Release
 hokan.zip | hokan for Q3Test v1.08
 ibdm1.zip | ibdm1 for Q3Test v1.08
 japanc.zip | japanc for Q3Test v1.08
@@ -320,6 +320,7 @@ darkq2dm8.zip | Map from Quake2 - q2dm8
 dm6.zip | Q1 DM6 for Q3Test
 gdm3_q3.zip | Golney's DM3 Arena Q3Test Map
 ibdm1base.zip | Map for Q3Test
+mauerblut.zip | mauerblut map
 q1q3dm1.zip | Map from Quake
 q1q3dm6.zip | Map from Quake
 q1q3dm6zc.zip | Another dm6 convention (The Dark Zone) in Q3Test
@@ -331,6 +332,8 @@ q3saco.zip | Another map with abyss and jump pads
 q3sphere.zip | A small sphere with lots of weapons but little space
 q3v.zip | Quite a good map for DM and duels
 railgun101.zip | Railgun 101 from Quake2
+railheim.zip | railheim map
+test6.zip | test6 map
 the-edge.zip | q2dm1 The Edge
 tim_dm1.zip | tim_dm1 map
 v3test2.zip | Made on the basis of q3test2. Added a new "floor"
