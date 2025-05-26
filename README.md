@@ -154,7 +154,7 @@ S20_DM.zip<br>S20_DM1.zip | S20_DM for Q3Test v1.05
 S20_dm2a.zip | S20_dm2a for Q3Test v1.05
 SPAZ.ZIP | SPAZ for Q3Test v1.05
 XxUBERxX.zip<br>uberfix.zip | XxUBERxX (60 maps!) for Q3Test v1.05
-[darkq2dm1.zip](bin/maps-105/darkq2dm1.zip) | Quake2 Q2DM1 "The EDge" for Q3Test (DARKQ2D1.BSP)
+[darkq2dm1.zip](bin/maps-105/darkq2dm1.zip) | Quake2 Q2DM1 "The Edge" for Q3Test (DARKQ2D1.BSP)
 [q1q3dm3.zip](bin/maps-105/q1q3dm3.zip) | Quake1 DM3 for Q3Test (q1q3dm3.bsp)
 [q1q3dm4.zip](bin/maps-105/q1q3dm4.zip) | Quake1 DM4 for Q3Test (q1q3dm4.bsp)
 [q1q3dm6.zip](bin/maps-105/q1q3dm6.zip) | Quake1 DM6 for Q3Test (q1q3dm6z.bsp)
@@ -187,7 +187,7 @@ q3q1dm4.zip | Quake1 DM4 for Q3Test
 q3q1e1m7.zip | Quake1 E1M7 for Q3Test
 q3q1e1m7a | Quake1 E1M7 for Q3Test
 q3q3a.zip | q3q3a for Q3Test v1.05
-tim_dm1.zip | tim_dm1 for Q3Test v1.05
+tim_dm1.zip | Quake3 IHV tim_dm1 for Q3Test v1.05
 wasted.zip | wasted for Q3Test v1.05
 
 
@@ -332,9 +332,9 @@ gdm3_q3.zip | Golney's DM3 Arena Q3Test Map
 hardm1betaz.zip | hardm1betaz q3test map
 ibdm1base.zip | Map for Q3Test
 mauerblut.zip | mauerblut map
-q1q3dm1.zip | Map from Quake
-q1q3dm6zc.zip | Another dm6 convention (The Dark Zone) in Q3Test
-q3-dm3.zip | The Abandoned Base Q3
+q1q3dm1.zip | Quake1 DM1 for Q3Test
+q1q3dm6zc.zip | Quake1 DM6 for Q3Test
+q3-dm3.zip | Quake1 DM3 for Q3Test
 q3edge.zip | Quake2 Q2DM1 "The Edge" for Q3Test
 q3q2dm1b.zip | Quake2 Q2DM1 for Q3Test
 q3q2e4m3.zip | Quake2 E4M3 for Q3Test
@@ -345,7 +345,7 @@ railgun101.zip | Railgun 101 from Quake2
 railheim.zip | railheim map
 test6.zip | test6 map
 the-edge.zip | Quake2 Q2DM1 "The Edge" for Q3Test
-tim_dm1.zip | tim_dm1 map
+tim_dm1.zip | Quake3 IHV tim_dm1 for Q3Test
 v3test2.zip | Made on the basis of q3test2. Added a new "floor"
 
 * **No Link**: indicates that we could not locate a copy of the file yet.

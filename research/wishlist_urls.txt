@@ -170,7 +170,6 @@ ftp://208.187.236.10/q3test/Maps/v1.08/ouch.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/ouch.zip
 http://members.home.com/j03/ouch.zip
 http://q3.zone.ru/ftp/maps/ouch.zip
-http://web.inter.nl.net/users/B.Vloon/gp2/ouch.zip
 http://www.altern.org/lavite/zip/maps/ouch.zip
 http://www.angelfire.com/ut/jediquake3/images/ouch.zip
 http://www.dqz.de/quake3/b/files/ouch.zip
