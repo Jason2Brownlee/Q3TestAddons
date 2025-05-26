@@ -109,7 +109,7 @@ Q3ASetupb0.7.5.exe<br>[Q3ASetup0.8.0.exe](bin/Q3ASetup0.8.0.exe)<br>Q3ASetup0.8.
 [q3control.zip](bin/q3control.zip)<br>[q3a-tc02.zip](bin/q3a-tc02.zip)<br>[q3atc3.zip](bin/q3atc3.zip)<br>[q3atc31.zip](bin/q3atc31.zip)<br>[q3atc31min.zip](bin/q3atc31min.zip)<br>[q3atc3min.zip](bin/q3atc3min.zip)<br>[q3aTotalControl31.zip](bin/q3aTotalControl31.zip)<br>q3atc04.zip<br>[q3atc05.zip](bin/q3atc05.zip)<br>[q3atc05patch.zip](bin/q3atc05patch.zip)<br>[q3atc51.zip](bin/q3atc51.zip)<br>[q3atcfix1.zip](bin/q3atcfix1.zip)<br>[q3atcserver.zip](bin/q3atcserver.zip)<br>[q3atc06.zip](bin/q3atc06.zip) | Q3A Total Control
 [q3namething.zip](bin/q3namething.zip) | Q3NameThing
 [q3nedit.zip](bin/q3nedit.zip) | Quake 3 Name Creater 1.1a
-[q3q2dm1.zip](bin/q3q2dm1.zip) | q2dm1 "The Edge" Converter for Q3Test
+[q3q2dm1.zip](bin/q3q2dm1.zip) | Quake2 Q2DM1 "The Edge" Converter for Q3Test
 [q3retex.zip](bin/q3retex.zip) | Retexture BSP File
 [q3wumpass105.zip](bin/q3wumpass105.zip)<br>[q3wumpass105-106.zip](bin/q3wumpass105-106.zip)<br>[q3wumpass105-107.zip](bin/q3wumpass105-107.zip)<br>[q3wumpass105-109.zip](bin/q3wumpass105-109.zip)<br>[q3wumpas.zip](bin/q3wumpas.zip) | Convert Q3Test maps
 [qube102.zip](bin/qube102.zip) | Qube Quake3 Editor
@@ -154,8 +154,8 @@ S20_DM.zip<br>S20_DM1.zip | S20_DM for Q3Test v1.05
 S20_dm2a.zip | S20_dm2a for Q3Test v1.05
 SPAZ.ZIP | SPAZ for Q3Test v1.05
 XxUBERxX.zip<br>uberfix.zip | XxUBERxX (60 maps!) for Q3Test v1.05
-[darkq2dm1.zip](bin/maps-105/darkq2dm1.zip) | Q2DM1 for Q3Test (DARKQ2D1.BSP)
-[q1q3dm3.zip](bin/maps-105/q1q3dm3.zip) | The Abandoned Base Quake1 to Quake3 Conversion (q1q3dm3.bsp)
+[darkq2dm1.zip](bin/maps-105/darkq2dm1.zip) | Quake2 Q2DM1 "The EDge" for Q3Test (DARKQ2D1.BSP)
+[q1q3dm3.zip](bin/maps-105/q1q3dm3.zip) | Quake1 DM3 for Q3Test (q1q3dm3.bsp)
 [q1q3dm4.zip](bin/maps-105/q1q3dm4.zip) | Quake1 DM4 for Q3Test (q1q3dm4.bsp)
 [q1q3dm6.zip](bin/maps-105/q1q3dm6.zip) | Quake1 DM6 for Q3Test (q1q3dm6z.bsp)
 [q3q1e4m3.zip](bin/maps-105/q3q1e4m3.zip) | Quake1 E4M3 for Q3Test (q3q2e4m3.bsp)
@@ -175,17 +175,17 @@ majq3dm1beta.zip | majq3dm1beta for Q3Test v1.05
 morerail.zip | morerail for Q3Test v1.05
 mq3.zip | mq3 for Q3Test v1.05
 poleyard.zip | poleyard for Q3Test v1.05
-q1q3dm7.zip | q1q3dm7 for Q3Test v1.05
-q3-q2dm8.zip | q3-q2dm8 for Q3Test v1.05
+q1q3dm7.zip | Quake1 DM7 for Q3Test
+q3-q2dm8.zip | Quake2 Q2DM8 for Q3Test
 q32am.zip | q32am for Q3Test v1.05
 q3arail.zip | q3arail for Q3Test v1.05
 q3doom2_map06.zip | q3doom2_map06 for Q3Test v1.05
 q3doom2_map07.zip | q3doom2_map07 for Q3Test v1.05
 q3joe2.zip | q3joe2 for Q3Test v1.05
-q3q1dm1.zip | q3q1dm1 for Q3Test v1.05
-q3q1dm4.zip | q3q1dm4 for Q3Test v1.05
-q3q1e1m7.zip | q3q1e1m7 for Q3Test v1.05
-q3q1e1m7a | q3q1e1m7a for Q3Test v1.05
+q3q1dm1.zip | Quake1 DM1 for Q3Test
+q3q1dm4.zip | Quake1 DM4 for Q3Test
+q3q1e1m7.zip | Quake1 E1M7 for Q3Test
+q3q1e1m7a | Quake1 E1M7 for Q3Test
 q3q3a.zip | q3q3a for Q3Test v1.05
 tim_dm1.zip | tim_dm1 for Q3Test v1.05
 wasted.zip | wasted for Q3Test v1.05
@@ -215,11 +215,11 @@ Tunnelmapz.zip | Tunnelmapz for Q3Test v1.08
 [hardm1.zip](bin/maps-108/hardm1.zip) | Anduu[HAR]'s DM1 (HARdm1.bsp) for Q3Test v1.08
 [lost.zip](bin/maps-108/lost.zip) | Lost (lost.bsp by estaPHAN) for Q3Test v1.08
 [majq3dm1.zip](bin/maps-108/majq3dm1.zip)<br>majq3dm1beta.zip<br>majq3dm1beta2.zip | majq3dm1beta.bsp for Q3Test 1.08
-[q2dm1.zip](bin/maps-108/q2dm1.zip) | q2dm1.bsp for Q3Test v1.08
-[q2dm2.zip](bin/maps-108/q2dm2.zip) | q2dm2.bsp for Q3Test v1.08
-[q2dm5.zip](bin/maps-108/q2dm5.zip) | q2dm5.bsp for Q3Test v1.08
-[q2dm8.zip](bin/maps-108/q2dm8.zip) | q2dm8.bsp for Q3Test v1.08
-[q2dm9.zip](bin/maps-108/q2dm9.zip) | q2dm9.bsp for Q3Test v1.08
+[q2dm1.zip](bin/maps-108/q2dm1.zip) | Quake2 Q2DM1 for Q3Test (q2dm1.bsp)
+[q2dm2.zip](bin/maps-108/q2dm2.zip) | Quake2 Q2DM2 for Q3Test (q2dm2.bsp)
+[q2dm5.zip](bin/maps-108/q2dm5.zip) | Quake2 Q2DM5 for Q3Test (q2dm5.bsp)
+[q2dm8.zip](bin/maps-108/q2dm8.zip) | Quake2 Q2DM8 for Q3Test (q2dm8.bsp)
+[q2dm9.zip](bin/maps-108/q2dm9.zip) | Quake2 Q2DM9 for Q3Test (q2dm9.bsp)
 [q2ma3tex.zip](bin/maps-108/q2ma3tex.zip)<br>q2ma3.zip | q2ma3 for Q3Test v1.08
 [q3e1m7a.zip](bin/maps-108/q3e1m7a.zip) | Quake1 E1M7 Revival (q3e1m7a.bsp) for Q3Test v1.08
 [s20dm2d.zip](bin/maps-108/s20dm2d.zip) | S20DM2d.bsp for Q3Test v1.08
@@ -234,8 +234,8 @@ deadsimp.zip | deadsimp for Q3Test v1.08
 death.zip | death for Q3Test v1.08
 dm6zb_to_c.zip | dm6zb_to_c for Q3Test v1.08
 dm_mm1.zip<br>dm_mm1c.zip<br>dm_mm1d.zip | Masher's Playground for Q3Test v1.08
-dmc-q1dm3.zip | dmc-q1dm3 for Q3Test v1.08
-doc_q3dm1.zip | doc_q3dm1 for Q3Test v1.08
+dmc-q1dm3.zip | Quake1 DM3 for Q3Test
+doc_q3dm1.zip | Quake1 DM1 for Q3Test
 doom2map1.zip | doom2map1 for Q3Test v1.08
 e1m1.zip | e1m1 for Q3Test v1.08
 extra_q3_maps.zip | extra_q3_maps for Q3Test v1.08
@@ -282,9 +282,9 @@ q3q1dm5-108.zip | q3q1dm5-108 for Q3Test v1.08
 q3q1dm6zb.zip | q3q1dm6zb for Q3Test v1.08
 q3q1dm6zc.zip | q3q1dm6zc for Q3Test v1.08
 q3q2ctf1.zip | q3q2ctf1 for Q3Test v1.08
-q3q2dm1_z.zip | q3q2dm1_z for Q3Test v1.08
-q3q2dm8.zip | q3q2dm8 for Q3Test v1.08
-q3q2dm8_z.zip | q3q2dm8_z for Q3Test v1.08
+q3q2dm1_z.zip | Quake2 Q2DM1 for Q3Test
+q3q2dm8.zip | Quake2 Q2DM8 for Q3Test
+q3q2dm8_z.zip | Quake2 Q2DM8 for Q3Test
 q3q2dmX.zip | q3q2dmX for Q3Test v1.08
 q3q2sedm3z.zip | q3q2sedm3z for Q3Test v1.08
 q3saco1.zip | q3saco1 for Q3Test v1.08
@@ -335,16 +335,16 @@ mauerblut.zip | mauerblut map
 q1q3dm1.zip | Map from Quake
 q1q3dm6zc.zip | Another dm6 convention (The Dark Zone) in Q3Test
 q3-dm3.zip | The Abandoned Base Q3
-q3edge.zip | Q2dm1 for Q3Test
-q3q2dm1b.zip | Q2DM1 for Q3Test
-q3q2e4m3.zip | Map from Quake
+q3edge.zip | Quake2 Q2DM1 "The Edge" for Q3Test
+q3q2dm1b.zip | Quake2 Q2DM1 for Q3Test
+q3q2e4m3.zip | Quake2 E4M3 for Q3Test
 q3saco.zip | Another map with abyss and jump pads
 q3sphere.zip | A small sphere with lots of weapons but little space
 q3v.zip | Quite a good map for DM and duels
 railgun101.zip | Railgun 101 from Quake2
 railheim.zip | railheim map
 test6.zip | test6 map
-the-edge.zip | q2dm1 The Edge
+the-edge.zip | Quake2 Q2DM1 "The Edge" for Q3Test
 tim_dm1.zip | tim_dm1 map
 v3test2.zip | Made on the basis of q3test2. Added a new "floor"
 
