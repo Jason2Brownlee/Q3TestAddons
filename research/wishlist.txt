@@ -109,7 +109,6 @@ q3v.zip
 v3test2.zip
 q3saco2beta.zip
 q1q3dm6zc.zip
-q1q3dm6.zip
 q1q3dm1.zip
 q3q2e4m3.zip
 darkq2dm2.zip
@@ -144,7 +143,6 @@ km_portal.zip
 morerail.zip
 mq3.zip
 poleyard.zip
-q1q3dm6z.zip
 q1q3dm7.zip
 q3-q2dm8.zip
 q32am.zip

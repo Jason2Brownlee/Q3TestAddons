@@ -182,15 +182,6 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/q3q1dm4z.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/q3q1dm4z.zip
 http://www.angelfire.com/ut/jediquake3/images/q3q1dm4z.zip
 
-# q1q3dm6z.zip
-ftp://208.187.236.10/q3test/Maps/v1.05/q1q3dm6z.zip
-ftp://208.187.236.10:21/q3test/Maps/v1.05/q1q3dm6z.zip
-http://members.xoom.com/Fragpole/q1q3dm6z.zip
-http://www.planetq3.com/nana/files/maps/q1q3dm6z.zip
-http://www.quake.de/FILES/quake3/maps/q1q3dm6z.zip
-http://www.quakefiles.com/files/download.php?filekey=q3aqqdmz1&d_url=http://www.planetq3.com/nana/files/maps/q1q3dm6z.zip
-http://www2.memes.com/quaker/q3/q1q3dm6z.zip
-
 # RailAlley.zip
 http://www.angelfire.com/al/rogerbeaty/images/RailAlley.zip
 
@@ -543,10 +534,6 @@ http://www.dqz.de/quake3/b/files/q3saco2beta.zip
 
 # q1q3dm6zc.zip
 http://q3.zone.ru/ftp/maps/q1q3dm6zc.zip
-
-# q1q3dm6.zip
-http://q3.zone.ru/ftp/q1q3dm6.zip
-http://www.planetq3.com/nana/files/maps/q1q3dm6.zip
 
 # q1q3dm1.zip
 http://q3.zone.ru/files/q1q3dm1.zip
@@ -1109,7 +1096,6 @@ km_portal.bsp
 poleyard.bsp
 q1q3dm3.bsp
 q1q3dm4.bsp
-q1q3dm6z.bsp
 q32box4.bsp
 q3_orgy.bsp
 q3arail.bsp

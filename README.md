@@ -157,6 +157,7 @@ XxUBERxX.zip<br>uberfix.zip | XxUBERxX (60 maps!) for Q3Test v1.05
 [darkq2dm1.zip](bin/maps-105/darkq2dm1.zip) | Q2DM1 for Q3Test (DARKQ2D1.BSP)
 [q1q3dm3.zip](bin/maps-105/q1q3dm3.zip) | The Abandoned Base Quake1 to Quake3 Conversion (q1q3dm3.bsp)
 [q1q3dm4.zip](bin/maps-105/q1q3dm4.zip) | Quake1 DM4 for Q3Test (q1q3dm4.bsp)
+[q1q3dm6.zip](bin/maps-105/q1q3dm6.zip) | Quake1 DM6 for Q3Test (q1q3dm6z.bsp)
 [q3test1b.bsp](bin/maps-105/q3test1b.bsp)<br>q3test1b.zip | q3test1b for Q3Test v1.05 (requires q3105b)
 [q3test2b.bsp](bin/maps-105/q3test2b.bsp)<br>[q3test2b.zip](bin/maps-105/q3test2b.zip) | q3test2b for Q3Test v1.05  (requires q3105b)
 [q3test2b2.bsp](bin/maps-105/q3test2b2.bsp)<br>q3test2b2.zip | q3test2b2 for Q3Test v1.05 (requires q3105b)
@@ -173,7 +174,6 @@ majq3dm1beta.zip | majq3dm1beta for Q3Test v1.05
 morerail.zip | morerail for Q3Test v1.05
 mq3.zip | mq3 for Q3Test v1.05
 poleyard.zip | poleyard for Q3Test v1.05
-q1q3dm6z.zip | q1q3dm6z for Q3Test v1.05
 q1q3dm7.zip | q1q3dm7 for Q3Test v1.05
 q3-q2dm8.zip | q3-q2dm8 for Q3Test v1.05
 q32am.zip | q32am for Q3Test v1.05
@@ -332,7 +332,6 @@ hardm1betaz.zip | hardm1betaz q3test map
 ibdm1base.zip | Map for Q3Test
 mauerblut.zip | mauerblut map
 q1q3dm1.zip | Map from Quake
-q1q3dm6.zip | Map from Quake
 q1q3dm6zc.zip | Another dm6 convention (The Dark Zone) in Q3Test
 q3-dm3.zip | The Abandoned Base Q3
 q3edge.zip | Q2dm1 for Q3Test
