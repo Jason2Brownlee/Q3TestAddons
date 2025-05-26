@@ -203,22 +203,22 @@ Medieval.zip | Medieval for Q3Test v1.08
 Pbdm1.zip | Pbdm1 for Q3Test v1.08
 Test.zip | Test for Q3Test v1.08
 Tunnelmapz.zip | Tunnelmapz for Q3Test v1.08
-[binah.zip](bin/maps-108/binah.zip) | binah for Q3Test v1.08
-[estafun.zip](bin/maps-108/estafun.zip) | estafun for Q3Test v1.08
-[gdm1_q3.zip](bin/maps-108/gdm1_q3.zip) | gdm1_q3 for Q3Test v1.08
-[goregravec.zip](bin/maps-108/goregravec.zip) | goregravec for Q3Test v1.08
-[hardm1.zip](bin/maps-108/hardm1.zip) | hardm1 for Q3Test v1.08
-[lost.zip](bin/maps-108/lost.zip) | lost for Q3Test v1.08
-[majq3dm1.zip](bin/maps-108/majq3dm1.zip)<br>majq3dm1beta.zip<br>majq3dm1beta2.zip | Map for Q3Test 1.08 Similar to q3test2
-[q2dm1.zip](bin/maps-108/q2dm1.zip) | q2dm1 for Q3Test v1.08
-[q2dm2.zip](bin/maps-108/q2dm2.zip) | q2dm2 for Q3Test v1.08
-[q2dm5.zip](bin/maps-108/q2dm5.zip) | q2dm5 for Q3Test v1.08
-[q2dm8.zip](bin/maps-108/q2dm8.zip) | q2dm8 for Q3Test v1.08
-[q2dm9.zip](bin/maps-108/q2dm9.zip) | q2dm9 for Q3Test v1.08
-[q3e1m7a.zip](bin/maps-108/q3e1m7a.zip) | q3e1m7a for Q3Test v1.08
-[s20dm2d.zip](bin/maps-108/s20dm2d.zip) | s20dm2d for Q3Test v1.08
-[traq3a2.zip](bin/maps-108/traq3a2.zip) | traq3a2 for Q3Test v1.08
-[tunnel.zip](bin/maps-108/tunnel.zip) | tunnel for Q3Test v1.08
+[binah.zip](bin/maps-108/binah.zip) | BINAH (binah.bsp by estaPHAN) for Q3Test v1.08
+[estafun.zip](bin/maps-108/estafun.zip) | estaFUN (estaFUN.bsp by estaPHAN) for Q3Test v1.08
+[gdm1_q3.zip](bin/maps-108/gdm1_q3.zip) | Golney's DM1 Arena (gdm1_q3.bsp) for Q3Test v1.08
+[goregravec.zip](bin/maps-108/goregravec.zip) | tHeBeAsT`s gore grave (goregravec.bsp) for Q3Test v1.08
+[hardm1.zip](bin/maps-108/hardm1.zip) | Anduu[HAR]'s DM1 (HARdm1.bsp) for Q3Test v1.08
+[lost.zip](bin/maps-108/lost.zip) | Lost (lost.bsp by estaPHAN) for Q3Test v1.08
+[majq3dm1.zip](bin/maps-108/majq3dm1.zip)<br>majq3dm1beta.zip<br>majq3dm1beta2.zip | majq3dm1beta.bsp for Q3Test 1.08
+[q2dm1.zip](bin/maps-108/q2dm1.zip) | q2dm1.bsp for Q3Test v1.08
+[q2dm2.zip](bin/maps-108/q2dm2.zip) | q2dm2.bsp for Q3Test v1.08
+[q2dm5.zip](bin/maps-108/q2dm5.zip) | q2dm5.bsp for Q3Test v1.08
+[q2dm8.zip](bin/maps-108/q2dm8.zip) | q2dm8.bsp for Q3Test v1.08
+[q2dm9.zip](bin/maps-108/q2dm9.zip) | q2dm9.bsp for Q3Test v1.08
+[q3e1m7a.zip](bin/maps-108/q3e1m7a.zip) | Quake1 E1M7 Revival (q3e1m7a.bsp) for Q3Test v1.08
+[s20dm2d.zip](bin/maps-108/s20dm2d.zip) | S20DM2d.bsp for Q3Test v1.08
+[traq3a2.zip](bin/maps-108/traq3a2.zip) | Just another day in hell (traq3a2.bsp) for Q3Test v1.08
+[tunnel.zip](bin/maps-108/tunnel.zip) | tunnel.bsp for Q3Test v1.08
 [vq3maps.zip](bin/maps-108/vq3maps.zip) | VQ3 Maps (vq3.bsp v3test2.bsp q3sphere.bsp)
 city1q3.zip | city1q3 for Q3Test v1.08
 city64.zip | city64 for Q3Test v1.08
@@ -258,7 +258,7 @@ pq3m0.zip | pq3m0 for Q3Test v1.08
 pulquemaps.zip | pulquemaps for Q3Test v1.08
 q1q3dm5-108.zip | q1q3dm5 for Q3Test v1.08
 q2ctf5.zip | q2ctf5 for Q3Test v1.08
-q2ma3.zip<br>[q2ma3tex.zip](bin/q2ma3tex.zip) | q2ma3 for Q3Test v1.08
+q2ma3.zip<br>[q2ma3tex.zip](bin/maps-108/q2ma3tex.zip) | q2ma3 for Q3Test v1.08
 q3a-e3.zip | q3a-e3 for Q3Test v1.08
 q3a-q3.zip | q3a-q3 for Q3Test v1.08
 q3atour.zip | q3atour for Q3Test v1.08
