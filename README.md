@@ -125,13 +125,13 @@ q3viewer.zip | Q3 Model Viewer
 File | Description
 --- | ---
 Q31.09crack.zip | Q3Test v1.09 Crack
+[crq3108.zip](bin/crq3108.zip) | Q3Test v1.08 Crack
 [productid.zip](bin/productid.zip)<br>[productid.txt](bin/productid.txt) | Rename demoq3 to baseq3 and add baseq3/productid.txt
 [q3-cracks.zip](bin/q3-cracks.zip) | Cracks for all Q3Test versions
 [q3dcrk-10.zip](bin/q3dcrk-10.zip)<br>q3dcrk-11.zip | Quake3 Demo Restricted Mode Crack
 [q3t108crack.zip](bin/q3t108crack.zip) | Q3Test v1.08 Crack
 [q3test106-crk.zip](bin/q3test106-crk.zip) | Q3Test v1.06 Crack
 [q3test107-crk.zip](bin/q3test107-crk.zip) | Q3Test v1.07 Crack
-crq3108.zip | Q3Test v1.08 Crack
 
 ### Q3Test Bots
 
@@ -154,7 +154,7 @@ S20_DM.zip<br>S20_DM1.zip | S20_DM for Q3Test v1.05
 S20_dm2a.zip | S20_dm2a for Q3Test v1.05
 SPAZ.ZIP | SPAZ for Q3Test v1.05
 XxUBERxX.zip<br>uberfix.zip | XxUBERxX (60 maps!) for Q3Test v1.05
-[q1q3dm3.zip](bin/maps-105/q1q3dm3.zip) | The Abandoned Base Quake1 to Quake3 Conversion (q1q3dm3.bsp) for Q3Test v1.05
+[q1q3dm3.zip](bin/maps-105/q1q3dm3.zip) | The Abandoned Base Quake1 to Quake3 Conversion (q1q3dm3.bsp)
 [q3test1b.bsp](bin/maps-105/q3test1b.bsp)<br>q3test1b.zip | q3test1b for Q3Test v1.05 (requires q3105b)
 [q3test2b.bsp](bin/maps-105/q3test2b.bsp)<br>[q3test2b.zip](bin/maps-105/q3test2b.zip) | q3test2b for Q3Test v1.05  (requires q3105b)
 [q3test2b2.bsp](bin/maps-105/q3test2b2.bsp)<br>q3test2b2.zip | q3test2b2 for Q3Test v1.05 (requires q3105b)

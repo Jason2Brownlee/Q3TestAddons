@@ -504,9 +504,6 @@ http://www.quake3.baltnet.ru/q/maps/rail.pk3
 http://q3.zone.ru/ftp/progs/q3viewer.zip
 http://www.valhalla.com.pl/quake3/pliki/q3viewer.zip
 
-# crq3108.zip
-http://q3.zone.ru/ftp/crq3108.zip
-
 # geckopak.zip
 http://q3.zone.ru/files/geckopak.zip
 
