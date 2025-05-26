@@ -1117,22 +1117,33 @@ http://www.quakershome.de:80/download/Q3%20Icons.zip
 
 # funnames2.zip
 http://www.quakershome.de:80/download/funnames2.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/borderfield/funnames2.zip
+http://www.q3a.de/files/funnames2.zip
+http://www.quake3.de/files/funnames2.zip
 
 # Q3Icons.zip
 http://rqa.df.ru/q3arena/q3icons.zip
 http://www.rqa.df.ru/q3arena/q3icons.zip
 
 # BSP files in XxUBERxX.zip
+city1q3a.bsp
 dm_portal1.bsp
+fragtwn1q3.bsp
 harena.bsp
+homers12q3.bsp
 ihv_test1.bsp
 km_portal.bsp
 poleyard.bsp
 q1q3dm3.bsp
 q1q3dm4.bsp
 q1q3dm6z.bsp
+q32box4.bsp
 q3_orgy.bsp
 q3arail.bsp
+q3arena01.bsp
+q3blevel.bsp
+q3city.bsp
+q3colour.bsp
 q3dm1.bsp
 q3dm2.bsp
 q3dm3.bsp
@@ -1141,12 +1152,21 @@ q3dm5.bsp
 q3dm6.bsp
 q3doom2_map06.bsp
 q3doom2_map07.bsp
+q3fatal2.bsp
+q3fbdm1.bsp
+q3fbdm2.bsp
+q3fbdm3.bsp
+q3hipend-q2.bsp
+q3homers15.bsp
+q3lawm6.bsp
 q3q1dm4.bsp
-q3q1e1m7a.bsp
 q3q1dm5.bsp
+q3q1e1m7a.bsp
 q3q2dm1.bsp
 q3q2dm1b.bsp
 q3q2dm1c.bsp
+q3sedm3.bsp
+q3smack1.bsp
 q3tbop.bsp
 q3test1.bsp
 q3test1b.bsp
@@ -1163,23 +1183,8 @@ railshot.bsp
 tim_dm1.bsp
 tim_dm1a.bsp
 tim_dm1b.bsp
-q3smack1.bsp
-q3sedm3.bsp
-q3homers15.bsp
-q3hipend-q2.bsp
-q3fbdm3.bsp
-q3fbdm2.bsp
-q3fbdm1.bsp
-q3fatal2.bsp
-q3colour.bsp
-q3city.bsp
-q3arena01.bsp
-homers12q3.bsp
-fragtwn1q3.bsp
-q32box4.bsp
-city1q3a.bsp
-wwdm.bsp
-wasted.bsp
 tow.bsp
-q3lawm6.bsp
-q3blevel.bsp
+wasted.bsp
+wwdm.bsp
+
+
