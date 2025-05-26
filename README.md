@@ -41,7 +41,7 @@ File | Description
 [q3a_addon.zip](bin/q3a_addon.zip) | Pack of addons (Q3TEST3.bsp and Q3TEST4.bsp) for q3test v1.05
 [q3thud.zip](bin/q3thud.zip) | q3a HUD Q3Test v1.05
 [q3tmaps.zip](bin/q3tmaps.zip) | Q3Test Maps (Q3TEST1b.bsp and Q3TEST2b.bsp), sounds, icons, crosshairs, etc.
-[sobpak7.zip](sobpak7.zip) | Pack with resources Q3Test v1.05
+[sobpak7.zip](bin/sobpak7.zip) | Essobie's SOBPak7 (replacement graphics) Q3Test v1.05
 q3.zip | Collection of maps (q3test2h, km_portal, conv), bot support for Q3Test v1.05
 q3105b.zip | Pak to add weapons to maps in Q3Test v1.05
 
