@@ -1118,6 +1118,10 @@ http://www.quakershome.de:80/download/Q3%20Icons.zip
 # funnames2.zip
 http://www.quakershome.de:80/download/funnames2.zip
 
+# Q3Icons.zip
+http://rqa.df.ru/q3arena/q3icons.zip
+http://www.rqa.df.ru/q3arena/q3icons.zip
+
 # BSP files in XxUBERxX.zip
 dm_portal1.bsp
 harena.bsp

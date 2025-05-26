@@ -215,6 +215,7 @@ Tunnelmapz.zip | Tunnelmapz for Q3Test v1.08
 [q2dm5.zip](bin/maps-108/q2dm5.zip) | q2dm5.bsp for Q3Test v1.08
 [q2dm8.zip](bin/maps-108/q2dm8.zip) | q2dm8.bsp for Q3Test v1.08
 [q2dm9.zip](bin/maps-108/q2dm9.zip) | q2dm9.bsp for Q3Test v1.08
+[q2ma3tex.zip](bin/maps-108/q2ma3tex.zip)<br>q2ma3.zip | q2ma3 for Q3Test v1.08
 [q3e1m7a.zip](bin/maps-108/q3e1m7a.zip) | Quake1 E1M7 Revival (q3e1m7a.bsp) for Q3Test v1.08
 [s20dm2d.zip](bin/maps-108/s20dm2d.zip) | S20DM2d.bsp for Q3Test v1.08
 [traq3a2.zip](bin/maps-108/traq3a2.zip) | Just another day in hell (traq3a2.bsp) for Q3Test v1.08
@@ -250,6 +251,7 @@ jumppad_map.zip | jumppad for Q3Test v1.08
 kick.zip | kick for Q3Test v1.08
 maj_portal.zip | maj_portal for Q3Test v1.08
 mq3-108.zip | mq3-108 for Q3Test v1.08
+mq3108.zip | mq3108 qtest map
 myhome.zip | myhome for Q3Test v1.08
 nvdm1.zip | nvdm1 for Q3Test v1.08
 ouch.zip | ouch for Q3Test v1.08
@@ -258,7 +260,6 @@ pq3m0.zip | pq3m0 for Q3Test v1.08
 pulquemaps.zip | pulquemaps for Q3Test v1.08
 q1q3dm5-108.zip | q1q3dm5 for Q3Test v1.08
 q2ctf5.zip | q2ctf5 for Q3Test v1.08
-q2ma3.zip<br>[q2ma3tex.zip](bin/maps-108/q2ma3tex.zip) | q2ma3 for Q3Test v1.08
 q3a-e3.zip | q3a-e3 for Q3Test v1.08
 q3a-q3.zip | q3a-q3 for Q3Test v1.08
 q3atour.zip | q3atour for Q3Test v1.08
@@ -329,7 +330,6 @@ gdm3_q3.zip | Golney's DM3 Arena Q3Test Map
 hardm1betaz.zip | hardm1betaz q3test map
 ibdm1base.zip | Map for Q3Test
 mauerblut.zip | mauerblut map
-mq3108.zip | mq3108 qtest map
 q1q3dm1.zip | Map from Quake
 q1q3dm6.zip | Map from Quake
 q1q3dm6zc.zip | Another dm6 convention (The Dark Zone) in Q3Test
