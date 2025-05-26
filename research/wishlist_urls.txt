@@ -468,6 +468,7 @@ ftp://quake2.telestream.com/quake3/hud%20%26%20misc/railpak.zip
 # SENFEI-PACK.zip
 http://www.senfei.de/files/SENFEI-PACK.zip
 http://senfei.splatterworld.de/files/SENFEI-PACK.zip
+http://kuddel.ktv-zone.de/files/SENFEI-PACK.zip
 
 # rig-lan_1.0b.zip
 ftp://quake2.telestream.com/Quake%20Stuff/Quake3/ctf/Rig-lan/rig-lan_1.0b.zip
