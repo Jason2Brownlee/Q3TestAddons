@@ -154,12 +154,15 @@ S20_DM.zip<br>S20_DM1.zip | S20_DM for Q3Test v1.05
 S20_dm2a.zip | S20_dm2a for Q3Test v1.05
 SPAZ.ZIP | SPAZ for Q3Test v1.05
 XxUBERxX.zip<br>uberfix.zip | XxUBERxX (60 maps!) for Q3Test v1.05
+[darkq2dm1.zip](bin/maps-105/darkq2dm1.zip) | Q2DM1 for Q3Test (DARKQ2D1.BSP)
 [q1q3dm3.zip](bin/maps-105/q1q3dm3.zip) | The Abandoned Base Quake1 to Quake3 Conversion (q1q3dm3.bsp)
 [q3test1b.bsp](bin/maps-105/q3test1b.bsp)<br>q3test1b.zip | q3test1b for Q3Test v1.05 (requires q3105b)
 [q3test2b.bsp](bin/maps-105/q3test2b.bsp)<br>[q3test2b.zip](bin/maps-105/q3test2b.zip) | q3test2b for Q3Test v1.05  (requires q3105b)
 [q3test2b2.bsp](bin/maps-105/q3test2b2.bsp)<br>q3test2b2.zip | q3test2b2 for Q3Test v1.05 (requires q3105b)
 aeroq3.zip | aeroq3 for Q3Test v1.05
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.05
+darkq2dm2.zip | Map from Quake2 - q2dm2
+darkq2dm8.zip | Map from Quake2 - q2dm8
 deadlysins.zip | Deadly Sins for Q3Test v1.05
 dm3a.zip | dm3a for Q3Test v1.05
 dm_portal1.zip | dm_portal1 for Q3Test v1.05
@@ -185,6 +188,7 @@ q3q1e1m7a | q3q1e1m7a for Q3Test v1.05
 q3q3a.zip | q3q3a for Q3Test v1.05
 tim_dm1.zip | tim_dm1 for Q3Test v1.05
 wasted.zip | wasted for Q3Test v1.05
+
 
 ### Q3Test v1.08 Maps
 
@@ -322,9 +326,6 @@ qbfg.zip | qbfg for Q3Test v1.09
 File | Description
 --- | ---
 2am-q3.zip | Map for Q3Test
-darkq2dm1.zip | Map from Quake2 - q2dm1 - another version
-darkq2dm2.zip | Map from Quake2 - q2dm2
-darkq2dm8.zip | Map from Quake2 - q2dm8
 dm6.zip | Q1 DM6 for Q3Test
 gdm3_q3.zip | Golney's DM3 Arena Q3Test Map
 hardm1betaz.zip | hardm1betaz q3test map
