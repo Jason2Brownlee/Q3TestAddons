@@ -687,14 +687,6 @@ ftp://208.187.236.10:21/q3test/Maps/v1.05/poleyard.zip
 http://q3fa.quake3nation.com/files/maps/poleyard.zip
 http://www.quakefiles.com/files/download.php?filekey=q3apoleyar1&d_url=http://q3fa.quake3nation.com/files/maps/poleyard.zip
 
-# q1q3dm4.zip
-ftp://208.187.236.10/q3test/Maps/v1.05/q1q3dm4.zip
-ftp://208.187.236.10:21/q3test/Maps/v1.05/q1q3dm4.zip
-http://enterprise.powerup.com.au/~flsmith/Q1Q3Dm4.zip
-http://q3.zone.ru/ftp/q1q3dm4.zip
-http://www.planetq3.com/nana/files/maps/q1q3dm4.zip
-http://www.quakefiles.com/files/download.php?filekey=q3aqqdm3&d_url=http://www.planetq3.com/nana/files/maps/q1q3dm4.zip
-
 # q1q3dm7.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q1q3dm7.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.05/q1q3dm7.zip
