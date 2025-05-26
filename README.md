@@ -150,7 +150,9 @@ S20_DM.zip<br>S20_DM1.zip | S20_DM for Q3Test v1.05
 S20_dm2a.zip | S20_dm2a for Q3Test v1.05
 SPAZ.ZIP | SPAZ for Q3Test v1.05
 XxUBERxX.zip<br>uberfix.zip | XxUBERxX for Q3Test v1.05
+[q3test1b.bsp](bin/maps-105/q3test1b.bsp)<br>q3test1b.zip | q3test1b for Q3Test v1.05 (requires q3105b)
 [q3test2b.bsp](bin/maps-105/q3test2b.bsp)<br>[q3test2b.zip](bin/maps-105/q3test2b.zip) | q3test2b for Q3Test v1.05  (requires q3105b)
+[q3test2b2.bsp](bin/maps-105/q3test2b2.bsp)<br>q3test2b2.zip | q3test2b2 for Q3Test v1.05 (requires q3105b)
 aeroq3.zip | aeroq3 for Q3Test v1.05
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.05
 deadlysins.zip | Deadly Sins for Q3Test v1.05
@@ -177,8 +179,6 @@ q3q1dm4.zip | q3q1dm4 for Q3Test v1.05
 q3q1e1m7.zip | q3q1e1m7 for Q3Test v1.05
 q3q1e1m7a | q3q1e1m7a for Q3Test v1.05
 q3q3a.zip | q3q3a for Q3Test v1.05
-[q3test1b.bsp](bin/maps-105/q3test1b.bsp)<br>q3test1b.zip | q3test1b for Q3Test v1.05 (requires q3105b)
-[q3test2b2.bsp](bin/maps-105/q3test2b2.bsp)<br>q3test2b2.zip | q3test2b2 for Q3Test v1.05 (requires q3105b)
 tim_dm1.zip | tim_dm1 for Q3Test v1.05
 wasted.zip | wasted for Q3Test v1.05
 

@@ -88,8 +88,10 @@ http://geocities.com/dinkhotline/q3/the-edge.zip
 # q3dcrk-11.zip
 http://www.geocities.com/TimesSquare/Tower/8163/zips/q3/q3dcrk-11.zip
 
-# v1.05 maps
+# q3test2b2.zip
 http://www.nationwide.net/~montroll/quake3/maps/q3test2b2.zip
+
+# q3test1b.zip
 http://www.nationwide.net/~montroll/quake3/maps/q3test1b.zip
 
 # aeroq3.zip
