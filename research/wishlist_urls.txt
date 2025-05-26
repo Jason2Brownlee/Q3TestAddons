@@ -80,7 +80,6 @@ http://www.q3arena.pl/download/q3test/win/maxfps105.exe
 
 # q3test.zip
 http://24.72.5.78/dink/q3test.zip
-http://voodooextreme.com/flypenguin/files/q3test.zip
 
 # the-edge.zip
 http://www.geocities.com/dinkhotline/q3/the-edge.zip
@@ -99,13 +98,6 @@ http://www.nationwide.net/~montroll/quake3/maps/q3test1b.zip
 http://members.xoom.com/Fragpole/aeroq3.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.05/aeroq3.zip
 http://www2.memes.com/quaker/q3/aeroq3.zip
-
-# q1q3dm3
-http://www.dqz.de/quake3/b/files/009.zip
-ftp://208.187.236.10/q3test/Maps/v1.05/q1q3dm3.zip
-http://q3.zone.ru/ftp/q1q3dm3.zip
-http://www.planetq3.com/nana/files/maps/q1q3dm3.zip
-http://www.quakefiles.com/files/download.php?filekey=q3aqqdm2&d_url=http://www.planetq3.com/nana/files/maps/q1q3dm3.zip
 
 # goregrave.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/goregrave.zip
