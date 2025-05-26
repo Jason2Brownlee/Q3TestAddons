@@ -82,7 +82,6 @@ gbiotchv08b.zip
 maxfps105.exe
 maxfps105.zip
 md3view_v1_401.zip
-oldQ3TFull.exe
 oldQ3TSetup.exe
 q3atc04.zip
 q3name.zip

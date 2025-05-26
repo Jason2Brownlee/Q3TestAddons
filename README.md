@@ -117,7 +117,7 @@ Q3ASetupb0.7.5.exe<br>[Q3ASetup0.8.0.exe](bin/Q3ASetup0.8.0.exe)<br>Q3ASetup0.8.
 gbiotchv08b.zip | The gBi0Tch Log Analyzer
 maxfps105.exe | Max FPS for Q3 1.05
 q3name.zip | Q3 Fun Name Maker
-q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>[Q3T1048-2w.exe](bin/Q3T1048-2w.exe)<br>Q3T1048r.exe<br>TweeQ3v048MAX.zip<br>Q3TPpp.exe<br>[Q3TSetup.exe](bin/Q3TSetup.exe)<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
+q3tweak1039.exe<br>[Q3Tweak1043.exe](bin/Q3Tweak1043.exe)<br>Q3Tweak1046.exe<br>[Q3Tweak1047.exe](bin/Q3Tweak1047.exe)<br>[Q3T1048-2w.exe](bin/Q3T1048-2w.exe)<br>Q3T1048r.exe<br>TweeQ3v048MAX.zip<br>Q3TPpp.exe<br>[Q3TSetup.exe](bin/Q3TSetup.exe)<br>[oldQ3TFull.exe](bin/oldQ3TFull.exe)<br>[Q3Tweak-1050-Full.exe](bin/Q3Tweak-1050-Full.exe) | Q3Tweak
 q3viewer.zip | Q3 Model Viewer
 
 ### Q3Test Cracks
@@ -153,7 +153,7 @@ RailAlley.zip | RailAlley for Q3Test v1.05
 S20_DM.zip<br>S20_DM1.zip | S20_DM for Q3Test v1.05
 S20_dm2a.zip | S20_dm2a for Q3Test v1.05
 SPAZ.ZIP | SPAZ for Q3Test v1.05
-XxUBERxX.zip<br>uberfix.zip | XxUBERxX for Q3Test v1.05
+XxUBERxX.zip<br>uberfix.zip | XxUBERxX (60 maps!) for Q3Test v1.05
 [q3test1b.bsp](bin/maps-105/q3test1b.bsp)<br>q3test1b.zip | q3test1b for Q3Test v1.05 (requires q3105b)
 [q3test2b.bsp](bin/maps-105/q3test2b.bsp)<br>[q3test2b.zip](bin/maps-105/q3test2b.zip) | q3test2b for Q3Test v1.05  (requires q3105b)
 [q3test2b2.bsp](bin/maps-105/q3test2b2.bsp)<br>q3test2b2.zip | q3test2b2 for Q3Test v1.05 (requires q3105b)

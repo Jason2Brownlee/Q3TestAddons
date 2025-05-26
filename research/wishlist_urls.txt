@@ -30,8 +30,6 @@ http://www.quakefiles.com/files/download.php?filekey=q3altqamod1&d_url=http://ac
 
 # TweeQ3v048MAX.zip
 http://www.q3viking.de/files/TweeQ3v048MAX.zip
-# oldQ3TFull.exe
-http://www.voodooextreme.com/q3tweak/download/oldQ3TFull.exe
 # oldQ3TSetup.exe
 http://www.voodooextreme.com/q3tweak/download/oldQ3TSetup.exe
 # q3tweak1039.exe
