@@ -414,6 +414,7 @@ https://www.quaddicted.com/files/idgames2/planetquake/lvl/m-r/q3q1dm4.zip
 https://www.quaddicted.com/files/mirrors/files.lvlworld.com/q3a/m-r/q3q1dm4.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/lvl/m-r/q3q1dm4.zip
 # q3test.zip
+http://ddt.formoza.ru/demos/q3test.zip
 http://ftp.sunet.se/planetquake/planethalflife/logos/q3test.zip
 http://www.fileplanet.com/dl/dl.asp?planethalflife/logos/q3test.zip
 http://www.fileplanet.com/dl/redir.asp?file=19761&archive=2&url=ftp://ftp.cdrom.com/pub/planetquake/planethalflife/logos/q3test.zip&filestring=planethalflife/logos/q3test.zip
@@ -1236,6 +1237,7 @@ http://tux.telefragged.com/telefragged/aqmd/maps/lavatube.zip
 https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/action/maps/lavatube.zip
 https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/aqmd/maps/lavatube.zip
 # Test.zip
+http://www.demolition.org/demos/test.zip
 ftp://ftp.cdrom.com/pub/idgames/levels/doom2/s-u/test.zip
 ftp://ftp.cdrom.com/pub/quake/planetquake/epoch/test.zip
 http://3ddownloads.com/sports-gaming/utrrheaven/nitro/WWF%20Wrestlers/test.zip
