@@ -736,6 +736,7 @@ https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/reliquary/mq3.zip
 # q3.zip
 http://lonestar.texas.net/pub/winamp/resources/q3.zip
 # q3q1dm1.zip
+http://www.fortunecity.com/underworld/blaster/904/maps/q3q1dm1.zip
 http://dl.fileplanet.com/dl/dl.asp?reliquary/Q3Q1DM1.zip
 http://dl.fileplanet.com/dl/dl.asp?reliquary/q3q1dm1.zip
 http://ftp.sunet.se/idgames2/planetquake/lvl/m-r/q3q1dm1.zip

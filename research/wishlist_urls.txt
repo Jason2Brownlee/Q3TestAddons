@@ -175,6 +175,7 @@ http://members.home.com/j03/ouch.zip
 http://q3.zone.ru/ftp/maps/ouch.zip
 http://web.inter.nl.net/users/B.Vloon/gp2/ouch.zip
 http://www.altern.org/lavite/zip/maps/ouch.zip
+http://www.angelfire.com/ut/jediquake3/images/ouch.zip
 http://www.dqz.de/quake3/b/files/ouch.zip
 http://www.fortunecity.com/underworld/lylat/554/ouch.zip
 http://www.quake3.baltnet.ru/q/maps/ouch.zip
@@ -385,6 +386,7 @@ http://www.fortunecity.com/underworld/spaceinvader/674/q2ctf5.zip
 
 # Arma5.zip
 http://quake3.valhalla.com.pl/mapy/q3test2/Arma5.zip
+http://hackfleisch.de/f/arma5.zip
 
 # q3atour_q3ver.ZIP
 http://members.nbci.com/q3atour/maps/q3atour_q3ver.ZIP
@@ -749,7 +751,6 @@ http://www.gweb.de/sam/quake3/pub/maps/q3joe2.zip
 # q3q1dm1.zip
 ftp://208.187.236.10/q3test/Maps/v1.05/q3q1dm1.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.05/q3q1dm1.zip
-http://www.fortunecity.com/underworld/blaster/904/maps/q3q1dm1.zip
 http://www.trendkill.net/files/q3q1dm1.zip
 http://members.xoom.com/quake3bots/files/q3q1dm1.zip
 
