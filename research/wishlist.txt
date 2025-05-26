@@ -51,7 +51,6 @@ WizQ3maps.zip
 q3dmpak2_5z.zip
 pak9.zip
 q3a_maps.zip
-qXicons.zip
 Q3_Icons.zip
 Q3Icons.zip
 

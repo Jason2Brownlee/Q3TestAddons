@@ -20,6 +20,7 @@ Q3_Icons.zip | MAC's Q3 Icons
 RevRL.zip | Less rocket trail smoke
 WizQ3maps.zip | Wizard's Q3test Server Maps
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
+[qXicons.zip](bin/qxicons.zip) | Quake 3 Icon Pack
 [sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
 [vision2.zip](bin/vision2.zip) | Visual improves to weapon firing
 core.pk3 | Q3dm17 for q3demotest
@@ -32,7 +33,6 @@ q1visor.zip | Quake1 Player Sounds for Q3Test
 q3a_maps.zip | Q3Test Map Pack
 q3ausp10.zip | Unofficial Skinpack for Q3A Test
 q3dmpak2_5z.zip | q3dmpak2_5z map pak
-qXicons.zip | Quake 3 Icon Pack
 railgf1a.zip<br>[railfix.zip](bin/railfix.zip) | Replace the Railgun sound with the q2 railgun sound
 sodq3exp.zip | New numbers, sight and background for console
 

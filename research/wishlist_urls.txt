@@ -1109,9 +1109,6 @@ http://q3arena.net/files/Java_MD3View_1_0beta.zip
 # q3atc04.zip
 http://www.valhalla.com.pl/quake3/pliki/q3atc04.zip
 
-# qXicons.zip
-http://www.quakershome.de:80/download/qXicons.zip
-
 # Q3%20Icons.zip (Q3_Icons.zip)
 http://www.quakershome.de:80/download/Q3%20Icons.zip
 
