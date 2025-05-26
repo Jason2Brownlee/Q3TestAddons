@@ -388,6 +388,7 @@ https://www.quaddicted.com/webarchive/triptohell.info/moodles/testing/e1m1.zip
 # ouch.zip
 http://www.retroarchive.org/cdrom/nightowl-005/044A/OUCH.ZIP
 # q3atc04.zip
+http://dl.fileplanet.com/dl/dl.asp?borderfield/q3atc04.zip
 http://ftp.sunet.se/idgames2/planetquake/borderfield/q3atc04.zip
 http://ftp.sunet.se/planetquake/borderfield/q3atc04.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/borderfield/q3atc04.zip
@@ -1552,6 +1553,60 @@ https://youfailit.net/pub/idgames/levels/doom2/deathmatch/s-u/sky.zip
 http://nms.q**kecity.net/download/NMS_v1.00.zip
 # NMS_v1.54.zip
 http://nms.q**kecity.net/download/NMS_v1.54.zip
-
+# pak9.zip
+http://asp.planetquake.com/dl/dl.asp?captured/weaponsfactory/pak9.zip
+http://dk.toastednet.org/Maps/pak9.zip
+http://ftp.sunet.se/idgames2/planetquake/simitar/Pak9.zip
+http://ftp.sunet.se/idgames2/planetquake/viking/Pak9.zip
+http://ftp.sunet.se/idgames2/planetquake/viking/pak9.zip
+http://ftp.sunet.se/planetquake/planetsoldieroffortune/ebandit/Pak9.zip
+http://ftp.sunet.se/planetquake/simitar/Pak9.zip
+http://ftp.sunet.se/planetquake/viking/Pak9.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/Pak9.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/captured/wfss/pak9.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/simitar/Pak9.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/viking/Pak9.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/captured/wfss/pak9.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/viking/Pak9.zip
+http://members.nbci.com/netllamanet/quake2/pak9.zip
+http://mirror.aarnet.edu.au/games/planetquake/Pak9.zip
+http://mirror.aarnet.edu.au/games/planetquake/viking/Pak9.zip
+http://mirrors.telepac.pt/pub/idgames2/planetquake/viking/Pak9.zip
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/viking/Pak9.zip
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/viking/pak9.zip
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/viking/Pak9.zip
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/viking/Pak9.zip
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/viking/pak9.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/viking/Pak9.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/viking/pak9.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/viking/pak9.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/simitar/Pak9.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/viking/Pak9.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/viking/pak9.zip
+http://sunsite.org.uk/packages/idgames2/planetquake/simitar/Pak9.zip
+http://sunsite.org.uk/packages/idgames2/planetquake/viking/pak9.zip
+http://www.captured.com/weaponsfactory/quake2/download/pak9.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/captured/wfss/pak9.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/planetsoldieroffortune/ebandit/Pak9.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/simitar/Pak9.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/viking/Pak9.zip
+http://www.gamers.org/pub/idgames2/planetquake/captured/wfss/pak9.zip
+http://www.gamers.org/pub/idgames2/planetquake/planetsoldieroffortune/ebandit/Pak9.zip
+http://www.gamers.org/pub/idgames2/planetquake/simitar/Pak9.zip
+http://www.gamers.org/pub/idgames2/planetquake/viking/Pak9.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/simitar/Pak9.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/viking/Pak9.zip
+http://www.planetquake.com/dl/dl.asp?captured/wfss/pak9.zip
+https://www.quaddicted.com/files/idgames2/planetquake/captured/flagship/skins/pak9.zip
+https://www.quaddicted.com/files/idgames2/planetquake/captured/wfss/pak9.zip
+https://www.quaddicted.com/files/idgames2/planetquake/planetsoldieroffortune/ebandit/Pak9.zip
+https://www.quaddicted.com/files/idgames2/planetquake/simitar/Pak9.zip
+https://www.quaddicted.com/files/idgames2/planetquake/viking/Pak9.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/captured/flagship/skins/pak9.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/captured/wfss/pak9.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planetsoldieroffortune/ebandit/Pak9.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/simitar/Pak9.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/viking/Pak9.zip
+http://www.fortunecity.com/underworld/instruction/71/files/pak9.zip
 
 

@@ -1,4 +1,5 @@
 # Known historical locations of wishlist files
+----------------------------------------------
 
 # Q3TEST_Expansion_Pack.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.05/q3test_expansion_pack.zip
@@ -620,6 +621,8 @@ ftp://208.187.236.10/q3test/Maps/v1.08/ibdm1.zip
 http://www.quake.wplus.net/archiv/pak91.zip
 # pak9.zip
 http://www.quakefiles.com/supertech/pak9.zip
+http://www.bullseyecrosshairs.com/chq3t/jclark/pak9.zip
+http://www.q3wfa.com/pak9.zip
 
 # tra.zip (aka traq3a2.zip)
 http://q3.zone.ru/ftp/maps/tra.zip
@@ -888,6 +891,7 @@ http://www.quake3arenawikingclan.de/files/myhome.zip
 # overflow3.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/overflow3.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/overflow3.zip
+http://www2.memes.com/quaker/overflow3.zip
 
 # pulquemaps.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/pulquemaps.zip
@@ -925,6 +929,7 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/wiebo_cnv1.zip
 # xnd33.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/xnd33.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/xnd33.zip
+http://www2.memes.com/quaker/xnd33.zip
 
 # ztn_cnv1.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/ztn_cnv1.zip
@@ -936,6 +941,7 @@ http://www.geocities.com/undeaddemon/gsctf1.zip
 http://members.xoom.com/quake3bots/files/gsctf1.zip
 ftp://208.187.236.10:21/quake3/maps%20ctf/gsctf1.zip
 ftp://quake2.telestream.com/quake3/maps%20ctf/gsctf1.zip
+http://geocities.com/undeaddemon/gsctf1.zip
 
 # japanc.zip
 ftp://208.187.236.10/quake3/maps%20ctf/japanc.zip
@@ -1091,5 +1097,8 @@ http://www.angelfire.com/ut/jediquake3/images/hardm1betaz.zip
 
 # q3a_maps.zip
 http://quake.at.frob.org/files/q3a_maps.zip
+
+# Java_MD3View_1_0beta.zip
+http://q3arena.net/files/Java_MD3View_1_0beta.zip
 
 
