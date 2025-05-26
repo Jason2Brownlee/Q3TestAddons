@@ -83,7 +83,8 @@ https://web.archive.org/web/20000303154743/http://www.fortunecity.de:80/wolkenkr
 	maps [done]
 https://web.archive.org/web/19991003200155/http://freestyle.splatterworld.de/
 	maps [done]
-
+https://web.archive.org/web/20010305121631/http://www.quakershome.de:80/filez.html
+	tools, maps, paks [done]
 
 TODO
 ====
@@ -95,6 +96,5 @@ https://www.quaddicted.com/files/idgames2/utils/name_editor/
 https://groups.google.com/g/alt.games.quake3/c/MIwfuXk65iM/m/PFSd49zRBQUJ
 	long list of maps within XxUBERxX.zip
 	search for individual BSPs...
-
 
 

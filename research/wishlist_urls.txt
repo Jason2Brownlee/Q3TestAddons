@@ -638,15 +638,6 @@ http://www.quakefiles.com/supertech/pak9.zip
 http://www.bullseyecrosshairs.com/chq3t/jclark/pak9.zip
 http://www.q3wfa.com/pak9.zip
 
-# tra.zip (aka traq3a2.zip)
-http://q3.zone.ru/ftp/maps/tra.zip
-http://home.sol.no/~simhagen/tra.zip
-
-# traq3a2.zip
-ftp://208.187.236.10:21/q3test/Maps/v1.08/traq3a2.zip
-http://members.xoom.com/custommaps/maps/traq3a2.zip
-ftp://208.187.236.10/q3test/Maps/v1.08/traq3a2.zip
-
 # keep.zip
 http://q3.zone.ru/ftp/maps/keep.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/Keep.zip
@@ -1117,4 +1108,13 @@ http://q3arena.net/files/Java_MD3View_1_0beta.zip
 
 # q3atc04.zip
 http://www.valhalla.com.pl/quake3/pliki/q3atc04.zip
+
+# qXicons.zip
+http://www.quakershome.de:80/download/qXicons.zip
+
+# Q3%20Icons.zip (Q3_Icons.zip)
+http://www.quakershome.de:80/download/Q3%20Icons.zip
+
+# funnames2.zip
+http://www.quakershome.de:80/download/funnames2.zip
 

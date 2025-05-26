@@ -51,6 +51,9 @@ WizQ3maps.zip
 q3dmpak2_5z.zip
 pak9.zip
 q3a_maps.zip
+qXicons.zip
+Q3_Icons.zip
+Q3Icons.zip
 
 # tools
 Md3View-Mac_1.sit
@@ -88,6 +91,7 @@ q3q2dm1-converter.zip
 q3tweak1039.exe
 q3viewer.zip
 Java_MD3View_1_0beta.zip
+funnames2.zip
 
 # bots
 q3bot98.exe
@@ -241,8 +245,6 @@ s20_dm2d_floor_fix.zip
 sbq3one.zip
 temple2z.zip
 tmp.zip
-tra.zip
-traq3a2.zip
 twierdza.zip
 two.zip
 wiebo_cnv1.zip

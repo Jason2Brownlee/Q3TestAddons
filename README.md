@@ -16,6 +16,7 @@ File | Description
 --- | ---
 386enh.zip | Extension to Q3
 Q3TEST_Expansion_Pack.zip | Q3Test Expansion Pack (weapons, maps, skins)
+Q3_Icons.zip | MAC's Q3 Icons
 RevRL.zip | Less rocket trail smoke
 WizQ3maps.zip | Wizard's Q3test Server Maps
 [VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
@@ -31,6 +32,7 @@ q1visor.zip | Quake1 Player Sounds for Q3Test
 q3a_maps.zip | Q3Test Map Pack
 q3ausp10.zip | Unofficial Skinpack for Q3A Test
 q3dmpak2_5z.zip | q3dmpak2_5z map pak
+qXicons.zip | Quake 3 Icon Pack
 railgf1a.zip<br>[railfix.zip](bin/railfix.zip) | Replace the Railgun sound with the q2 railgun sound
 sodq3exp.zip | New numbers, sight and background for console
 
@@ -53,16 +55,18 @@ File | Description
 AustinQ3.zip | Austin-Powers-Soundpack Q3Test v1.08
 Q3VCTF.zip | Q3 CTF Pack  Q3Test v1.08
 SENFEI-PACK.zip | SENFEI MEGA-PACK Q3Test v1.08
-[105ctf.zip](bin/105ctf.zip)<br>ctf105.zip<br>q3ctf103.zip | CTF for Q3T v1.08
+[105ctf.zip](bin/105ctf.zip) | CTF for Q3T v1.08
 [rfdrd.zip](bin/rfdrd.zip) | Dr.DooM's Railfix Q3Test v1.08
 [sarge.zip](bin/sarge.zip) | Sarge Model Skin Q3Test v1.08
 bluepla.zip | Blue Plasmagun Q3Test v1.08
 crsrail.zip | Rail-ChRiSt-Pak 2 Q3Test v1.08
+ctf105.zip | CTF for Q3T v1.08
 evilrail.zip | Evil-Rail Effect Q3Test v1.08
 gzarena1.zip | Rocketarena Q3Test v1.08
 kingbeta.zip | KING3 (New Gameplay +2 Maps in this Mod for Q3test) Beta-Release
 modelsounds.zip | New Model Sounds Q3Test v1.08
 q3addons.zip | Q3Test Addons (You need them to play King3 and GzTf)
+q3ctf103.zip | CTF for Q3T v1.08
 q3sounds.zip | Quake 3 Soundpack from CleanerWolf Q3Test v1.08
 q3test.zip | Q3Test 1.08 with 159 maps and skins
 quadepak.zip | Q3 Erosion Pak Q3Test v1.08
@@ -97,7 +101,7 @@ Q3ASetupb0.7.5.exe<br>[Q3ASetup0.8.0.exe](bin/Q3ASetup0.8.0.exe)<br>Q3ASetup0.8.
 [Q3TestProfileManager.sit](bin/Q3TestProfileManager.sit) | Q3Test Profile Manager (mac)
 [Q3tdp100.zip](bin/Q3tdp100.zip) | QTest Demo Player
 [QuakeStarter-v0.73b.zip](bin/QuakeStarter-v0.73b.zip) | Q3Test Starter
-[funname.zip](bin/funname.zip) | Fun name script
+[funname.zip](bin/funname.zip)<br>funnames2.zip | Fun name script
 [gnb132sw.exe](bin/gnb132sw.exe)<br>[gnbp134.exe](bin/gnbp134.exe)<br>[gnbp144.exe](bin/gnbp144.exe)<br>[gnb163sw.exe](bin/gnb163sw.exe)<br>[gnbp163.exe](bin/gnbp163.exe)<br>[gnb182sw.exe](bin/gnb182sw.exe)<br>[gnbp182.exe](bin/gnbp182.exe)| Game Name Builder
 [md3.zip](bin/md3.zip) | MD3VIEW Model Viewer
 [md3view_v1_4.zip](bin/md3view_v1_4.zip)<br>md3view_v1_401.zip<br>[md3view_v1_51.zip](bin/md3view_v1_51.zip)<br>Md3View-Mac_1.sit | MD3-VIEW
@@ -215,7 +219,7 @@ Tunnelmapz.zip | Tunnelmapz for Q3Test v1.08
 [s20dm2d.zip](bin/maps-108/s20dm2d.zip) | s20dm2d for Q3Test v1.08
 [traq3a2.zip](bin/maps-108/traq3a2.zip) | traq3a2 for Q3Test v1.08
 [tunnel.zip](bin/maps-108/tunnel.zip) | tunnel for Q3Test v1.08
-[vq3maps.zip](bin/maps-108/vq3maps.zip) | VQ3 Maps (vq3 v3test2 q3sphere)
+[vq3maps.zip](bin/maps-108/vq3maps.zip) | VQ3 Maps (vq3.bsp v3test2.bsp q3sphere.bsp)
 city1q3.zip | city1q3 for Q3Test v1.08
 city64.zip | city64 for Q3Test v1.08
 command3.zip | command3 for Q3Test v1.08
@@ -294,7 +298,6 @@ sky.zip | sky for Q3Test v1.08
 temple2z.zip | temple2z for Q3Test v1.08
 test5.zip | test5 for Q3Test v1.08
 tmp.zip | tmp for Q3Test v1.08
-tra.zip | traq3a2 for Q3Test v1.08
 twierdza.zip | twierdza for Q3Test v1.08
 two.zip | two for Q3Test v1.08
 wiebo_cnv1.zip | wiebo_cnv1 for Q3Test v1.08
