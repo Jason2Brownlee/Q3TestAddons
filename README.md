@@ -158,6 +158,7 @@ XxUBERxX.zip<br>uberfix.zip | XxUBERxX (60 maps!) for Q3Test v1.05
 [q1q3dm3.zip](bin/maps-105/q1q3dm3.zip) | The Abandoned Base Quake1 to Quake3 Conversion (q1q3dm3.bsp)
 [q1q3dm4.zip](bin/maps-105/q1q3dm4.zip) | Quake1 DM4 for Q3Test (q1q3dm4.bsp)
 [q1q3dm6.zip](bin/maps-105/q1q3dm6.zip) | Quake1 DM6 for Q3Test (q1q3dm6z.bsp)
+[q3q1e4m3.zip](bin/maps-105/q3q1e4m3.zip) | Quake1 E4M3 for Q3Test (q3q2e4m3.bsp)
 [q3test1b.bsp](bin/maps-105/q3test1b.bsp)<br>q3test1b.zip | q3test1b for Q3Test v1.05 (requires q3105b)
 [q3test2b.bsp](bin/maps-105/q3test2b.bsp)<br>[q3test2b.zip](bin/maps-105/q3test2b.zip) | q3test2b for Q3Test v1.05  (requires q3105b)
 [q3test2b2.bsp](bin/maps-105/q3test2b2.bsp)<br>q3test2b2.zip | q3test2b2 for Q3Test v1.05 (requires q3105b)
