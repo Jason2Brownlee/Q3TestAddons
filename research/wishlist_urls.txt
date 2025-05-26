@@ -56,6 +56,9 @@ http://www.primorye.ru/quake/files%5Cq3%5Ctim_dm1.zip
 http://www.primorye.ru/quake/files/q3/tim_dm1.zip
 http://www2.memes.com/quaker/q3/tim_dm1.zip
 
+# tim_dm1.bsp
+http://quake.axg.net/pql/files/tim_dm1.bsp
+
 # dm6.zip
 http://www.primorye.ru/quake/files/q3/dm6.zip
 http://www.quake2news.com/quake/files/dm6.zip
@@ -393,6 +396,7 @@ http://www.fortunecity.com/underworld/spaceinvader/674/q2ctf5.zip
 # Arma5.zip
 http://quake3.valhalla.com.pl/mapy/q3test2/Arma5.zip
 http://hackfleisch.de/f/arma5.zip
+http://www.valhalla.pl/mapy/q3test2/Arma5.zip
 
 # q3atour_q3ver.ZIP
 http://members.nbci.com/q3atour/maps/q3atour_q3ver.ZIP
@@ -507,6 +511,7 @@ http://www.quake3.baltnet.ru/q/maps/rail.pk3
 
 # q3viewer.zip
 http://q3.zone.ru/ftp/progs/q3viewer.zip
+http://www.valhalla.com.pl/quake3/pliki/q3viewer.zip
 
 # crq3108.zip
 http://q3.zone.ru/ftp/crq3108.zip
@@ -1109,4 +1114,6 @@ http://quake.at.frob.org/files/q3a_maps.zip
 # Java_MD3View_1_0beta.zip
 http://q3arena.net/files/Java_MD3View_1_0beta.zip
 
+# q3atc04.zip
+http://www.valhalla.com.pl/quake3/pliki/q3atc04.zip
 
