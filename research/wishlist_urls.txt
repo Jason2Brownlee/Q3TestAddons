@@ -1136,4 +1136,8 @@ tow.bsp
 wasted.bsp
 wwdm.bsp
 
+# q1q3dm5.zip
+http://www.planetq3.com/nana/files/maps/q1q3dm5.zip
+
+
 

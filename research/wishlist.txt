@@ -109,6 +109,7 @@ q3v.zip
 v3test2.zip
 q3saco2beta.zip
 q1q3dm6zc.zip
+q1q3dm6z.zip
 q1q3dm1.zip
 q3q2e4m3.zip
 q3-dm3.zip
@@ -142,6 +143,7 @@ morerail.zip
 mq3.zip
 poleyard.zip
 q1q3dm7.zip
+q1q3dm5.zip
 q3-q2dm8.zip
 q32am.zip
 q3arail.zip

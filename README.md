@@ -159,7 +159,7 @@ XxUBERxX.zip<br>uberfix.zip | XxUBERxX (60 maps!) for Q3Test v1.05
 [darkq2dm8.zip](bin/maps-105/darkq2dm8.zip) | Quake2 Q2DM8 for Q3Test (Q2Q3DM8.BSP)
 [q1q3dm3.zip](bin/maps-105/q1q3dm3.zip) | Quake1 DM3 for Q3Test (q1q3dm3.bsp)
 [q1q3dm4.zip](bin/maps-105/q1q3dm4.zip) | Quake1 DM4 for Q3Test (q1q3dm4.bsp)
-[q1q3dm6.zip](bin/maps-105/q1q3dm6.zip) | Quake1 DM6 for Q3Test (q1q3dm6z.bsp)
+[q1q3dm6.zip](bin/maps-105/q1q3dm6.zip)<br>q1q3dm6z.zip | Quake1 DM6 for Q3Test (q1q3dm6z.bsp)
 [q3q1e4m3.zip](bin/maps-105/q3q1e4m3.zip) | Quake1 E4M3 for Q3Test (q3q2e4m3.bsp)
 [q3test1b.bsp](bin/maps-105/q3test1b.bsp)<br>q3test1b.zip | q3test1b for Q3Test v1.05 (requires q3105b)
 [q3test2b.bsp](bin/maps-105/q3test2b.bsp)<br>[q3test2b.zip](bin/maps-105/q3test2b.zip) | q3test2b for Q3Test v1.05  (requires q3105b)
@@ -175,6 +175,7 @@ majq3dm1beta.zip | majq3dm1beta for Q3Test v1.05
 morerail.zip | morerail for Q3Test v1.05
 mq3.zip | mq3 for Q3Test v1.05
 poleyard.zip | poleyard for Q3Test v1.05
+q1q3dm5.zip | Quake1 DM5 for Q3Test
 q1q3dm7.zip | Quake1 DM7 for Q3Test
 q3-q2dm8.zip | Quake2 Q2DM8 for Q3Test
 q32am.zip | q32am for Q3Test v1.05
@@ -189,7 +190,6 @@ q3q1e1m7a | Quake1 E1M7 for Q3Test
 q3q3a.zip | q3q3a for Q3Test v1.05
 tim_dm1.zip | Quake3 IHV tim_dm1 for Q3Test v1.05
 wasted.zip | wasted for Q3Test v1.05
-
 
 ### Q3Test v1.08 Maps
 
@@ -276,11 +276,11 @@ q3e1m7.zip | q3e1m7 for Q3Test v1.08
 q3evilq2dm.zip | q3evilq2dm for Q3Test v1.08
 q3iceland.zip | q3iceland for Q3Test v1.08
 q3pool.zip | q3pool for Q3Test v1.08
-q3q1dm3z.zip | q3q1dm3z for Q3Test v1.08
-q3q1dm4z.zip | q3q1dm4z for Q3Test v1.08
+q3q1dm3z.zip | Quake1 DM3 for Q3Test
+q3q1dm4z.zip | Quake1 DM4 for Q3Test
 q3q1dm5-108.zip | q3q1dm5-108 for Q3Test v1.08
-q3q1dm6zb.zip | q3q1dm6zb for Q3Test v1.08
-q3q1dm6zc.zip | q3q1dm6zc for Q3Test v1.08
+q3q1dm6zb.zip | Quake1 DM6 for Q3Test
+q3q1dm6zc.zip | Quake1 DM6 for Q3Test
 q3q2ctf1.zip | q3q2ctf1 for Q3Test v1.08
 q3q2dm1_z.zip | Quake2 Q2DM1 for Q3Test
 q3q2dm8.zip | Quake2 Q2DM8 for Q3Test
