@@ -824,6 +824,7 @@ https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/captured/frenchy/q3
 ftp://ftp.cdrom.com/pub/quake2/levels/deathmatch/p-r/q3a-e3.zip
 http://ftp.sunet.se/idgames2/quake2/levels/deathmatch/p-r/q3a-e3.zip
 https://www.quaddicted.com/files/idgames2/quake2/levels/deathmatch/p-r/q3a-e3.zip
+# q2toq3t.zip
 http://ftp.sunet.se/idgames2/planetquake/kcmaps/q2toq3t.zip
 http://ftp.sunet.se/planetquake/kcmaps/q2toq3t.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/kcmaps/q2toq3t.zip
@@ -832,6 +833,7 @@ http://www.gamers.org/pub/idgames2/planetquake/kcmaps/q2toq3t.zip
 http://www.gamers.org/pub/mirrors/ftp.planetquake.com/kcmaps/q2toq3t.zip
 https://www.quaddicted.com/files/idgames2/planetquake/kcmaps/q2toq3t.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/kcmaps/q2toq3t.zip
+http://www.gweb.de/sam/quake3/pub/tools/q2toq3t.zip
 # myhome.zip
 http://apogee1.com/catalog/sw/files/maps/a-m/myhome.zip
 http://dukeworld.duke4.net/2001-current/buildgames/blood/myhome.zip
@@ -851,6 +853,8 @@ https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/sw/maps/a-m/myhome.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/hereticii/atlas/myhome.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planethalflife/complex/mp/MYHOME.zip
 # kick.zip
+http://www.fortunecity.de:80/wolkenkratzer/486/133/kick.zip
+http://www.fortunecity.de/wolkenkratzer/486/133/kick.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/dapak/KICK.ZIP
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/dapak/kick.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/lotus/kick.zip
@@ -1233,6 +1237,8 @@ https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/thunder/texture_wad
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/worldcraft/medieval.zip
 https://www.quaddicted.com/files/mirrors/quakerepo.net/fortress/maps/medieval.zip
 https://www.quaddicted.com/files/wads/medieval.zip
+http://www2.memes.com:80/quaker/variousmaps/medieval.zip
+http://www2.memes.com/quaker/variousmaps/medieval.zip
 # LAVATUBE.zip
 ftp://ftp.telefragged.com/aqmd/maps/lavatube.zip
 http://tux.telefragged.com/telefragged/action/maps/lavatube.zip

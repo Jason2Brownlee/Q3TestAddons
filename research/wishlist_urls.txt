@@ -755,7 +755,6 @@ http://www.captured.com/underground/news/q2toq3t.zip
 http://www.der-quaker.de/mykros/files/q2toq3t.zip
 http://www.dqz.de/quake3/b/files/q2toq3t.zip
 http://www.dqz.de/quake3/d/files/q2toq3t.zip
-http://www.gweb.de/sam/quake3/pub/tools/q2toq3t.zip
 http://www.moneychair.demon.co.uk/quake3/maps/q2toq3t.zip
 http://www.primorye.ru/quake/files%5Cq3%5Cq2toq3t.zip
 http://www.q3a.de/files/q2toq3t.zip
@@ -817,7 +816,6 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/LAVATUBE.zip
 # Medieval.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/Medieval.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/Medieval.zip
-http://www2.memes.com/quaker/variousmaps/medieval.zip
 
 # Pbdm1.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/Pbdm1.zip
@@ -841,7 +839,6 @@ ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/hokan.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/kick.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.08/untested/kick.zip
 http://q3.zone.ru/ftp/skins/kick.zip
-http://www.fortunecity.de/wolkenkratzer/486/133/kick.zip
 
 # myhome.zip
 ftp://208.187.236.10/q3test/Maps/v1.08/untested/myhome.zip
