@@ -1137,7 +1137,9 @@ wasted.bsp
 wwdm.bsp
 
 # q1q3dm5.zip
+http://q3.zone.ru/ftp/q1q3dm5.zip
 http://www.planetq3.com/nana/files/maps/q1q3dm5.zip
 
-
+# q3q1e1m7a.zip
+http://members.xoom.com/Fragpole/q3q1e1m7a.zip
 

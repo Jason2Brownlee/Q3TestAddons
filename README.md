@@ -186,7 +186,7 @@ q3joe2.zip | q3joe2 for Q3Test v1.05
 q3q1dm1.zip | Quake1 DM1 for Q3Test
 q3q1dm4.zip | Quake1 DM4 for Q3Test
 q3q1e1m7.zip | Quake1 E1M7 for Q3Test
-q3q1e1m7a | Quake1 E1M7 for Q3Test
+q3q1e1m7a.zip | Quake1 E1M7 for Q3Test
 q3q3a.zip | q3q3a for Q3Test v1.05
 tim_dm1.zip | Quake3 IHV tim_dm1 for Q3Test v1.05
 wasted.zip | wasted for Q3Test v1.05

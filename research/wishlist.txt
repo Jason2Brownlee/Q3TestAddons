@@ -152,6 +152,7 @@ q3joe2.zip
 q3q1dm1.zip
 q3q1dm4.zip
 q3q1e1m7.zip
+q3q1e1m7a.zip
 q3q3a.zip
 q3test1b.zip
 q3test2b2.zip
