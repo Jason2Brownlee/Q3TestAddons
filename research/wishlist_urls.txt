@@ -543,9 +543,6 @@ http://members.tripod.com/~q3r00lz/q3q2e4m3.Zip
 http://www.planetq3.com/nana/files/maps/q3q2e4m3.zip
 http://www.quakefiles.com/files/download.php?filekey=q3aqqem1&d_url=http://www.planetq3.com/nana/files/maps/q3q2e4m3.zip
 
-# darkq2dm2.zip
-http://q3.zone.ru/darkman/darkq2dm2.zip
-
 # darkq2dm8.zip
 http://q3.zone.ru/darkman/darkq2dm8.zip
 

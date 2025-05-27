@@ -155,6 +155,7 @@ S20_dm2a.zip | S20_dm2a for Q3Test v1.05
 SPAZ.ZIP | SPAZ for Q3Test v1.05
 XxUBERxX.zip<br>uberfix.zip | XxUBERxX (60 maps!) for Q3Test v1.05
 [darkq2dm1.zip](bin/maps-105/darkq2dm1.zip) | Quake2 Q2DM1 "The Edge" for Q3Test (DARKQ2D1.BSP)
+[darkq2dm2.zip](bin/maps-105/darkq2dm2.zip) | Quake2 Q2DM2 for Q3Test (Q2Q3DM2.BSP)
 [q1q3dm3.zip](bin/maps-105/q1q3dm3.zip) | Quake1 DM3 for Q3Test (q1q3dm3.bsp)
 [q1q3dm4.zip](bin/maps-105/q1q3dm4.zip) | Quake1 DM4 for Q3Test (q1q3dm4.bsp)
 [q1q3dm6.zip](bin/maps-105/q1q3dm6.zip) | Quake1 DM6 for Q3Test (q1q3dm6z.bsp)
@@ -164,7 +165,6 @@ XxUBERxX.zip<br>uberfix.zip | XxUBERxX (60 maps!) for Q3Test v1.05
 [q3test2b2.bsp](bin/maps-105/q3test2b2.bsp)<br>q3test2b2.zip | q3test2b2 for Q3Test v1.05 (requires q3105b)
 aeroq3.zip | aeroq3 for Q3Test v1.05
 dakyne4-q3.zip | dakyne4-q3 for Q3Test v1.05
-darkq2dm2.zip | Map from Quake2 - q2dm2
 darkq2dm8.zip | Map from Quake2 - q2dm8
 deadlysins.zip | Deadly Sins for Q3Test v1.05
 dm3a.zip | dm3a for Q3Test v1.05
