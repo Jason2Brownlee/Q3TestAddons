@@ -263,7 +263,7 @@ ouch.zip | ouch for Q3Test v1.08
 overflow3.zip | overflow3 for Q3Test v1.08
 pq3m0.zip | pq3m0 for Q3Test v1.08
 pulquemaps.zip | pulquemaps for Q3Test v1.08
-q1q3dm5-108.zip | q1q3dm5 for Q3Test v1.08
+q1q3dm5-108.zip | Quake1 DM5 for Q3Test
 q2ctf5.zip | q2ctf5 for Q3Test v1.08
 q3a-e3.zip | q3a-e3 for Q3Test v1.08
 q3a-q3.zip | q3a-q3 for Q3Test v1.08

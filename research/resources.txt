@@ -85,6 +85,12 @@ https://web.archive.org/web/19991003200155/http://freestyle.splatterworld.de/
 	maps [done]
 https://web.archive.org/web/20010305121631/http://www.quakershome.de:80/filez.html
 	tools, maps, paks [done]
+https://web.archive.org/web/*/http://www2.memes.com/q3*
+https://web.archive.org/web/20021104222639/http://www2.memes.com/q3/
+	only archived maps after retail [done]
+https://groups.google.com/g/alt.games.quake3/c/MIwfuXk65iM/m/PFSd49zRBQUJ
+	long list of maps within XxUBERxX.zip
+	search for individual BSPs... [done, added to wishlist]
 
 TODO
 ====
@@ -93,8 +99,6 @@ https://web.archive.org/web/19991113223955/http://www.q3arena.pl/skiny.html
 	skins
 https://www.quaddicted.com/files/idgames2/utils/name_editor/
 	name makers
-https://groups.google.com/g/alt.games.quake3/c/MIwfuXk65iM/m/PFSd49zRBQUJ
-	long list of maps within XxUBERxX.zip
-	search for individual BSPs...
+
 
 
