@@ -598,9 +598,11 @@ ftp://208.187.236.10/q3test/Maps/v1.08/ibdm1.zip
 # pak91.zip
 http://www.quake.wplus.net/archiv/pak91.zip
 # pak9.zip
-http://www.quakefiles.com/supertech/pak9.zip
+http://bullseyecrosshairs.com/chq3t/jclark/pak9.zip
+http://www.bullseyecrosshairs.com/ch/creature/pak9.zip
 http://www.bullseyecrosshairs.com/chq3t/jclark/pak9.zip
 http://www.q3wfa.com/pak9.zip
+http://www.quakefiles.com/supertech/pak9.zip
 
 # keep.zip
 http://q3.zone.ru/ftp/maps/keep.zip
