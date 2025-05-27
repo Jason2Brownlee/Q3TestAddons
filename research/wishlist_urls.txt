@@ -1066,10 +1066,11 @@ http://www.valhalla.com.pl/quake3/pliki/q3atc04.zip
 http://www.quakershome.de:80/download/Q3%20Icons.zip
 
 # funnames2.zip
-http://www.quakershome.de:80/download/funnames2.zip
 http://ftp.telepac.pt/pub/idgames2/planetquake/borderfield/funnames2.zip
 http://www.q3a.de/files/funnames2.zip
 http://www.quake3.de/files/funnames2.zip
+http://www.quakershome.de/download/funnames2.zip
+http://www.quakershome.de:80/download/funnames2.zip
 
 # Q3Icons.zip
 http://rqa.df.ru/q3arena/q3icons.zip
@@ -1142,4 +1143,12 @@ http://www.planetq3.com/nana/files/maps/q1q3dm5.zip
 
 # q3q1e1m7a.zip
 http://members.xoom.com/Fragpole/q3q1e1m7a.zip
+
+# q1q3dm6z.zip
+ftp://208.187.236.10:21/q3test/Maps/v1.05/q1q3dm6z.zip
+http://members.xoom.com/Fragpole/q1q3dm6z.zip
+http://www.planetq3.com/nana/files/maps/q1q3dm6z.zip
+http://www.quake.de/FILES/quake3/maps/q1q3dm6z.zip
+http://www.quakefiles.com/files/download.php?filekey=q3aqqdmz1&d_url=http://www.planetq3.com/nana/files/maps/q1q3dm6z.zip
+http://www2.memes.com/quaker/q3/q1q3dm6z.zip
 

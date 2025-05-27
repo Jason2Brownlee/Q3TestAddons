@@ -388,6 +388,7 @@ https://www.quaddicted.com/webarchive/triptohell.info/moodles/testing/e1m1.zip
 # ouch.zip
 http://www.retroarchive.org/cdrom/nightowl-005/044A/OUCH.ZIP
 http://web.inter.nl.net:80/users/B.Vloon/gp2/ouch.zip
+http://web.inter.nl.net/users/B.Vloon/gp2/ouch.zip
 # q3atc04.zip
 http://dl.fileplanet.com/dl/dl.asp?borderfield/q3atc04.zip
 http://ftp.sunet.se/idgames2/planetquake/borderfield/q3atc04.zip
