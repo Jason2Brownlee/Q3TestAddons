@@ -304,6 +304,7 @@ http://www.q3arena.net/mentalvortex/md3view/download/Md3View-Mac_1.sit
 # md3view_v1_401.zip
 http://q3arena.net/mentalvortex/md3view/download/md3view_v1_401.zip
 http://quake3source.com/files/utilities/md3view_v1_401.zip
+http://www.q3arena.net/mentalvortex/md3view/download/md3view_v1_401.zip
 
 # q3105b.zip
 ftp://208.187.236.10:21/q3test/Maps/v1.05/q3105b.zip
