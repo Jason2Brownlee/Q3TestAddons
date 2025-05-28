@@ -299,6 +299,7 @@ http://q3.zone.ru/ftp/maps/two.zip
 
 # Md3View-Mac_1.sit
 http://q3arena.net/mentalvortex/md3view/download/Md3View-Mac_1.sit
+http://www.q3arena.net/mentalvortex/md3view/download/Md3View-Mac_1.sit
 
 # md3view_v1_401.zip
 http://q3arena.net/mentalvortex/md3view/download/md3view_v1_401.zip

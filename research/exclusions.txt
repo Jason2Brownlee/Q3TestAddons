@@ -418,6 +418,7 @@ https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/lvl/m-r/q3q1dm4.zip
 # q3test.zip
 http://ddt.formoza.ru/demos/q3test.zip
 http://voodooextreme.com/flypenguin/files/q3test.zip
+http://www.voodooextreme.com/flypenguin/files/q3test.zip
 http://ftp.sunet.se/planetquake/planethalflife/logos/q3test.zip
 http://www.fileplanet.com/dl/dl.asp?planethalflife/logos/q3test.zip
 http://www.fileplanet.com/dl/redir.asp?file=19761&archive=2&url=ftp://ftp.cdrom.com/pub/planetquake/planethalflife/logos/q3test.zip&filestring=planethalflife/logos/q3test.zip
