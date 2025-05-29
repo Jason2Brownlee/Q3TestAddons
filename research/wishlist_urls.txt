@@ -739,6 +739,7 @@ http://www.moneychair.demon.co.uk/quake3/funname/Q3name.zip
 http://people.a2000.nl/tscheff/q3name.zip
 http://members.home.com/broken1/q3name.zip
 http://website.lineone.net/~pimper/files/q3name.zip
+http://www.q3arena.pl/download/tools/q3name.zip
 
 # q2toq3t_102.zip
 http://www.quake.de/FILES/quake3/tool/q2toq3t_102.zip
