@@ -19,6 +19,7 @@ Q3TEST_Expansion_Pack.zip | Q3Test Expansion Pack (weapons, maps, skins)
 [q3thud.zip](bin/q3thud.zip) | q3a HUD Q3Test v1.05
 [q3tmaps.zip](bin/q3tmaps.zip) | Q3Test Maps (Q3TEST1b.bsp and Q3TEST2b.bsp), sounds, icons, crosshairs, etc.
 [sobpak7.zip](bin/sobpak7.zip) | Essobie's SOBPak7 (replacement graphics) Q3Test v1.05
+l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion (20+ maps)
 q3.zip | Collection of maps (q3test2h, km_portal, conv), bot support for Q3Test v1.05
 q3105b.zip | Pak to add weapons to maps in Q3Test v1.05
 
@@ -81,7 +82,6 @@ WizQ3maps.zip | Wizard's Q3test Server Maps
 [vision2.zip](bin/vision2.zip) | Visual improves to weapon firing
 core.pk3 | Q3dm17 for q3demotest
 geckopak.zip | Multiple Addons in one pak
-l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
 newskins.zip | New Skins
 pak9.zip | Hud and stuff
 pak91.zip | tim_dm1a and timdm2b maps for q3test
