@@ -1160,4 +1160,10 @@ http://www2.memes.com/quaker/q3/q1q3dm6z.zip
 ftp://24.31.27.145/c%3A/alex/ftp/pub/quake3source/Levels/q3update.zip
 http://wwqxs.gamepoint.net/q3/Q3update.zip
 
+# bloodyq3.zip
+ftp://24.31.27.145/c%3A/alex/ftp/pub/quake3source/Mods/bloodyq3.zip
+
+# visor.zip
+ftp://24.31.27.145/c%3A/alex/ftp/pub/quake3source/Models/visor.zip
+
 
