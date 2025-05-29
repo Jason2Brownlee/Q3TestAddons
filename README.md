@@ -10,36 +10,11 @@ For official quake3 releases from id Software, see the [Quake III Arena Archive]
 
 List of all known Q3Test addons.
 
-### Q3Test v? Mods/Packs
-
-File | Description
---- | ---
-386enh.zip | Extension to Q3
-Q3TEST_Expansion_Pack.zip | Q3Test Expansion Pack (weapons, maps, skins)
-Q3_Icons.zip | MAC's Q3 Icons
-RevRL.zip | Less rocket trail smoke
-WizQ3maps.zip | Wizard's Q3test Server Maps
-[VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
-[qXicons.zip](bin/qxicons.zip) | Quake 3 Icon Pack
-[sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
-[vision2.zip](bin/vision2.zip) | Visual improves to weapon firing
-core.pk3 | Q3dm17 for q3demotest
-geckopak.zip | Multiple Addons in one pak
-l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
-newskins.zip | New Skins
-pak9.zip | Hud and stuff
-pak91.zip | tim_dm1a and timdm2b maps for q3test
-q1visor.zip | Quake1 Player Sounds for Q3Test
-q3a_maps.zip | Q3Test Map Pack
-q3ausp10.zip | Unofficial Skinpack for Q3A Test
-q3dmpak2_5z.zip | q3dmpak2_5z map pak
-railgf1a.zip<br>[railfix.zip](bin/railfix.zip) | Replace the Railgun sound with the q2 railgun sound
-sodq3exp.zip | New numbers, sight and background for console
-
 ### Q3Test v1.05 Mods/Packs
 
 File | Description
 --- | ---
+Q3TEST_Expansion_Pack.zip | Q3Test Expansion Pack (weapons, maps, skins)
 [q3a_addon.zip](bin/q3a_addon.zip) | Pack of addons (Q3TEST3.bsp and Q3TEST4.bsp) for q3test v1.05
 [q3thud.zip](bin/q3thud.zip) | q3a HUD Q3Test v1.05
 [q3tmaps.zip](bin/q3tmaps.zip) | Q3Test Maps (Q3TEST1b.bsp and Q3TEST2b.bsp), sounds, icons, crosshairs, etc.
@@ -88,6 +63,31 @@ q3fm01.zip | q3fragme for Q3Test v1.09
 qxsounds.zip | QXsounds Q3Test v1.09
 railgunpak.zip | Railgun-Pak from Gecko Q3Test v1.09
 soundpak.zip | Sound-Pak from Gecko Q3Test v1.09
+
+### Q3Test v? Mods/Packs
+
+File | Description
+--- | ---
+386enh.zip | Extension to Q3
+Q3_Icons.zip | MAC's Q3 Icons
+RevRL.zip | Less rocket trail smoke
+WizQ3maps.zip | Wizard's Q3test Server Maps
+[VisorSkin1.zip](bin/VisorSkin1.zip) | Skins
+[qXicons.zip](bin/qxicons.zip) | Quake 3 Icon Pack
+[sobq3ch.zip](bin/sobq3ch.zip) | Alternate Crosshair
+[vision2.zip](bin/vision2.zip) | Visual improves to weapon firing
+core.pk3 | Q3dm17 for q3demotest
+geckopak.zip | Multiple Addons in one pak
+l33tq3a102.zip<br>l33t_101-102.zip | l33t Q3A partial conversion
+newskins.zip | New Skins
+pak9.zip | Hud and stuff
+pak91.zip | tim_dm1a and timdm2b maps for q3test
+q1visor.zip | Quake1 Player Sounds for Q3Test
+q3a_maps.zip | Q3Test Map Pack
+q3ausp10.zip | Unofficial Skinpack for Q3A Test
+q3dmpak2_5z.zip | q3dmpak2_5z map pak
+railgf1a.zip<br>[railfix.zip](bin/railfix.zip) | Replace the Railgun sound with the q2 railgun sound
+sodq3exp.zip | New numbers, sight and background for console
 
 ### Q3Test Tools
 
@@ -238,7 +238,7 @@ dmc-q1dm3.zip | Quake1 DM3 for Q3Test
 doc_q3dm1.zip | Quake1 DM1 for Q3Test
 doom2map1.zip | doom2map1 for Q3Test v1.08
 e1m1.zip | e1m1 for Q3Test v1.08
-extra_q3_maps.zip | extra_q3_maps for Q3Test v1.08
+extra_q3_maps.zip<br>extra_q3_maps.txt | extra_q3_maps for Q3Test v1.08
 fragtown.zip | fragtown for Q3Test v1.08
 fragtown10.zip | fragtown10 for Q3Test v1.08
 fragtwn1-q3.zip | fragtwn1-q3 for Q3Test v1.08
