@@ -53,6 +53,7 @@ pak9.zip
 q3a_maps.zip
 Q3_Icons.zip
 Q3Icons.zip
+q3update.zip
 
 # tools
 Md3View-Mac_1.sit

@@ -1156,3 +1156,8 @@ http://www.quake.de/FILES/quake3/maps/q1q3dm6z.zip
 http://www.quakefiles.com/files/download.php?filekey=q3aqqdmz1&d_url=http://www.planetq3.com/nana/files/maps/q1q3dm6z.zip
 http://www2.memes.com/quaker/q3/q1q3dm6z.zip
 
+# q3update.zip
+ftp://24.31.27.145/c%3A/alex/ftp/pub/quake3source/Levels/q3update.zip
+http://wwqxs.gamepoint.net/q3/Q3update.zip
+
+

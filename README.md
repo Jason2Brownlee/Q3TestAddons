@@ -44,6 +44,7 @@ q3addons.zip | Q3Test Addons (You need them to play King3 and GzTf)
 q3ctf103.zip | CTF for Q3T v1.08
 q3sounds.zip | Quake 3 Soundpack from CleanerWolf Q3Test v1.08
 q3test.zip | Q3Test 1.08 with 159 maps and skins
+q3update.zip | Collection of maps
 quadepak.zip | Q3 Erosion Pak Q3Test v1.08
 rail_christ.zip | Rail-ChRiSt-Pak 1 Q3Test v1.08
 railpak.zip | Rail-Pak Q3Test v1.08
