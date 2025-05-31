@@ -1013,6 +1013,10 @@ https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/talon/kick.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/tangential/kick.zip
 https://www.quaddicted.com/files/mirrors/quakerepo.net/uncategorized/maps/kick.zip
 # japanc.zip
+http://ftp2.gamespy.com/pub/cdrom/lvl/g-l/japanc.zip
+http://quake3mods.5assedmonkey.com/maps/japanc.zip
+http://www.quake3mods.net/maps/file.php3?Filename=Japanese%20Castles&link=http://ftp2.gamespy.com/pub/cdrom/lvl/g-l/japanc.zip
+http://www.quake3mods.net/maps/file.php3?Filename=Japanese%20Castles&link=http://quake3mods.5assedmonkey.com/maps/japanc.zip
 ftp://ftp.cdrom.com/pub/planetquake/lvl/g-l/japanc.zip
 ftp://ftp.cdrom.com/pub/planetquake/reliquary/japanc.zip
 ftp://ftp.mgon.com/q3center/maps/japanc.zip
