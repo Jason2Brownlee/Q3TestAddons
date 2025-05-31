@@ -904,6 +904,7 @@ http://members.xoom.com/quake3bots/files/gsctf1.zip
 ftp://208.187.236.10:21/quake3/maps%20ctf/gsctf1.zip
 ftp://quake2.telestream.com/quake3/maps%20ctf/gsctf1.zip
 http://geocities.com/undeaddemon/gsctf1.zip
+ftp://ftp.mgon.com/q3center/maps/gsctf1.zip
 
 # japanc.zip
 ftp://208.187.236.10/quake3/maps%20ctf/japanc.zip
@@ -1066,6 +1067,7 @@ http://q3arena.net/files/Java_MD3View_1_0beta.zip
 
 # q3atc04.zip
 http://www.valhalla.com.pl/quake3/pliki/q3atc04.zip
+http://www.q3arena.pl/download/tools/q3atc04.zip
 
 # Q3%20Icons.zip (Q3_Icons.zip)
 http://www.quakershome.de:80/download/Q3%20Icons.zip
