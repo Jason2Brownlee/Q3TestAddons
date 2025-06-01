@@ -57,6 +57,7 @@ https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/cineplex/2box4.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/signosoft/2box4.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/talon/2box4.zip
 # Arma5.zip
+http://www.quakeitalia.com/download/quake2/mappe/arma5.zip
 ftp://ftp.cdrom.com/pub/idgames2/quake2/levels/deathmatch/a-c/arma5.zip
 ftp://ftp.cdrom.com/pub/quake/quake2/levels/deathmatch/a-c/arma5.zip
 ftp://ftp.cdrom.com/pub/quake2/levels/deathmatch/a-c/arma5.zip
@@ -658,6 +659,7 @@ http://quake.spb.ru/other/goblin/DM3A.zip
 # fact3.zip
 http://www.planetquake.com/bootcamp/levels/fact3/fact3.zip
 # gdm3_q3.zip
+http://www.quakeitalia.com/download/quake3/mappe/gdm3_q3.zip
 http://ftp.sunet.se/idgames2/planetquake/lvl/g-l/gdm3_q3.zip
 http://www.gamers.org/pub/games/idgames2/planetquake/lvl/g-l/gdm3_q3.zip
 http://www.gamers.org/pub/idgames2/planetquake/lvl/g-l/gdm3_q3.zip
@@ -727,6 +729,7 @@ https://youfailit.net/pub/idgames/levels/doom2/deathmatch/j-l/keep.zip
 https://youfailit.net/pub/idgames/levels/doom2/j-l/keep.zip
 https://youfailit.net/pub/idgames/lmps/doom2/1.9/keep.zip
 # mq3.zip
+http://www.quakeitalia.com/download/quake3/mappe/mq3.zip
 ftp://ftp.dogpound.net/pub/q3/maps/mq3.zip
 http://dl.fileplanet.com/dl/dl.asp?reliquary/mq3.zip
 http://ftp.sunet.se/idgames2/planetquake/reliquary/mq3.zip
