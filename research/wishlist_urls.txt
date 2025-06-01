@@ -14,6 +14,7 @@ http://www.primorye.ru/quake/files/q3/Q3TEST_Expansion_Pack.zip
 http://www.q3arena.pl/download/add/Q3TEST_Expansion_Pack.zip
 http://www.quake3.dk/ftp/Q3TEST_Expansion_Pack.zip
 http://www.quakefiles.com/files/download.php?filekey=q3aqtestex1&d_url=http://www.hackfleisch.de/Q3TEST_Expansion_Pack.zip
+http://www.quake3stuff.com/downstats.asp?dlurl=http://www.hackfleisch.de/Q3TEST_Expansion_Pack.zip
 
 # RevRL.zip
 http://www.voodooextreme.com/reverend/Q3Arena/q3aGoodies/RLtrails/RevRL.zip
